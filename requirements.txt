@@ -1,0 +1,6 @@
+feedparser==6.0.14
+numpy==2.5.4
+PyYAML==6.0.3
+requests==2.34.2
+scikit-learn==1.9.1
+umap-learn==0.5.12

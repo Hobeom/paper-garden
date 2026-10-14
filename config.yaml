@@ -1,0 +1,79 @@
+user_name: "HoBeom"
+repo_name: "paper-garden"
+site_title: "Physical AI Daily"
+show_authors: True
+show_links: True
+# per arXiv query; large enough to catch up after a missed run
+max_results: 25
+
+# Explorer page (build_explorer.py): structured summaries with Gemini for
+# up to this many new papers per run (needs the GEMINI_API_KEY secret).
+# 0 = disabled.
+summary_per_run: 0
+summary_model: "gemini-2.5-flash"
+
+# Enrichment + related-paper graph (enrich.py, runs after the daily fetch).
+#  - Hugging Face paper API: upvotes, project page, code repo, stars, org
+#  - Semantic Scholar: references, citations and recommendations (graph)
+#  - expansion: papers that many *keyword-collected* papers point to are
+#    added to a topic. Bounded on purpose so it settles instead of drifting:
+#    only one hop from keyword-collected seeds, the candidate must match a
+#    topic's query phrases (and its categories), and at most
+#    max_new_per_run papers are added per run.
+enrich:
+  hf_per_run: 1500           # HF paper API lookups per run
+  s2_recs_per_run: 600       # Semantic Scholar recommendation lookups per run
+                             # (~15 min with S2_API_KEY; keyless runs are
+                             # throttled and stop at the back-off budget)
+  graph_expansion: True
+  min_score: 5               # distinct seed papers that must link a candidate
+  max_age_days: 365          # ignore older candidates (by arXiv id month)
+  max_new_per_run: 30
+  allowed_categories: ["cs.RO", "cs.CV", "cs.AI", "cs.LG", "cs.CL", "cs.HC", "eess.SY"]
+
+publish_readme: True
+publish_gitpage: True
+
+# Each topic: `queries` are OR-ed phrase searches over all arXiv fields
+# (sent 2 per request). Optional `categories` restricts results to those
+# arXiv categories, which keeps broad terms such as "world model" on-topic.
+keywords:
+    "Physical AI":
+        queries: ["Physical AI", "Embodied AI", "Embodied Intelligence", "Embodied Foundation Model", "Generalist Robot", "Robot Foundation Model"]
+        md_readme_path: 'arxiv/physical-ai/README.md'
+        json_readme_path: 'arxiv/physical-ai/data.json'
+    "Vision Language Action Model":
+        queries: ["Vision-Language-Action Model", "Vision Language Action Model", "VLA Model", "VLA Models"]
+        # "VLA" is also the Very Large Array telescope (astro-ph)
+        categories: ["cs.RO", "cs.CV", "cs.AI", "cs.LG", "cs.CL"]
+        md_readme_path: 'arxiv/vla-model/README.md'
+        json_readme_path: 'arxiv/vla-model/data.json'
+    "Robot & Agent":
+        queries: ["Embodied Agent", "Robot Learning", "Robot Policy", "Robot Policies", "Human-Robot", "Cross-Embodiment"]
+        md_readme_path: 'arxiv/robot-agent/README.md'
+        json_readme_path: 'arxiv/robot-agent/data.json'
+    "World Models":
+        queries: ["World Model", "World Models", "Video World Model", "Physical Simulation"]
+        categories: ["cs.RO", "cs.CV", "cs.AI", "cs.LG"]
+        md_readme_path: 'arxiv/world-models/README.md'
+        json_readme_path: 'arxiv/world-models/data.json'
+    "Robot Manipulation":
+        queries: ["Dexterous Manipulation", "Robotic Manipulation", "Bimanual Manipulation", "Visuotactile", "Grasping", "Imitation Learning"]
+        categories: ["cs.RO"]
+        md_readme_path: 'arxiv/robot-manipulation/README.md'
+        json_readme_path: 'arxiv/robot-manipulation/data.json'
+    "Humanoid & Locomotion":
+        queries: ["Humanoid Robot", "Humanoid", "Legged Locomotion", "Whole-Body Control", "Quadruped"]
+        categories: ["cs.RO"]
+        md_readme_path: 'arxiv/humanoid-locomotion/README.md'
+        json_readme_path: 'arxiv/humanoid-locomotion/data.json'
+    "Sim-to-Real":
+        queries: ["Sim-to-Real", "Sim2Real", "Real-to-Sim", "Digital Twin"]
+        categories: ["cs.RO", "cs.CV", "cs.LG"]
+        md_readme_path: 'arxiv/sim-to-real/README.md'
+        json_readme_path: 'arxiv/sim-to-real/data.json'
+    "Embodied Navigation & Driving":
+        queries: ["Vision-Language Navigation", "Embodied Navigation", "End-to-End Autonomous Driving", "Autonomous Driving"]
+        categories: ["cs.RO", "cs.CV"]
+        md_readme_path: 'arxiv/embodied-navigation/README.md'
+        json_readme_path: 'arxiv/embodied-navigation/data.json'

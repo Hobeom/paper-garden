@@ -8,6 +8,10 @@ on:
         type: choice
         options: [daily, weekly-links, hf-prefetch]
         default: daily
+  # a change to the pipeline settings runs the daily task once to verify it
+  push:
+    branches: [main]
+    paths: ['.github/workflows/update.yml', 'config.yaml', 'requirements.txt']
   schedule:
     # off the top of the hour, when many scheduled jobs hit arXiv at once
     - cron: "41 1,13 * * *"  # daily: fetch, enrich, build explorer

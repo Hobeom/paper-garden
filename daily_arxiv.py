@@ -242,7 +242,8 @@ def load_config(config_file: str) -> dict:
     with open(config_file, 'r', encoding='utf-8') as f:
         config_data = yaml.load(f, Loader=yaml.FullLoader)
     config_data['kv'] = {
-        k: build_subqueries(v['queries'], v.get('categories'))
+        k: build_subqueries(v['queries'], v.get('categories'),
+                            config_data.get('query_terms_per_request', 8))
         for k, v in config_data['keywords'].items()
     }
     logging.info(f'{config_data=}')

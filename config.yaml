@@ -3,8 +3,11 @@ repo_name: "paper-garden"
 site_title: "Physical AI Daily"
 show_authors: True
 show_links: True
-# per arXiv query; large enough to catch up after a missed run
-max_results: 25
+# per arXiv request; large enough to catch up after a missed run
+max_results: 100
+# phrases OR-ed into one arXiv request; a topic with more phrases is split.
+# Fewer requests means fewer HTTP 429 back-offs on shared Actions runners.
+query_terms_per_request: 8
 
 # Explorer page (build_explorer.py): structured summaries with Gemini for
 # up to this many new papers per run (needs the GEMINI_API_KEY secret).
@@ -35,8 +38,9 @@ publish_readme: True
 publish_gitpage: True
 
 # Each topic: `queries` are OR-ed phrase searches over all arXiv fields
-# (sent 2 per request). Optional `categories` restricts results to those
-# arXiv categories, which keeps broad terms such as "world model" on-topic.
+# (up to `query_terms_per_request` per request). Optional `categories`
+# restricts results to those arXiv categories, which keeps broad terms such
+# as "world model" on-topic.
 keywords:
     "Physical AI":
         queries: ["Physical AI", "Embodied AI", "Embodied Intelligence", "Embodied Foundation Model", "Generalist Robot", "Robot Foundation Model"]

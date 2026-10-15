@@ -81,7 +81,7 @@
 |**2026-10-10**|**In View or Out of View? A Vision-Aware Filter that Infers and Reacts to the Human's Field of View**|Mengxue Fu et.al.|[2610.14577v1](http://arxiv.org/abs/2610.14577v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.14577)|
 |**2026-10-10**|**Shared-Control Teleoperation of Omnidirectional Aerial Robots for Continuous Valve Rotation**|Jinjie Li et.al.|[2610.14478v1](http://arxiv.org/abs/2610.14478v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.14478)|
 |**2026-10-09**|**Memory Without Curation: Learning Multi-Stream Latent Memory for Robot Policies**|Yilin Wu et.al.|[2610.14406v1](http://arxiv.org/abs/2610.14406v1)|null|[αX↑5](https://alphaxiv.org/abs/2610.14406)|
-|**2026-10-09**|**Learning Transferable World-Action Models from Task-Paired Human Videos**|Jeongeun Park et.al.|[2610.14351v1](http://arxiv.org/abs/2610.14351v1)|null|[αX↑3](https://alphaxiv.org/abs/2610.14351)|
+|**2026-10-09**|**Learning Transferable World-Action Models from Task-Paired Human Videos**|Jeongeun Park et.al.|[2610.14351v1](http://arxiv.org/abs/2610.14351v1)|null|[🤗👍10](https://huggingface.co/papers/2610.14351) [αX↑3](https://alphaxiv.org/abs/2610.14351)|
 |**2026-10-09**|**Learning to See through Action: Predictive Curiosity for Robots**|Stelios Zarifis et.al.|[2610.14302v1](http://arxiv.org/abs/2610.14302v1)|null|[αX↑3](https://alphaxiv.org/abs/2610.14302)|
 |**2026-10-09**|**Chronos Policy: Learning Robot Policies on Physical Time**|Changhao Wang et.al.|[2610.13929v1](http://arxiv.org/abs/2610.13929v1)|null|[αX↑24](https://alphaxiv.org/abs/2610.13929)|
 |**2026-10-09**|**Dream to Remember: Continual Steering of Generalist Robot Policies with World Models**|Bahey Tharwat et.al.|[2610.13816v1](http://arxiv.org/abs/2610.13816v1)|null|[αX↑17](https://alphaxiv.org/abs/2610.13816)|
@@ -99,7 +99,7 @@
 |**2026-10-09**|**Human2Dex: Dexterous Robot Learning from Wrist-Centric Human Demonstrations**|Jiachen Zhang et.al.|[2610.13119v1](http://arxiv.org/abs/2610.13119v1)|null|[αX↑4](https://alphaxiv.org/abs/2610.13119)|
 |**2026-10-09**|**Forward Dynamics Models**|Zipei Ma et.al.|[2610.13117v1](http://arxiv.org/abs/2610.13117v1)|null|[αX↑13](https://alphaxiv.org/abs/2610.13117)|
 |**2026-10-13**|**ReAT: Residual Action Tokenization for Autoregressive Robot Policies**|Dijia Zhan et.al.|[2610.13093v2](http://arxiv.org/abs/2610.13093v2)|null|[αX↑0](https://alphaxiv.org/abs/2610.13093)|
-|**2026-10-09**|**EmbodiedCLBench: Evaluating Continual Learning for Self-Evolving Embodied Agents**|Jie Huang et.al.|[2610.13021v1](http://arxiv.org/abs/2610.13021v1)|[link](https://github.com/PKU-VaLuE-Lab/EmbodiedCLBench)|[🤗👍68](https://huggingface.co/papers/2610.13021) [αX↑8](https://alphaxiv.org/abs/2610.13021)|
+|**2026-10-09**|**EmbodiedCLBench: Evaluating Continual Learning for Self-Evolving Embodied Agents**|Jie Huang et.al.|[2610.13021v1](http://arxiv.org/abs/2610.13021v1)|[link](https://github.com/PKU-VaLuE-Lab/EmbodiedCLBench)|[🤗👍72](https://huggingface.co/papers/2610.13021) [αX↑8](https://alphaxiv.org/abs/2610.13021)|
 |**2026-10-09**|**CeDR-Nav: Cross-Embodiment Mapless Navigation via Offline Demonstration Recasting**|Xianghui Wang et.al.|[2610.13007v1](http://arxiv.org/abs/2610.13007v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.13007)|
 |**2026-10-09**|**JoyInside-VLM-Agent: Product-Conditioned Multimodal Policy Learning for Embodied Agents**|Gangyi Li et.al.|[2610.12957v1](http://arxiv.org/abs/2610.12957v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.12957)|
 |**2026-10-09**|**Evidence-Guided Counterfactual Learning for Long-Tailed Robotic Policies**|Weiwei Chen et.al.|[2610.12861v1](http://arxiv.org/abs/2610.12861v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.12861)|
@@ -1635,6 +1635,7 @@
 |**2025-12-08**|**FASTer: Toward Efficient Autoregressive Vision Language Action Modeling via Neural Action Tokenization**|Yicheng Liu et.al.|[2512.04952v2](http://arxiv.org/abs/2512.04952v2)|null|[αX↑62](https://alphaxiv.org/abs/2512.04952)|
 |**2025-11-20**|**Dexterity from Smart Lenses: Multi-Fingered Robot Manipulation with In-the-Wild Human Demonstrations**|Irmak Guzey et.al.|[2511.16661v1](http://arxiv.org/abs/2511.16661v1)|[link](https://github.com/irmakguzey/AINA)|[αX↑28](https://alphaxiv.org/abs/2511.16661)|
 |**2025-11-10**|**Real-to-Sim Robot Policy Evaluation with Gaussian Splatting Simulation of Soft-Body Interactions**|Kaifeng Zhang et.al.|[2511.04665v2](http://arxiv.org/abs/2511.04665v2)|[link](https://github.com/kywind/real2sim-eval)|[αX↑19](https://alphaxiv.org/abs/2511.04665)|
+|**2026-07-12**|**XR-1: Towards Versatile Vision-Language-Action Models via Learning Unified Vision-Motion Representations**|Shichao Fan et.al.|[2511.02776v3](http://arxiv.org/abs/2511.02776v3)|null|[αX↑22](https://alphaxiv.org/abs/2511.02776)|
 |**2026-03-25**|**Unified Diffusion VLA: Vision-Language-Action Model via Joint Discrete Denoising Diffusion Process**|Jiayi Chen et.al.|[2511.01718v2](http://arxiv.org/abs/2511.01718v2)|[link](https://github.com/OpenHelix-Team/UD-VLA)|[🤗👍7](https://huggingface.co/papers/2511.01718) [αX↑40](https://alphaxiv.org/abs/2511.01718)|
 
 <p align=right>(<a href="#">back to top</a>)</p>

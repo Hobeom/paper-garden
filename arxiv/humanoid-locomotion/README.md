@@ -1,6 +1,6 @@
 ## Humanoid & Locomotion
 
-### Updated on 2026.10.17
+### Updated on 2026.10.18
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -236,6 +236,7 @@
 |**2026-08-17**|**HAF: Adapting Generalist VLAs to Humanoid Whole-Body Loco-manipulation via Hierarchical Action Flow and Spectral Latent RL**|Langzhe Gu et.al.|[2608.16837v1](http://arxiv.org/abs/2608.16837v1)|null|[αX↑36](https://alphaxiv.org/abs/2608.16837)|
 |**2026-08-09**|**$ω$ -0: A Latent Predictive World Action Model for Concurrent Humanoid Loco-Manipulation**|Zhe Li et.al.|[2608.06375v2](http://arxiv.org/abs/2608.06375v2)|null|[αX↑102](https://alphaxiv.org/abs/2608.06375)|
 |**2026-10-11**|**Agentic Real2Sim: Physics-based World Modeling with Vision-Language Agents**|Guanxiong Chen et.al.|[2607.19190v5](http://arxiv.org/abs/2607.19190v5)|null|[αX↑76](https://alphaxiv.org/abs/2607.19190)|
+|**2026-07-13**|**A Minimalist Retargeting-Guided Reinforcement Learning Recipe for Dexterous Manipulation**|Yunhai Feng et.al.|[2607.11874v1](http://arxiv.org/abs/2607.11874v1)|null|[αX↑33](https://alphaxiv.org/abs/2607.11874)|
 |**2026-06-16**|**HumanoidArena: Benchmarking Egocentric Hierarchical Whole-body Learning**|Taowen Wang et.al.|[2606.17833v1](http://arxiv.org/abs/2606.17833v1)|null|[αX↑18](https://alphaxiv.org/abs/2606.17833)|
 |**2026-07-19**|**GenHOI: Contact-Aware Humanoid-Object Interaction by Imitating Generated Videos without Task-Specific Training**|Zhihai Bi et.al.|[2606.12995v2](http://arxiv.org/abs/2606.12995v2)|null|[αX↑18](https://alphaxiv.org/abs/2606.12995)|
 |**2026-06-08**|**MotionWAM: Towards Foundation World Action Models for Real-Time Humanoid Loco-Manipulation**|Jia Zheng et.al.|[2606.09215v1](http://arxiv.org/abs/2606.09215v1)|null|[αX↑62](https://alphaxiv.org/abs/2606.09215)|
@@ -245,6 +246,7 @@
 |**2026-02-27**|**OmniXtreme: Breaking the Generality Barrier in High-Dynamic Humanoid Control**|Yunshen Wang et.al.|[2602.23843v1](http://arxiv.org/abs/2602.23843v1)|[link](https://github.com/Perkins729/OmniXtreme)|[αX↑89](https://alphaxiv.org/abs/2602.23843)|
 |**2026-06-04**|**EgoHumanoid: Unlocking In-the-Wild Loco-Manipulation with Robot-Free Egocentric Demonstration**|Modi Shi et.al.|[2602.10106v2](http://arxiv.org/abs/2602.10106v2)|null|[🤗👍21](https://huggingface.co/papers/2602.10106) [αX↑55](https://alphaxiv.org/abs/2602.10106)|
 |**2026-01-07**|**PointWorld: Scaling 3D World Models for In-The-Wild Robotic Manipulation**|Wenlong Huang et.al.|[2601.03782v1](http://arxiv.org/abs/2601.03782v1)|[link](https://github.com/huangwl18/PointWorld)|[αX↑181](https://alphaxiv.org/abs/2601.03782)|
+|**2025-11-27**|**VIRAL: Visual Sim-to-Real at Scale for Humanoid Loco-Manipulation**|Tairan He et.al.|[2511.15200v2](http://arxiv.org/abs/2511.15200v2)|[link](https://github.com/NVlabs/GR00T-VisualSim2Real)|[αX↑78](https://alphaxiv.org/abs/2511.15200)|
 |**2026-09-26**|**SPIDER: Scalable Physics-Informed Dexterous Retargeting**|Chaoyi Pan et.al.|[2511.09484v3](http://arxiv.org/abs/2511.09484v3)|[link](https://github.com/jc-bao/spider-project)|[αX↑54](https://alphaxiv.org/abs/2511.09484)|
 |**2026-08-13**|**SONIC: Supersizing Motion Tracking for Natural Humanoid Whole-Body Control**|Zhengyi Luo et.al.|[2511.07820v4](http://arxiv.org/abs/2511.07820v4)|[link](https://github.com/NVlabs/GR00T-WholeBodyControl)|[αX↑141](https://alphaxiv.org/abs/2511.07820)|
 |**2025-11-06**|**BFM-Zero: A Promptable Behavioral Foundation Model for Humanoid Control Using Unsupervised Reinforcement Learning**|Yitang Li et.al.|[2511.04131v1](http://arxiv.org/abs/2511.04131v1)|[link](https://github.com/LeCAR-Lab/BFM-Zero)|[αX↑72](https://alphaxiv.org/abs/2511.04131)|

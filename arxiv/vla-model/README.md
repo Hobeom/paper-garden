@@ -1,6 +1,6 @@
 ## Vision Language Action Model
 
-### Updated on 2026.10.17
+### Updated on 2026.10.18
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -736,6 +736,7 @@
 |**2026-05-30**|**PaCo-VLA: Passivity-Shielded Compliance Prior for Contact-Rich Vision-Language-Action Manipulation**|Haofan Cao et.al.|[2606.00515v1](http://arxiv.org/abs/2606.00515v1)|null|[αX↑1](https://alphaxiv.org/abs/2606.00515)|
 |**2026-05-29**|**Closed-Loop Neural Activation Control in Vision-Language-Action Models**|Abhijith Babu et.al.|[2606.00269v1](http://arxiv.org/abs/2606.00269v1)|null|[αX↑0](https://alphaxiv.org/abs/2606.00269)|
 |**2026-05-29**|**Per-Group Error, Not Total MSE: Fine-Tuning Vision-Language-Action Models for 11-DoF Mobile Manipulation**|Pau Montagut Bofi et.al.|[2606.00253v1](http://arxiv.org/abs/2606.00253v1)|[link](https://github.com/paumontagut/per-group-mse-vla)|[αX↑0](https://alphaxiv.org/abs/2606.00253)|
+|**2026-05-18**|**From Human Videos to Robot Manipulation: A Survey on Scalable Vision-Language-Action Learning with Human-Centric Data**|Zhiyuan Feng et.al.|[2606.00054v1](http://arxiv.org/abs/2606.00054v1)|[link](https://github.com/AaronFengZY/HumanCentricToVLA-Survey)|[αX↑11](https://alphaxiv.org/abs/2606.00054)|
 |**2026-05-29**|**DriveMA: Driving Vision-Language-Action Models with verifiable Meta-Actions**|Weicheng Zheng et.al.|[2605.31271v1](http://arxiv.org/abs/2605.31271v1)|null|[αX↑2](https://alphaxiv.org/abs/2605.31271)|
 |**2026-05-29**|**HARP-VLA: Human-Robot Aligned Representation Learning for Vision-Language-Action Model**|Xiang Zhu et.al.|[2605.31234v1](http://arxiv.org/abs/2605.31234v1)|null|[αX↑6](https://alphaxiv.org/abs/2605.31234)|
 |**2026-05-29**|**Can Aerial VLA Models Cooperate? Evaluating Closed-Loop Air-Ground Coordination with CARLA-Air**|Tianle Zeng et.al.|[2605.31066v1](http://arxiv.org/abs/2605.31066v1)|[link](https://github.com/louiszengCN/CarlaAir)|[αX↑1](https://alphaxiv.org/abs/2605.31066)|

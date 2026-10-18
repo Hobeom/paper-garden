@@ -1,6 +1,6 @@
 ## Physical AI
 
-### Updated on 2026.10.17
+### Updated on 2026.10.18
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 |**2026-09-09**|**HaWMPO: Hallucination-Aware World Model-based Policy Optimization for Generalist Robot Policy**|Zengjue Chen et.al.|[2609.09941v1](http://arxiv.org/abs/2609.09941v1)|null|[αX↑12](https://alphaxiv.org/abs/2609.09941)|
 |**2026-09-13**|**Proxy Policy Steering**|Chuanruo Ning et.al.|[2609.09148v3](http://arxiv.org/abs/2609.09148v3)|null|[αX↑58](https://alphaxiv.org/abs/2609.09148)|
 |**2026-08-31**|**CAER: Causal Action Effect Reweighting for World Model Training**|Jianjie Fang et.al.|[2608.30897v1](http://arxiv.org/abs/2608.30897v1)|null|[αX↑12](https://alphaxiv.org/abs/2608.30897)|
+|**2026-08-28**|**RoboPhys-3D: A Comprehensive Embodied World Model Evaluation via 3D Reconstruction**|Tianyi Wang et.al.|[2608.28718v1](http://arxiv.org/abs/2608.28718v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.28718)|
 |**2026-10-08**|**LM-X: Explainable Vision--Language--Action Modeling via Progress, Event, and Uncertainty Prediction**|Jin Lou et.al.|[2608.25757v5](http://arxiv.org/abs/2608.25757v5)|[link](https://github.com/loongOpen/LoongWu-LM-X-VLA)|[αX↑12](https://alphaxiv.org/abs/2608.25757)|
 |**2026-08-14**|**PRM-as-a-Judge 1.5: A Toolkit for Robot Process Assessment**|Yuyang Liu et.al.|[2608.14284v1](http://arxiv.org/abs/2608.14284v1)|[link](https://github.com/YuyangLiu2003/PRM-as-a-Judge)|[🤗👍14](https://huggingface.co/papers/2608.14284) [αX↑50](https://alphaxiv.org/abs/2608.14284)|
 |**2026-08-10**|**WorldSimProbe: Diagnosing Simulator Faithfulness in Action-Conditioned World Models for Embodied Manipulation**|Peterson Co et.al.|[2608.09298v1](http://arxiv.org/abs/2608.09298v1)|null|[αX↑34](https://alphaxiv.org/abs/2608.09298)|
@@ -164,11 +165,15 @@
 |**2026-07-30**|**LeapBot-WA: World-Anchor Action Models via Predictive Latent Alignments**|Pei Liu et.al.|[2607.23969v2](http://arxiv.org/abs/2607.23969v2)|[link](https://github.com/LeapWM/leapbot-wa)|[αX↑49](https://alphaxiv.org/abs/2607.23969)|
 |**2026-09-10**|**PAVXploreRL: Physical-Action-Visual World Model Reinforcement Learning with Action Exploration**|Han Wang et.al.|[2607.16602v3](http://arxiv.org/abs/2607.16602v3)|[link](https://github.com/Social-AI-Studio/PAVXploreRL)|[αX↑11](https://alphaxiv.org/abs/2607.16602)|
 |**2026-07-13**|**Xiaomi-Robotics-U0: Unified Embodied Synthesis with World Foundation Model**|Xinghang Li et.al.|[2607.11643v1](http://arxiv.org/abs/2607.11643v1)|null|[🤗👍45](https://huggingface.co/papers/2607.11643) [αX↑155](https://alphaxiv.org/abs/2607.11643)|
+|**2026-08-18**|**EmbodiedGen V2: An Agentic, Simulation-Ready 3D World Engine for Embodied AI**|Xinjie Wang et.al.|[2607.07459v3](http://arxiv.org/abs/2607.07459v3)|null|[αX↑102](https://alphaxiv.org/abs/2607.07459)|
 |**2026-07-08**|**RoboDojo: A Unified Sim-and-Real Benchmark for Comprehensive Evaluation of Generalist Robot Manipulation Policies**|Tianxing Chen et.al.|[2607.04434v3](http://arxiv.org/abs/2607.04434v3)|[link](https://github.com/RoboDojo-Benchmark/RoboDojo)|[🤗👍15](https://huggingface.co/papers/2607.04434) [αX↑290](https://alphaxiv.org/abs/2607.04434)|
 |**2026-07-05**|**ACE-Brain-0.5: A Unified Embodied Foundational Model for Physical Agentic AI**|ACE-Brain Team et.al.|[2607.04426v1](http://arxiv.org/abs/2607.04426v1)|null|[αX↑29](https://alphaxiv.org/abs/2607.04426)|
 |**2026-07-04**|**WSA $_1$ : a 3D-Centric World-Spatial-Action Model for Generalizable Robot Control**|Jiahao Jiang et.al.|[2607.03941v1](http://arxiv.org/abs/2607.03941v1)|null|[αX↑16](https://alphaxiv.org/abs/2607.03941)|
 |**2026-07-03**|**Embodied Operators and Benchmarking: Toward Reusable and Deployable Embodied Intelligence Systems**|Junwu Xiong et.al.|[2607.03283v1](http://arxiv.org/abs/2607.03283v1)|null|[αX↑14](https://alphaxiv.org/abs/2607.03283)|
+|**2026-06-24**|**Causal-rCM: A Unified Teacher-Forcing and Self-Forcing Open Recipe for Autoregressive Diffusion Distillation in Streaming Video Generation and Interactive World Models**|Kaiwen Zheng et.al.|[2606.25473v1](http://arxiv.org/abs/2606.25473v1)|[link](https://github.com/NVlabs/rcm)|[🤗👍25](https://huggingface.co/papers/2606.25473) [αX↑46](https://alphaxiv.org/abs/2606.25473)|
+|**2026-06-15**|**SafeDojo: Safe Reinforcement Learning for VLA via Interactive World Model**|Kai Tang et.al.|[2606.20698v1](http://arxiv.org/abs/2606.20698v1)|null|[αX↑15](https://alphaxiv.org/abs/2606.20698)|
 |**2026-06-26**|**SC3-Eval: Evaluating Robot Foundation Models via Self-Consistent Video Generation**|Wei-Cheng Tseng et.al.|[2606.18610v3](http://arxiv.org/abs/2606.18610v3)|null|[αX↑75](https://alphaxiv.org/abs/2606.18610)|
+|**2026-06-16**|**WEAVER, Better, Faster, Longer: An Effective World Model for Robotic Manipulation**|Arnav Kumar Jain et.al.|[2606.13672v2](http://arxiv.org/abs/2606.13672v2)|[link](https://github.com/arnavkj1995/WEAVER)|[🤗👍4](https://huggingface.co/papers/2606.13672) [αX↑49](https://alphaxiv.org/abs/2606.13672)|
 |**2026-07-11**|**Embodied-R1.5: Evolving Physical Intelligence via Embodied Foundation Models**|Yifu Yuan et.al.|[2606.11324v2](http://arxiv.org/abs/2606.11324v2)|[link](https://github.com/pickxiguapi/Embodied-R1.5)|[🤗👍170](https://huggingface.co/papers/2606.11324) [αX↑60](https://alphaxiv.org/abs/2606.11324)|
 |**2026-06-09**|**HiMem-WAM: Hierarchical Memory-Gated World Action Models for Robotic Manipulation**|Xiaoquan Sun et.al.|[2606.10363v1](http://arxiv.org/abs/2606.10363v1)|null|[αX↑39](https://alphaxiv.org/abs/2606.10363)|
 |**2026-06-05**|**Dreaming when Necessary: Advancing World Action Models with Adaptive Multi-Modal Reasoning**|Yinzhou Tang et.al.|[2606.07089v1](http://arxiv.org/abs/2606.07089v1)|null|[αX↑21](https://alphaxiv.org/abs/2606.07089)|
@@ -177,6 +182,7 @@
 |**2026-05-31**|**Towards Interactive Video World Modeling: Frontiers, Challenges, Benchmarks, and Future Trends**|Jiuming Liu et.al.|[2606.01164v1](http://arxiv.org/abs/2606.01164v1)|[link](https://github.com/liujiuming123/Awesome-Interactive-World-Model)|[αX↑28](https://alphaxiv.org/abs/2606.01164)|
 |**2026-05-23**|**Silent Failures in Physical AI: A Literature Review of Runtime Action Authorization for Autonomous Systems**|Barak Or et.al.|[2606.00090v1](http://arxiv.org/abs/2606.00090v1)|null|[🤗👍6](https://huggingface.co/papers/2606.00090) [αX↑3](https://alphaxiv.org/abs/2606.00090)|
 |**2026-05-18**|**WorldArena 2.0: Extending Embodied World Model Benchmarking on Modality, Functionality and Platform**|Yu Shang et.al.|[2605.17912v1](http://arxiv.org/abs/2605.17912v1)|null|[αX↑32](https://alphaxiv.org/abs/2605.17912)|
+|**2026-05-13**|**TouchAnything: A Dataset and Framework for Bimanual Tactile Estimation from Egocentric Video**|Jianyi Zhou et.al.|[2605.13083v1](http://arxiv.org/abs/2605.13083v1)|[link](https://github.com/Jianyi2004/TouchAnything)|[αX↑18](https://alphaxiv.org/abs/2605.13083)|
 |**2026-04-30**|**Being-H0.7: A Latent World-Action Model from Egocentric Videos**|Hao Luo et.al.|[2605.00078v1](http://arxiv.org/abs/2605.00078v1)|null|[αX↑76](https://alphaxiv.org/abs/2605.00078)|
 |**2026-06-03**|**DiscreteRTC: Discrete Diffusion Policies are Natural Asynchronous Executors**|Pengcheng Wang et.al.|[2604.25050v3](http://arxiv.org/abs/2604.25050v3)|[link](https://github.com/outsider86/DiscreteRTC-Kinetix)|[αX↑15](https://alphaxiv.org/abs/2604.25050)|
 |**2026-04-23**|**JoyAI-RA 0.1: A Foundation Model for Robotic Autonomy**|Tianle Zhang et.al.|[2604.20100v2](http://arxiv.org/abs/2604.20100v2)|null|[αX↑48](https://alphaxiv.org/abs/2604.20100)|

@@ -1,6 +1,6 @@
 ## Sim-to-Real
 
-### Updated on 2026.10.17
+### Updated on 2026.10.18
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -155,8 +155,10 @@
 |**2026-09-16**|**TacBPM: A Tactile-conditioned Behavior Prior Model for Dexterous Reorientation**|Jie Yin et.al.|[2609.18174v1](http://arxiv.org/abs/2609.18174v1)|null|[αX↑13](https://alphaxiv.org/abs/2609.18174)|
 |**2026-09-03**|**One Demonstration, Many Objects: Generalizing Manipulation via Local Contact Geometry**|Satvik Sharma et.al.|[2609.01938v2](http://arxiv.org/abs/2609.01938v2)|null|[αX↑140](https://alphaxiv.org/abs/2609.01938)|
 |**2026-09-25**|**SUN: Agentic Robot Policy Learning with Persistent Task Programs**|Weiqi Wang et.al.|[2608.31167v2](http://arxiv.org/abs/2608.31167v2)|null|[αX↑3](https://alphaxiv.org/abs/2608.31167)|
+|**2026-08-19**|**ADEPT: Accelerating Dexterity via Pre-Training and Post-Training using Reinforcement Learning**|Jayjun Lee et.al.|[2608.19182v1](http://arxiv.org/abs/2608.19182v1)|null|[αX↑32](https://alphaxiv.org/abs/2608.19182)|
 |**2026-08-29**|**FetchMan: Learning Visual Humanoid Loco-Manipulation Policies from Simulated Experiences**|Omar Rayyan et.al.|[2608.17027v2](http://arxiv.org/abs/2608.17027v2)|null|[αX↑50](https://alphaxiv.org/abs/2608.17027)|
 |**2026-10-11**|**Agentic Real2Sim: Physics-based World Modeling with Vision-Language Agents**|Guanxiong Chen et.al.|[2607.19190v5](http://arxiv.org/abs/2607.19190v5)|null|[αX↑76](https://alphaxiv.org/abs/2607.19190)|
+|**2026-07-13**|**A Minimalist Retargeting-Guided Reinforcement Learning Recipe for Dexterous Manipulation**|Yunhai Feng et.al.|[2607.11874v1](http://arxiv.org/abs/2607.11874v1)|null|[αX↑33](https://alphaxiv.org/abs/2607.11874)|
 |**2026-06-30**|**ASPIRE: Agentic /Skills Discovery for Robotics**|Runyu Lu et.al.|[2607.00272v1](http://arxiv.org/abs/2607.00272v1)|null|[🤗👍24](https://huggingface.co/papers/2607.00272) [αX↑125](https://alphaxiv.org/abs/2607.00272)|
 |**2026-06-03**|**GRAIL: Generating Humanoid Loco-Manipulation from 3D Assets and Video Priors**|Tianyi Xie et.al.|[2606.05160v1](http://arxiv.org/abs/2606.05160v1)|[link](https://github.com/NVlabs/GRAIL)|[🤗👍8](https://huggingface.co/papers/2606.05160) [αX↑64](https://alphaxiv.org/abs/2606.05160)|
 |**2026-04-10**|**SIM1: Physics-Aligned Simulator as Zero-Shot Data Scaler in Deformable Worlds**|Yunsong Zhou et.al.|[2604.08544v2](http://arxiv.org/abs/2604.08544v2)|[link](https://github.com/InternRobotics/SIM1)|[🤗👍16](https://huggingface.co/papers/2604.08544) [αX↑27](https://alphaxiv.org/abs/2604.08544)|
@@ -164,6 +166,7 @@
 |**2026-02-27**|**OmniXtreme: Breaking the Generality Barrier in High-Dynamic Humanoid Control**|Yunshen Wang et.al.|[2602.23843v1](http://arxiv.org/abs/2602.23843v1)|[link](https://github.com/Perkins729/OmniXtreme)|[αX↑89](https://alphaxiv.org/abs/2602.23843)|
 |**2026-10-06**|**SimToolReal: An Object-Centric Policy for Zero-Shot Dexterous Tool Manipulation**|Kushal Kedia et.al.|[2602.16863v3](http://arxiv.org/abs/2602.16863v3)|[link](https://github.com/tylerlum/simtoolreal)|[🤗👍18](https://huggingface.co/papers/2602.16863) [αX↑49](https://alphaxiv.org/abs/2602.16863)|
 |**2025-11-20**|**InternData-A1: Pioneering High-Fidelity Synthetic Data for Pre-training Generalist Policy**|Yang Tian et.al.|[2511.16651v1](http://arxiv.org/abs/2511.16651v1)|null|[αX↑63](https://alphaxiv.org/abs/2511.16651)|
+|**2025-11-27**|**VIRAL: Visual Sim-to-Real at Scale for Humanoid Loco-Manipulation**|Tairan He et.al.|[2511.15200v2](http://arxiv.org/abs/2511.15200v2)|[link](https://github.com/NVlabs/GR00T-VisualSim2Real)|[αX↑78](https://alphaxiv.org/abs/2511.15200)|
 |**2025-11-10**|**Real-to-Sim Robot Policy Evaluation with Gaussian Splatting Simulation of Soft-Body Interactions**|Kaifeng Zhang et.al.|[2511.04665v2](http://arxiv.org/abs/2511.04665v2)|[link](https://github.com/kywind/real2sim-eval)|[αX↑19](https://alphaxiv.org/abs/2511.04665)|
 |**2025-11-06**|**BFM-Zero: A Promptable Behavioral Foundation Model for Humanoid Control Using Unsupervised Reinforcement Learning**|Yitang Li et.al.|[2511.04131v1](http://arxiv.org/abs/2511.04131v1)|[link](https://github.com/LeCAR-Lab/BFM-Zero)|[αX↑72](https://alphaxiv.org/abs/2511.04131)|
 |**2026-02-24**|**World Simulation with Video Foundation Models for Physical AI**|NVIDIA et.al.|[2511.00062v2](http://arxiv.org/abs/2511.00062v2)|[link](https://github.com/nvidia-cosmos/cosmos-predict2.5)|[🤗👍45](https://huggingface.co/papers/2511.00062) [αX↑118](https://alphaxiv.org/abs/2511.00062)|

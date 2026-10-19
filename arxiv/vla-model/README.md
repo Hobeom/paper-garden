@@ -1,9 +1,19 @@
 ## Vision Language Action Model
 
-### Updated on 2026.10.18
+### Updated on 2026.10.19
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-10-16**|**Enhancing Visual Task-Redirection Attacks on Vision-Language-Action Models via Closed-Loop Optimization**|Chunjin Ye et.al.|[2610.23566v1](http://arxiv.org/abs/2610.23566v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.23566)|
+|**2026-10-16**|**Look Before You Act: Bridging Active Perception and Vision-Language-Action Models via Observation-Aligned Data Adaptation**|Jiawei Geng et.al.|[2610.23378v1](http://arxiv.org/abs/2610.23378v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.23378)|
+|**2026-10-16**|**From Sliding Windows to Self-evolving Lifelong Memory: A Dual-perspective Survey of Memory Paradigms for Long-Horizon Robotics VLA Models**|Yong Wang et.al.|[2610.23319v1](http://arxiv.org/abs/2610.23319v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.23319)|
+|**2026-10-16**|**CoEvolve: Self-Evolving Code Policies from Skills to Strategies for Humanoid Robots**|Zicheng Liu et.al.|[2610.23288v1](http://arxiv.org/abs/2610.23288v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.23288)|
+|**2026-10-16**|**NestedVLA: Learning to Consolidate and Generate Skills for Vision-Language-Action Models**|Guodong Du et.al.|[2610.23271v1](http://arxiv.org/abs/2610.23271v1)|[link](https://github.com/WanyuGroup/NeurIPS2026-NestedVLA)|[αX↑0](https://alphaxiv.org/abs/2610.23271)|
+|**2026-10-16**|**GRASP: Global-Local Representation Alignment and Spatial-Physical Grounding for Bimanual Robotic Manipulation**|Zeyuan Ren et.al.|[2610.23123v1](http://arxiv.org/abs/2610.23123v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.23123)|
+|**2026-10-16**|**Unifying Embodied Foundation Models via a Model-to-Policy Formulation**|Xinyi Hong et.al.|[2610.23053v1](http://arxiv.org/abs/2610.23053v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.23053)|
+|**2026-10-16**|**VLA-Fabric: Learning Interaction for Composable Multi-Arm VLA Agents**|Chenglong Zhang et.al.|[2610.23018v1](http://arxiv.org/abs/2610.23018v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.23018)|
+|**2026-10-16**|**MambaAct: Efficient Mamba Action Experts for Flow-Matching Vision-Language-Action Models**|Khuyen Pham et.al.|[2610.22951v1](http://arxiv.org/abs/2610.22951v1)|[link](https://github.com/giakhuyendihoc/MambaAct)|[αX↑0](https://alphaxiv.org/abs/2610.22951)|
+|**2026-10-15**|**When Plans Change, Remember: Replanning-Guided Visual Memory for Vision-Language-Action Models**|Victoria Smelova et.al.|[2610.22556v1](http://arxiv.org/abs/2610.22556v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.22556)|
 |**2026-10-15**|**REKI: Registering Knowledge in VLAs**|Juliette Marrie et.al.|[2610.22178v1](http://arxiv.org/abs/2610.22178v1)|[link](https://github.com/kyutai-labs/reki)|[αX↑9](https://alphaxiv.org/abs/2610.22178)|
 |**2026-10-15**|**FastVLA: Task-Conditioned and Temporally Adaptive Visual Token Compression for Efficient Vision-Language-Action Models**|Jiuyi Xu et.al.|[2610.22146v1](http://arxiv.org/abs/2610.22146v1)|[link](https://github.com/jiuyixu25/FastVLA)|[αX↑5](https://alphaxiv.org/abs/2610.22146)|
 |**2026-10-15**|**Memory as Weights: Internalizing Long-Term History for Streaming Videos**|Zhuoming Liu et.al.|[2610.22070v1](http://arxiv.org/abs/2610.22070v1)|null|[αX↑8](https://alphaxiv.org/abs/2610.22070)|
@@ -1427,6 +1437,7 @@
 |**2025-12-10**|**UniUGP: Unifying Understanding, Generation, and Planing For End-to-end Autonomous Driving**|Hao Lu et.al.|[2512.09864](https://arxiv.org/abs/2512.09864)|null|[🤗👍12](https://huggingface.co/papers/2512.09864) [αX↑54](https://alphaxiv.org/abs/2512.09864)|
 |**2025-12-10**|**GLaD: Geometric Latent Distillation for Vision-Language-Action Models**|Minghao Guo et.al.|[2512.09619](https://arxiv.org/abs/2512.09619)|null|[αX↑24](https://alphaxiv.org/abs/2512.09619)|
 |**2025-12-10**|**Mind to Hand: Purposeful Robotic Control via Embodied Reasoning**|Peijun Tang et.al.|[2512.08580](https://arxiv.org/abs/2512.08580)|null|[αX↑50](https://alphaxiv.org/abs/2512.08580)|
+|**2025-12-21**|**Task adaptation of Vision-Language-Action model: 1st Place Solution for the 2025 BEHAVIOR Challenge**|Ilia Larchenko et.al.|[2512.06951v2](http://arxiv.org/abs/2512.06951v2)|[link](https://github.com/IliaLarchenko/behavior-1k-solution)|[🤗👍4](https://huggingface.co/papers/2512.06951) [αX↑49](https://alphaxiv.org/abs/2512.06951)|
 |**2025-12-23**|**STARE-VLA: Progressive Stage-Aware Reinforcement for Fine-Tuning Vision-Language-Action Models**|Feng Xu et.al.|[2512.05107v2](http://arxiv.org/abs/2512.05107v2)|null|[αX↑31](https://alphaxiv.org/abs/2512.05107)|
 |**2025-12-08**|**FASTer: Toward Efficient Autoregressive Vision Language Action Modeling via Neural Action Tokenization**|Yicheng Liu et.al.|[2512.04952v2](http://arxiv.org/abs/2512.04952v2)|null|[αX↑62](https://alphaxiv.org/abs/2512.04952)|
 |**2026-03-31**|**VLA Models Are More Generalizable Than You Think: Revisiting Physical and Spatial Modeling**|Weiqi Li et.al.|[2512.02902v2](http://arxiv.org/abs/2512.02902v2)|null|[αX↑39](https://alphaxiv.org/abs/2512.02902)|
@@ -1439,6 +1450,7 @@
 |**2026-05-30**|**RynnVLA-002: A Unified Vision-Language-Action and World Model**|Jun Cen et.al.|[2511.17502v3](http://arxiv.org/abs/2511.17502v3)|[link](https://github.com/alibaba-damo-academy/RynnVLA-002)|[🤗👍28](https://huggingface.co/papers/2511.17502) [αX↑99](https://alphaxiv.org/abs/2511.17502)|
 |**2025-11-20**|**InternData-A1: Pioneering High-Fidelity Synthetic Data for Pre-training Generalist Policy**|Yang Tian et.al.|[2511.16651v1](http://arxiv.org/abs/2511.16651v1)|null|[αX↑63](https://alphaxiv.org/abs/2511.16651)|
 |**2025-12-11**|**When Alignment Fails: Multimodal Adversarial Attacks on Vision-Language-Action Models**|Yuping Yan et.al.|[2511.16203v3](http://arxiv.org/abs/2511.16203v3)|null|[αX↑23](https://alphaxiv.org/abs/2511.16203)|
+|**2026-02-23**|**Mantis: A Versatile Vision-Language-Action Model with Disentangled Visual Foresight**|Yi Yang et.al.|[2511.16175v2](http://arxiv.org/abs/2511.16175v2)|[link](https://github.com/zhijie-group/Mantis)|[🤗👍12](https://huggingface.co/papers/2511.16175) [αX↑46](https://alphaxiv.org/abs/2511.16175)|
 |**2025-11-18**|**NORA-1.5: A Vision-Language-Action Model Trained using World Model- and Action-based Preference Rewards**|Chia-Yu Hung et.al.|[2511.14659v1](http://arxiv.org/abs/2511.14659v1)|[link](https://github.com/declare-lab/nora-1.5)|[🤗👍13](https://huggingface.co/papers/2511.14659) [αX↑78](https://alphaxiv.org/abs/2511.14659)|
 |**2025-11-12**|**MAP-VLA: Memory-Augmented Prompting for Vision-Language-Action Model in Robotic Manipulation**|Runhao Li et.al.|[2511.09516v1](http://arxiv.org/abs/2511.09516v1)|null|[αX↑22](https://alphaxiv.org/abs/2511.09516)|
 |**2025-12-05**|**Evo-1: Lightweight Vision-Language-Action Model with Preserved Semantic Alignment**|Tao Lin et.al.|[2511.04555v2](http://arxiv.org/abs/2511.04555v2)|[link](https://github.com/MINT-SJTU/Evo-1)|[αX↑55](https://alphaxiv.org/abs/2511.04555)|

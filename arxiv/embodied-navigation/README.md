@@ -1,11 +1,17 @@
 ## Embodied Navigation & Driving
 
-### Updated on 2026.10.18
+### Updated on 2026.10.19
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-10-16**|**PanoBench: A Panoptic Occupancy Prediction Benchmark for Autonomous Driving**|Yi Feng et.al.|[2610.23537v1](http://arxiv.org/abs/2610.23537v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.23537)|
+|**2026-10-16**|**STC-MGNet: Spatial-Temporal-Channel Attention-Enhanced Multimodal Graph Network for Pedestrian Intention Prediction**|Yuanzhe Li et.al.|[2610.23356v1](http://arxiv.org/abs/2610.23356v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.23356)|
+|**2026-10-16**|**Expand-and-Prune: Test-Time Candidate-Space Adaptation for End-to-End Autonomous Driving**|Fabian Schmidt et.al.|[2610.23262v1](http://arxiv.org/abs/2610.23262v1)|[link](https://github.com/iis-esslingen/Expand-and-Prune)|[αX↑0](https://alphaxiv.org/abs/2610.23262)|
+|**2026-10-16**|**SimpleVLN: Towards Simple and Frontier Vision-Language Navigation**|Lingyi Hong et.al.|[2610.23203v1](http://arxiv.org/abs/2610.23203v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.23203)|
+|**2026-10-16**|**STRIDE: Evaluating Spatiotemporal Reasoning in Driving Edge Cases**|Lieqi Liu et.al.|[2610.22795v1](http://arxiv.org/abs/2610.22795v1)|[link](https://github.com/PlusLabNLP/STRIDE)|[αX↑0](https://alphaxiv.org/abs/2610.22795)|
+|**2026-10-15**|**DriveWorld3D Evidence Constrained 3D World Modeling and Generative Simulation for Real-World Autonomous Driving**|Wei Wang et.al.|[2610.22450v1](http://arxiv.org/abs/2610.22450v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.22450)|
 |**2026-10-15**|**FutureLift: Lifting Trajectory Proposals into Bidirectional Future Graphs for Motion Forecasting**|Daniel Grimm et.al.|[2610.22215v1](http://arxiv.org/abs/2610.22215v1)|null|[αX↑3](https://alphaxiv.org/abs/2610.22215)|
-|**2026-10-15**|**FALCON: FPGA-Accelerated Latency-Certifiable Occupancy Networks for Camera-Based Autonomous Driving**|Haohua Que et.al.|[2610.22143v1](http://arxiv.org/abs/2610.22143v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.22143)|
+|**2026-10-16**|**FALCON: FPGA-Accelerated Latency-Certifiable Occupancy Networks for Camera-Based Autonomous Driving**|Haohua Que et.al.|[2610.22143v2](http://arxiv.org/abs/2610.22143v2)|null|[αX↑2](https://alphaxiv.org/abs/2610.22143)|
 |**2026-10-15**|**GRID-Planner: Graph-Structured Relational Reward Shaping for Diffusion Planning**|Zhao Yang et.al.|[2610.21984v1](http://arxiv.org/abs/2610.21984v1)|[link](https://github.com/yangzhaojason/GRID-Planner)|[αX↑3](https://alphaxiv.org/abs/2610.21984)|
 |**2026-10-15**|**X-Fly: Learning to Reach and Stop in Full-Chunk Aerial Vision-Language Navigation**|Ruibin Ju et.al.|[2610.21450v1](http://arxiv.org/abs/2610.21450v1)|[link](https://github.com/JuliusJu572/x-fly)|[αX↑3](https://alphaxiv.org/abs/2610.21450)|
 |**2026-10-15**|**SpaceCache: Intermediate Feature Reuse for Efficient Semantic Segmentation on Point Cloud Streams**|Dongheon Yang et.al.|[2610.21207v1](http://arxiv.org/abs/2610.21207v1)|[link](https://github.com/YangDongHeon/SpaceCache)|[αX↑3](https://alphaxiv.org/abs/2610.21207)|
@@ -141,6 +147,7 @@
 |**2026-09-27**|**VehDyn: A Driving World Model Benchmark for Vehicle Dynamics**|Tianyi Wang et.al.|[2609.33264v1](http://arxiv.org/abs/2609.33264v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.33264)|
 |**2026-09-26**|**FINE: Future-Informed Navigation Encoding for Data-Efficient Vision-Language Navigation**|Khang H. Nguyen et.al.|[2609.32855v1](http://arxiv.org/abs/2609.32855v1)|null|[αX↑9](https://alphaxiv.org/abs/2609.32855)|
 |**2026-09-25**|**SatNav: A Scalable Benchmark for Long-Horizon UAV Vision-Language Navigation from Satellite Imagery**|Jiajun Jiang et.al.|[2609.31507v1](http://arxiv.org/abs/2609.31507v1)|[link](https://github.com/Eku127/SatNav)|[🤗👍4](https://huggingface.co/papers/2609.31507) [αX↑11](https://alphaxiv.org/abs/2609.31507)|
+|**2026-09-25**|**Evaluation Is All You Need for Multi-Modal Autonomous Driving**|Zeyu He et.al.|[2609.30818v1](http://arxiv.org/abs/2609.30818v1)|null|[αX↑9](https://alphaxiv.org/abs/2609.30818)|
 |**2026-09-25**|**NavGen: Visual Generative Models as a Scalable Data Engine for Embodied 3D Navigation**|Xijie Huang et.al.|[2609.30770v1](http://arxiv.org/abs/2609.30770v1)|null|[αX↑5](https://alphaxiv.org/abs/2609.30770)|
 |**2026-09-25**|**GPT-6-Astra Lights Up Embodied Navigation: Evaluation in Zero-Shot Vision-and-Language Navigation in Continuous Environments**|Guangzhao Dai et.al.|[2609.29861v2](http://arxiv.org/abs/2609.29861v2)|null|[αX↑28](https://alphaxiv.org/abs/2609.29861)|
 |**2026-09-30**|**NaviScale: Generating Large-Scale Semantic Map Datasets for Object Navigation**|Chuanlin Lan et.al.|[2609.27218v2](http://arxiv.org/abs/2609.27218v2)|null|[αX↑5](https://alphaxiv.org/abs/2609.27218)|

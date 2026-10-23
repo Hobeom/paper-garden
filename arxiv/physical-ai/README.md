@@ -1,10 +1,15 @@
 ## Physical AI
 
-### Updated on 2026.10.22
+### Updated on 2026.10.23
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-10-21**|**Robot Generalization Beyond Volume: The Diversity Path via Zero-Shot Capabilities**|Rafael Felix et.al.|[2610.29829v1](http://arxiv.org/abs/2610.29829v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.29829)|
+|**2026-10-22**|**Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success**|Yunfei Xie et.al.|[2610.31670v1](http://arxiv.org/abs/2610.31670v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.31670)|
+|**2026-10-22**|**Learning Robot Behavior Priors from Non-Robotic Synthetic Data**|Mateusz Odrowaz-Sypniewski et.al.|[2610.31275v1](http://arxiv.org/abs/2610.31275v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.31275)|
+|**2026-10-22**|**Co^2Gen: Collaboratively Generating Task Plans for Decentralized Multi-Robot and Human Collaboration**|Yi Loo et.al.|[2610.30671v1](http://arxiv.org/abs/2610.30671v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.30671)|
+|**2026-10-22**|**OASIS: Online Anchor-centric Scene Inference System for Open-Vocabulary Retrieval and Navigation in Dynamic Environments**|Kaiyao Liao et.al.|[2610.30589v1](http://arxiv.org/abs/2610.30589v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.30589)|
+|**2026-10-21**|**Self-Distilling Future Video Representations for World Action Models**|Huiwon Jang et.al.|[2610.30320v1](http://arxiv.org/abs/2610.30320v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.30320)|
+|**2026-10-22**|**Robot Generalization Beyond Volume: The Diversity Path via Zero-Shot Capabilities**|Rafael Felix et.al.|[2610.29829v2](http://arxiv.org/abs/2610.29829v2)|null|[αX↑0](https://alphaxiv.org/abs/2610.29829)|
 |**2026-10-21**|**Toward Recursive Self-Improvement in Physical AI**|Meng Luo et.al.|[2610.29677v1](http://arxiv.org/abs/2610.29677v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.29677)|
 |**2026-10-21**|**Training in Deployment: Human-in-the-loop Online Post-Training for Robot Manipulation**|Chun Gu et.al.|[2610.29264v1](http://arxiv.org/abs/2610.29264v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.29264)|
 |**2026-10-21**|**Failure Modes of Vision-Language Models for Human Activity Understanding in Thermal HRI**|Han Hu et.al.|[2610.29244v1](http://arxiv.org/abs/2610.29244v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.29244)|
@@ -19,21 +24,21 @@
 |**2026-10-21**|**PaceVLA: Adaptive Temporal Action Quantization in Vision-Language-Action Models**|Hojin Jeon et.al.|[2610.25961v2](http://arxiv.org/abs/2610.25961v2)|null|[αX↑2](https://alphaxiv.org/abs/2610.25961)|
 |**2026-10-19**|**Motor compound fault diagnosis using an attention-based cross-talk architecture**|Wonjun Yi et.al.|[2610.25893v1](http://arxiv.org/abs/2610.25893v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.25893)|
 |**2026-10-18**|**Adaptive Bendpoint Formation in Octopus-Inspired Soft Continuum Arms**|Jessica Gumowski et.al.|[2610.25585v1](http://arxiv.org/abs/2610.25585v1)|null|[αX↑3](https://alphaxiv.org/abs/2610.25585)|
-|**2026-10-18**|**TILDE: Teacher-in-the-Loop Distillation from Embodied Foundation Models**|Yuxiang Lu et.al.|[2610.25376v1](http://arxiv.org/abs/2610.25376v1)|null|[αX↑3](https://alphaxiv.org/abs/2610.25376)|
+|**2026-10-18**|**TILDE: Teacher-in-the-Loop Distillation from Embodied Foundation Models**|Yuxiang Lu et.al.|[2610.25376v1](http://arxiv.org/abs/2610.25376v1)|null|[αX↑4](https://alphaxiv.org/abs/2610.25376)|
 |**2026-10-18**|**Compile Once, Run Cheap: Frozen, Portable Skills for Embodied Agents, and What Recursive Self-Improvement Adds**|Jingwen Bai et.al.|[2610.25114v1](http://arxiv.org/abs/2610.25114v1)|[link](https://github.com/Orillusion/embodied-skill-rsi)|[αX↑3](https://alphaxiv.org/abs/2610.25114)|
 |**2026-10-17**|**Refuse the Harm, Complete the Task via Graph-of-Rules Planning for LLM-Enabled Robots**|Ali Taheri et.al.|[2610.24603v1](http://arxiv.org/abs/2610.24603v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.24603)|
 |**2026-10-17**|**LIBERO-Pro2.0: A Benchmark for Evaluating the Robustness of Embodied Foundation Models**|Xueyang Zhou et.al.|[2610.24587v1](http://arxiv.org/abs/2610.24587v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.24587)|
-|**2026-10-17**|**FlashRT-PAI: Fast Kernels Are Not Fast Pipelines for Physical AI Inference**|Liang Su et.al.|[2610.24349v1](http://arxiv.org/abs/2610.24349v1)|[link](https://github.com/flashrt-project/FlashRT)|[αX↑4](https://alphaxiv.org/abs/2610.24349)|
+|**2026-10-17**|**FlashRT-PAI: Fast Kernels Are Not Fast Pipelines for Physical AI Inference**|Liang Su et.al.|[2610.24349v1](http://arxiv.org/abs/2610.24349v1)|[link](https://github.com/flashrt-project/FlashRT)|[αX↑6](https://alphaxiv.org/abs/2610.24349)|
 |**2026-10-16**|**How exposed is work to robotics? Occupational, industry, and geographic measures**|Sebastian Sartor et.al.|[2610.24267v1](http://arxiv.org/abs/2610.24267v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.24267)|
-|**2026-10-16**|**AWAM: Active Trajectory-Conditioned View Imagination for Robust Robot Manipulation**|Jiawei Geng et.al.|[2610.23396v1](http://arxiv.org/abs/2610.23396v1)|null|[αX↑7](https://alphaxiv.org/abs/2610.23396)|
+|**2026-10-16**|**AWAM: Active Trajectory-Conditioned View Imagination for Robust Robot Manipulation**|Jiawei Geng et.al.|[2610.23396v1](http://arxiv.org/abs/2610.23396v1)|null|[αX↑8](https://alphaxiv.org/abs/2610.23396)|
 |**2026-10-19**|**NestedVLA: Learning to Consolidate and Generate Skills for Vision-Language-Action Models**|Guodong Du et.al.|[2610.23271v2](http://arxiv.org/abs/2610.23271v2)|[link](https://github.com/WanyuGroup/NeurIPS2026-NestedVLA)|[αX↑3](https://alphaxiv.org/abs/2610.23271)|
-|**2026-10-16**|**LonGaussian: Tracking Foundation Priors for Long-Context Feedforward Gaussian Reconstruction**|Zhoufeng Xie et.al.|[2610.23250v1](http://arxiv.org/abs/2610.23250v1)|[link](https://github.com/aBearKeeper/LonGaussian)|[αX↑8](https://alphaxiv.org/abs/2610.23250)|
+|**2026-10-16**|**LonGaussian: Tracking Foundation Priors for Long-Context Feedforward Gaussian Reconstruction**|Zhoufeng Xie et.al.|[2610.23250v1](http://arxiv.org/abs/2610.23250v1)|[link](https://github.com/aBearKeeper/LonGaussian)|[αX↑9](https://alphaxiv.org/abs/2610.23250)|
 |**2026-10-16**|**Unifying Embodied Foundation Models via a Model-to-Policy Formulation**|Xinyi Hong et.al.|[2610.23053v1](http://arxiv.org/abs/2610.23053v1)|null|[αX↑4](https://alphaxiv.org/abs/2610.23053)|
-|**2026-10-16**|**VLA-Fabric: Learning Interaction for Composable Multi-Arm VLA Agents**|Chenglong Zhang et.al.|[2610.23018v1](http://arxiv.org/abs/2610.23018v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.23018)|
+|**2026-10-16**|**VLA-Fabric: Learning Interaction for Composable Multi-Arm VLA Agents**|Chenglong Zhang et.al.|[2610.23018v1](http://arxiv.org/abs/2610.23018v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.23018)|
 |**2026-10-16**|**MambaAct: Efficient Mamba Action Experts for Flow-Matching Vision-Language-Action Models**|Khuyen Pham et.al.|[2610.22951v1](http://arxiv.org/abs/2610.22951v1)|[link](https://github.com/giakhuyendihoc/MambaAct)|[αX↑3](https://alphaxiv.org/abs/2610.22951)|
-|**2026-10-16**|**Sample-Efficient Reinforcement Learning for Policy Improvement via Flow-Reversed Action Anchors**|Carl Qi et.al.|[2610.22852v1](http://arxiv.org/abs/2610.22852v1)|null|[αX↑3](https://alphaxiv.org/abs/2610.22852)|
-|**2026-10-15**|**Scaling Online Exploration for Robot Agents**|Runhan Huang et.al.|[2610.22496v1](http://arxiv.org/abs/2610.22496v1)|null|[αX↑40](https://alphaxiv.org/abs/2610.22496)|
-|**2026-10-19**|**Has GPT-6-Astra Achieved Embodied Intelligence?**|SenseNova et.al.|[2610.22471v2](http://arxiv.org/abs/2610.22471v2)|[link](https://github.com/OpenSenseNova/SenseNova-RoboRSI)|[🤗👍463](https://huggingface.co/papers/2610.22471) [αX↑53](https://alphaxiv.org/abs/2610.22471)|
+|**2026-10-16**|**Sample-Efficient Reinforcement Learning for Policy Improvement via Flow-Reversed Action Anchors**|Carl Qi et.al.|[2610.22852v1](http://arxiv.org/abs/2610.22852v1)|null|[αX↑4](https://alphaxiv.org/abs/2610.22852)|
+|**2026-10-15**|**Scaling Online Exploration for Robot Agents**|Runhan Huang et.al.|[2610.22496v1](http://arxiv.org/abs/2610.22496v1)|null|[αX↑51](https://alphaxiv.org/abs/2610.22496)|
+|**2026-10-19**|**Has GPT-6-Astra Achieved Embodied Intelligence?**|SenseNova et.al.|[2610.22471v2](http://arxiv.org/abs/2610.22471v2)|[link](https://github.com/OpenSenseNova/SenseNova-RoboRSI)|[🤗👍463](https://huggingface.co/papers/2610.22471) [αX↑64](https://alphaxiv.org/abs/2610.22471)|
 |**2026-10-15**|**Value as Memory: Online Value-Guided Post-training for General Robot Policies**|Wenye Yu et.al.|[2610.22368v1](http://arxiv.org/abs/2610.22368v1)|null|[αX↑23](https://alphaxiv.org/abs/2610.22368)|
 |**2026-10-15**|**Spark-0: Scaling Spatially Aligned Tactile Pretraining for Robot Dexterous Manipulation**|Tianxing Chen et.al.|[2610.22342v1](http://arxiv.org/abs/2610.22342v1)|null|[αX↑35](https://alphaxiv.org/abs/2610.22342)|
 |**2026-10-15**|**Context Matters! Social, Spatial, and Semantic Coordination with an Embodied Agent in Immersive Analytics**|Andrew Cunningham et.al.|[2610.21484v1](http://arxiv.org/abs/2610.21484v1)|null|[αX↑3](https://alphaxiv.org/abs/2610.21484)|

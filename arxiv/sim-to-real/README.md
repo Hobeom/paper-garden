@@ -1,9 +1,12 @@
 ## Sim-to-Real
 
-### Updated on 2026.10.22
+### Updated on 2026.10.23
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-10-22**|**In-Context Learning World Models for Robot Dual-Arm Manipulation of Soft Garment with Partial Observations**|Hengyi Sim et.al.|[2610.30988v1](http://arxiv.org/abs/2610.30988v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.30988)|
+|**2026-10-22**|**Evaluating Type-1 Diabetes Digital Twins by Decision Quality**|Victor Li et.al.|[2610.30577v1](http://arxiv.org/abs/2610.30577v1)|[link](https://github.com/Veeeeeee7/T1D-Digital-Twin-Benchmark)|[αX↑0](https://alphaxiv.org/abs/2610.30577)|
+|**2026-10-21**|**When Reconstruction Is Not Enough: Doubly Robust Counterfactual and Interventional Mediation Analysis with Learned Multimodal Representations**|Cong Cao et.al.|[2610.30220v1](http://arxiv.org/abs/2610.30220v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.30220)|
 |**2026-10-21**|**Distance Field Driven Reinforcement Learning for Reactive and Robust Collision Avoidance**|Taiga Ikeshima et.al.|[2610.29452v1](http://arxiv.org/abs/2610.29452v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.29452)|
 |**2026-10-21**|**PRISM: Learning Realistic Depth via Physics-Grounded Noise Disentanglement with Semantic-Geometric Collaboration**|Xiujian Liang et.al.|[2610.29432v1](http://arxiv.org/abs/2610.29432v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.29432)|
 |**2026-10-21**|**NeuralSRender: G-Buffer Guided Video Diffusion for Sim-to-Real Rendering**|Yipeng Lu et.al.|[2610.29200v1](http://arxiv.org/abs/2610.29200v1)|[link](https://github.com/WHU-USI3DV/NeuralSRender)|[αX↑0](https://alphaxiv.org/abs/2610.29200)|
@@ -27,12 +30,12 @@
 |**2026-10-17**|**BodyBridge: Grounded Body Layers for Sim-to-Real Translation of Vulnerable Road Users**|Mark Azer et.al.|[2610.24436v1](http://arxiv.org/abs/2610.24436v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.24436)|
 |**2026-10-16**|**Data-Driven Resource Aggregation for Scalable Digital Twin and Simulation Model Generation**|Yucheng Wu et.al.|[2610.24126v1](http://arxiv.org/abs/2610.24126v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.24126)|
 |**2026-10-16**|**CLARO: Clutter Aware Robot Orchestrator for Open-Vocabulary Grasping using VLM Agents**|Sungsu Kim et.al.|[2610.24016v1](http://arxiv.org/abs/2610.24016v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.24016)|
-|**2026-10-16**|**Blind Precise Assembly: Proprioceptive Sim-to-Real Peg-in-Hole for Diverse Parts**|Antonia Bronars et.al.|[2610.23849v1](http://arxiv.org/abs/2610.23849v1)|null|[αX↑20](https://alphaxiv.org/abs/2610.23849)|
-|**2026-10-16**|**Quality-of-Transmission Estimation in Quantum Networks: Compute, Simulate, or Learn?**|Anis Bekri et.al.|[2610.23827v1](http://arxiv.org/abs/2610.23827v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.23827)|
-|**2026-10-16**|**Self-Building Labs**|Jiaru Bai et.al.|[2610.23826v1](http://arxiv.org/abs/2610.23826v1)|null|[αX↑15](https://alphaxiv.org/abs/2610.23826)|
-|**2026-10-16**|**No Eyes, No Problem: What Does Touch Contribute to Blind Baoding Ball Manipulation?**|Ayush Deshmukh et.al.|[2610.23438v1](http://arxiv.org/abs/2610.23438v1)|null|[αX↑5](https://alphaxiv.org/abs/2610.23438)|
-|**2026-10-16**|**PASS: A Trustworthy Precision Approach Simulation System for CAT III Integrity Algorithm Development**|Lang Zhu et.al.|[2610.23019v1](http://arxiv.org/abs/2610.23019v1)|null|[αX↑1](https://alphaxiv.org/abs/2610.23019)|
-|**2026-10-15**|**Embodiment-Classifier Guidance: Transferring Frozen VLAs Across Robot Dynamics without Demonstrations**|Devin Han et.al.|[2610.22576v1](http://arxiv.org/abs/2610.22576v1)|null|[αX↑5](https://alphaxiv.org/abs/2610.22576)|
+|**2026-10-16**|**Blind Precise Assembly: Proprioceptive Sim-to-Real Peg-in-Hole for Diverse Parts**|Antonia Bronars et.al.|[2610.23849v1](http://arxiv.org/abs/2610.23849v1)|null|[αX↑24](https://alphaxiv.org/abs/2610.23849)|
+|**2026-10-16**|**Quality-of-Transmission Estimation in Quantum Networks: Compute, Simulate, or Learn?**|Anis Bekri et.al.|[2610.23827v1](http://arxiv.org/abs/2610.23827v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.23827)|
+|**2026-10-16**|**Self-Building Labs**|Jiaru Bai et.al.|[2610.23826v1](http://arxiv.org/abs/2610.23826v1)|null|[αX↑20](https://alphaxiv.org/abs/2610.23826)|
+|**2026-10-16**|**No Eyes, No Problem: What Does Touch Contribute to Blind Baoding Ball Manipulation?**|Ayush Deshmukh et.al.|[2610.23438v1](http://arxiv.org/abs/2610.23438v1)|null|[αX↑6](https://alphaxiv.org/abs/2610.23438)|
+|**2026-10-16**|**PASS: A Trustworthy Precision Approach Simulation System for CAT III Integrity Algorithm Development**|Lang Zhu et.al.|[2610.23019v1](http://arxiv.org/abs/2610.23019v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.23019)|
+|**2026-10-15**|**Embodiment-Classifier Guidance: Transferring Frozen VLAs Across Robot Dynamics without Demonstrations**|Devin Han et.al.|[2610.22576v1](http://arxiv.org/abs/2610.22576v1)|null|[αX↑7](https://alphaxiv.org/abs/2610.22576)|
 |**2026-10-15**|**Generative adversarial networks with Monte Carlo dropout uncertainty quantification for structural health monitoring: Fibre Bragg grating data augmentation comparison in Hawk T1A aircraft**|Alvaro Peiro et.al.|[2610.22436v1](http://arxiv.org/abs/2610.22436v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.22436)|
 |**2026-10-15**|**Dexterity from Supervised Play**|Botao He et.al.|[2610.22340v1](http://arxiv.org/abs/2610.22340v1)|[link](https://github.com/irmakguzey/tactile-dexterity)|[αX↑25](https://alphaxiv.org/abs/2610.22340)|
 |**2026-10-15**|**Sim-to-Real Reinforcement Learning for Path-Safe Target Reaching in Robotic Harvesting of Hydroponic Lettuce**|Al Bashir et.al.|[2610.22337v1](http://arxiv.org/abs/2610.22337v1)|null|[αX↑5](https://alphaxiv.org/abs/2610.22337)|

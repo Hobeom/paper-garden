@@ -1,6 +1,6 @@
 ## Embodied Navigation & Driving
 
-### Updated on 2026.10.31
+### Updated on 2026.11.01
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -24,9 +24,9 @@
 |**2026-10-24**|**C-DFF: Concept-Level Diagnostics for Mechanism Parity in Simulation-Based Validation of Autonomous Driving Perception**|Danial Safaei et.al.|[2610.33760v1](http://arxiv.org/abs/2610.33760v1)|null|[αX↑7](https://alphaxiv.org/abs/2610.33760)|
 |**2026-10-24**|**Road Infrastructure Perception for Autonomous Driving: Taxonomy, Representations, Tasks, and Challenges**|Guoyang Zhao et.al.|[2610.33758v1](http://arxiv.org/abs/2610.33758v1)|null|[αX↑3](https://alphaxiv.org/abs/2610.33758)|
 |**2026-10-24**|**FreqPKC: Frequency-Aware PeakConv for Radar Semantic Segmentation**|Yangyong Deng et.al.|[2610.33504v1](http://arxiv.org/abs/2610.33504v1)|null|[αX↑3](https://alphaxiv.org/abs/2610.33504)|
-|**2026-10-23**|**SP-Guide: Enhancing Aerial Vision-Language Navigation with Spatial Priors**|Haoxiang Tang et.al.|[2610.32697v1](http://arxiv.org/abs/2610.32697v1)|null|[αX↑7](https://alphaxiv.org/abs/2610.32697)|
-|**2026-10-23**|**Robust Offset-Free Lane-Keeping Control Framework for Vision-Only Automated Vehicles**|Der-Hau Lee et.al.|[2610.32666v1](http://arxiv.org/abs/2610.32666v1)|null|[αX↑4](https://alphaxiv.org/abs/2610.32666)|
-|**2026-10-23**|**DriveOSS: Dataset and Benchmark for 3D Anomaly Segmentation and Open-set Semantic Segmentation in Autonomous Driving**|Zhiran Yan et.al.|[2610.32612v1](http://arxiv.org/abs/2610.32612v1)|[link](https://github.com/chrisyan/DriveOSS)|[αX↑6](https://alphaxiv.org/abs/2610.32612)|
+|**2026-10-23**|**SP-Guide: Enhancing Aerial Vision-Language Navigation with Spatial Priors**|Haoxiang Tang et.al.|[2610.32697v1](http://arxiv.org/abs/2610.32697v1)|null|[αX↑9](https://alphaxiv.org/abs/2610.32697)|
+|**2026-10-23**|**Robust Offset-Free Lane-Keeping Control Framework for Vision-Only Automated Vehicles**|Der-Hau Lee et.al.|[2610.32666v1](http://arxiv.org/abs/2610.32666v1)|null|[αX↑5](https://alphaxiv.org/abs/2610.32666)|
+|**2026-10-23**|**DriveOSS: Dataset and Benchmark for 3D Anomaly Segmentation and Open-set Semantic Segmentation in Autonomous Driving**|Zhiran Yan et.al.|[2610.32612v1](http://arxiv.org/abs/2610.32612v1)|[link](https://github.com/chrisyan/DriveOSS)|[αX↑7](https://alphaxiv.org/abs/2610.32612)|
 |**2026-10-23**|**Towards Effective and Transferable Physical Camouflage against Multi-View BEV-based 3D Perception in Autonomous Driving**|Linye Lyu et.al.|[2610.32230v1](http://arxiv.org/abs/2610.32230v1)|[link](https://github.com/WAVE-AT-IDEA/BEVCA)|[αX↑3](https://alphaxiv.org/abs/2610.32230)|
 |**2026-10-22**|**RaSFNet: Ray-aligned and Scan-aware Fusion Network for LiDAR Semantic Segmentation**|Chuang Chen et.al.|[2610.31186v1](http://arxiv.org/abs/2610.31186v1)|null|[αX↑7](https://alphaxiv.org/abs/2610.31186)|
 |**2026-10-22**|**Causal Analysis of Failures of Cyber-Physical Systems with Continuous Inputs**|Tom Yaacov et.al.|[2610.30737v1](http://arxiv.org/abs/2610.30737v1)|null|[αX↑9](https://alphaxiv.org/abs/2610.30737)|
@@ -84,7 +84,7 @@
 |**2026-10-12**|**AUGUstus: Autonomous Driving VLA Model with Unified Generation and Understanding**|Yuqi Ye et.al.|[2610.16985v1](http://arxiv.org/abs/2610.16985v1)|[link](https://github.com/haha-yuki-haha/AUGUstus)|[🤗👍5](https://huggingface.co/papers/2610.16985) [αX↑19](https://alphaxiv.org/abs/2610.16985)|
 |**2026-10-12**|**ConDenseDrive: Knowledge-Dense, Token-Sparse Visual Encoder for End-to-End Autonomous Driving**|Shengzhen Li et.al.|[2610.16908v1](http://arxiv.org/abs/2610.16908v1)|null|[αX↑21](https://alphaxiv.org/abs/2610.16908)|
 |**2026-10-12**|**Mining Cross-Modal Perception Gaps in Autonomous Driving: When Camera and LiDAR Disagree**|Hongsen Cao et.al.|[2610.16906v1](http://arxiv.org/abs/2610.16906v1)|null|[αX↑7](https://alphaxiv.org/abs/2610.16906)|
-|**2026-10-12**|**Language2Drive: Do Vision-Language-Action Models Really Follow the Instructions in Autonomous Driving?**|Zihan You et.al.|[2610.16634v1](http://arxiv.org/abs/2610.16634v1)|null|[αX↑22](https://alphaxiv.org/abs/2610.16634)|
+|**2026-10-12**|**Language2Drive: Do Vision-Language-Action Models Really Follow the Instructions in Autonomous Driving?**|Zihan You et.al.|[2610.16634v1](http://arxiv.org/abs/2610.16634v1)|null|[αX↑23](https://alphaxiv.org/abs/2610.16634)|
 |**2026-10-12**|**DR-APO: Decoupled-Representation Advantage-Guided Policy Optimization from Continuous Control to Embodied Navigation**|Runhua Zhang et.al.|[2610.16618v1](http://arxiv.org/abs/2610.16618v1)|null|[αX↑9](https://alphaxiv.org/abs/2610.16618)|
 |**2026-10-12**|**XAI-Guided Fourier Domain Generalisation for Pure-Simulation Sim-to-Real Deep Reinforcement Learning**|Wei Yao et.al.|[2610.16478v1](http://arxiv.org/abs/2610.16478v1)|null|[αX↑4](https://alphaxiv.org/abs/2610.16478)|
 |**2026-10-12**|**Directional Pullback Regularization for Long-Horizon Rollout of Latent World Models in Autonomous Driving**|Shatadal Mishra et.al.|[2610.16139v1](http://arxiv.org/abs/2610.16139v1)|null|[αX↑5](https://alphaxiv.org/abs/2610.16139)|

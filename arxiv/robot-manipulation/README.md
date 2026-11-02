@@ -1,15 +1,30 @@
 ## Robot Manipulation
 
-### Updated on 2026.11.01
+### Updated on 2026.11.02
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-10-30**|**RoboArchitect: Automating the Design of Robotic Agents with Persistent Memory**|Shengguang Wu et.al.|[2610.42141v1](http://arxiv.org/abs/2610.42141v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.42141)|
+|**2026-10-30**|**Suspended-Fabric Robotic Manipulation Surfaces: Modelling, Design Space, and Multimodular Extensio**|Pratik Ingle et.al.|[2610.41982v1](http://arxiv.org/abs/2610.41982v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.41982)|
+|**2026-10-30**|**SketchMate: Agentic Geometric Reasoning for Zero-Shot Precision Insertion**|Jiaming Wang et.al.|[2610.41844v1](http://arxiv.org/abs/2610.41844v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.41844)|
+|**2026-10-30**|**Flexibility-Aware Robotic Manipulation: Deformation Estimation, Kinematics, and Control via Distributed Inertial Measurement**|Amir Hossein Barjini et.al.|[2610.41702v1](http://arxiv.org/abs/2610.41702v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.41702)|
+|**2026-10-30**|**Direct Action-Manifold Modeling for Efficient and Robust Bimanual Manipulation**|Hongren Wang et.al.|[2610.41643v1](http://arxiv.org/abs/2610.41643v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.41643)|
+|**2026-10-30**|**RTPolicy: Real-Time (32.9 Hz) Multi-View Visuomotor Policy for Robotic Manipulation on Edge Devices**|Xianbao Hou et.al.|[2610.41625v1](http://arxiv.org/abs/2610.41625v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.41625)|
+|**2026-10-30**|**FOCUS: First-Order Control Using Optimal Transport Supervision for Imitation from Observations**|João A. Cândido Ramos et.al.|[2610.41540v1](http://arxiv.org/abs/2610.41540v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.41540)|
+|**2026-10-30**|**MolmoSpaces-CommonSense: Evaluating Commonsense in Robotic Manipulation Policies**|Arjun Guru et.al.|[2610.41377v1](http://arxiv.org/abs/2610.41377v1)|[link](https://github.com/allenai/molmospaces)|[αX↑0](https://alphaxiv.org/abs/2610.41377)|
+|**2026-10-30**|**HandMimicX: Learning Human-Like Dexterous Manipulation via an Object-Centric Policy from Egocentric Videos**|Zihan Gao et.al.|[2610.41336v1](http://arxiv.org/abs/2610.41336v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.41336)|
+|**2026-10-30**|**Cross-Embodiment Motion Planning by Coupling Body-Agnostic World Model with Differentiable Ego-Dynamics**|Zhidong Wang et.al.|[2610.41330v1](http://arxiv.org/abs/2610.41330v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.41330)|
+|**2026-10-30**|**Learning from Physical Experience:Context-Space Adaptation for Robotic Manipulation**|Yihan Zeng et.al.|[2610.41320v1](http://arxiv.org/abs/2610.41320v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.41320)|
+|**2026-10-29**|**Contact Imitation Interface: Transferring Dexterous Skills by Showing How Contact Unfolds**|Zhixuan Xu et.al.|[2610.41028v1](http://arxiv.org/abs/2610.41028v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.41028)|
+|**2026-10-29**|**STAR: Steering Action Representations during Inference**|Guangyu Zhao et.al.|[2610.41009v1](http://arxiv.org/abs/2610.41009v1)|[link](https://github.com/PKU-VaLuE-Lab/STAR)|[αX↑0](https://alphaxiv.org/abs/2610.41009)|
+|**2026-10-29**|**From Teleoperation to Long-Horizon Dexterity: Evaluating Visuomotor Skills and Offline Proxies for Dexterous Manipulation**|Ammar N. Abbas et.al.|[2610.40828v1](http://arxiv.org/abs/2610.40828v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.40828)|
+|**2026-10-29**|**CaPtain: A Pipeline for Post-Training Code-as-Policy Robot Agents**|Yijia Fan et.al.|[2610.40799v1](http://arxiv.org/abs/2610.40799v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.40799)|
 |**2026-10-29**|**SwapBot: Tool-Centric Robot Manipulation via Interchangeable End-Effectors and Tactile Sensing**|Yunchu Zhang et.al.|[2610.40646v1](http://arxiv.org/abs/2610.40646v1)|null|[αX↑8](https://alphaxiv.org/abs/2610.40646)|
 |**2026-10-29**|**A Tutorial on Shape Servoing of Deformable Objects-Part I: Fundamentals**|Ignacio Cuiral-Zueco et.al.|[2610.40559v1](http://arxiv.org/abs/2610.40559v1)|[link](https://github.com/nachocz/tutorial_on_shape_servoing_of_deformable_objects)|[αX↑5](https://alphaxiv.org/abs/2610.40559)|
 |**2026-10-29**|**HiFOR: Hierarchical Foresight with Action-Guided World Grounding for Vision-Language-Action Model**|Rongxing Ding et.al.|[2610.40373v1](http://arxiv.org/abs/2610.40373v1)|null|[αX↑5](https://alphaxiv.org/abs/2610.40373)|
 |**2026-10-29**|**JEDI: Joint-Embedding Demonstration Compression for In-Context Imitation Learning**|Jiazhao Liang et.al.|[2610.40356v1](http://arxiv.org/abs/2610.40356v1)|null|[αX↑6](https://alphaxiv.org/abs/2610.40356)|
 |**2026-10-29**|**TouchBridge: Tactile-Conditioned Human-to-Robot Transfer for Dexterous Manipulation**|Haozhe Zhang et.al.|[2610.40349v1](http://arxiv.org/abs/2610.40349v1)|null|[αX↑16](https://alphaxiv.org/abs/2610.40349)|
-|**2026-10-29**|**MUSBRIC: LEGO-Compatible Pneumatic Muscle Bricks for Reconfigurable Musculoskeletal Robots**|Qiyao Wang et.al.|[2610.40285v1](http://arxiv.org/abs/2610.40285v1)|null|[αX↑3](https://alphaxiv.org/abs/2610.40285)|
+|**2026-10-30**|**MUSBRIC: LEGO-Compatible Pneumatic Muscle Bricks for Reconfigurable Musculoskeletal Robots**|Qiyao Wang et.al.|[2610.40285v2](http://arxiv.org/abs/2610.40285v2)|null|[αX↑3](https://alphaxiv.org/abs/2610.40285)|
 |**2026-10-29**|**AcrossDEX 1.0: From Human Motion Pretraining to Bimanual Dexterous Manipulation across Hand Embodiments**|Xiaoyu Yang et.al.|[2610.40210v1](http://arxiv.org/abs/2610.40210v1)|null|[αX↑4](https://alphaxiv.org/abs/2610.40210)|
 |**2026-10-29**|**Coupled Guidance for Flow Matching**|Mateo Clémente et.al.|[2610.40109v1](http://arxiv.org/abs/2610.40109v1)|null|[αX↑8](https://alphaxiv.org/abs/2610.40109)|
 |**2026-10-29**|**Learning Safe Flow Matching Robot Policies from Binary Feasibility Oracles**|Jianming Ma et.al.|[2610.40075v1](http://arxiv.org/abs/2610.40075v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.40075)|
@@ -28,7 +43,7 @@
 |**2026-10-28**|**Catch It All!: Generalizable Dynamic Catching with a Dexterous Hand**|Arth Shukla et.al.|[2610.39044v1](http://arxiv.org/abs/2610.39044v1)|null|[αX↑9](https://alphaxiv.org/abs/2610.39044)|
 |**2026-10-28**|**Skeleton-Guided Geometry-Aware Auto-Labeling for Robotic Grasping: From 4-DoF Learning to 6-DoF Execution**|Ali Sabzejou et.al.|[2610.38443v1](http://arxiv.org/abs/2610.38443v1)|null|[αX↑0](https://alphaxiv.org/abs/2610.38443)|
 |**2026-10-28**|**CSO: Refining Robotic Policies via Skill Distribution Alignment and Skill-Grained Optimization**|Zhiyuan Xiang et.al.|[2610.38357v1](http://arxiv.org/abs/2610.38357v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.38357)|
-|**2026-10-28**|**SimRetract: Zero-Shot Sim-to-Real Robotic Assistance for Retractor Take-Over in Open Surgery**|Xucheng Wang et.al.|[2610.38234v1](http://arxiv.org/abs/2610.38234v1)|null|[αX↑3](https://alphaxiv.org/abs/2610.38234)|
+|**2026-10-30**|**SimRetract: Zero-Shot Sim-to-Real Robotic Assistance for Retractor Take-Over in Open Surgery**|Xucheng Wang et.al.|[2610.38234v2](http://arxiv.org/abs/2610.38234v2)|null|[αX↑3](https://alphaxiv.org/abs/2610.38234)|
 |**2026-10-28**|**CuraEval: Evaluating Demonstration Curation on Mixed-Skill Robot Data**|Jiuyi Xu et.al.|[2610.38221v1](http://arxiv.org/abs/2610.38221v1)|[link](https://github.com/jiuyixu25/CuraEval)|[αX↑2](https://alphaxiv.org/abs/2610.38221)|
 |**2026-10-28**|**Embodied at Sea: Imitation Learning for Multi-Task Underwater Manipulation**|Greta Perez-Haiek et.al.|[2610.38199v1](http://arxiv.org/abs/2610.38199v1)|null|[αX↑4](https://alphaxiv.org/abs/2610.38199)|
 |**2026-10-27**|**Self-Labeled Preference Transfer for Steerable Robot Manipulation**|Kaiwen Hong et.al.|[2610.38000v1](http://arxiv.org/abs/2610.38000v1)|null|[αX↑5](https://alphaxiv.org/abs/2610.38000)|
@@ -78,17 +93,17 @@
 |**2026-10-23**|**Tiny Recursive Policy: Recursive Latent Refinement for Visuomotor Control**|Hakan Aktas et.al.|[2610.33288v1](http://arxiv.org/abs/2610.33288v1)|null|[αX↑2](https://alphaxiv.org/abs/2610.33288)|
 |**2026-10-23**|**ORBIT: A Modular Multi-finger Robotic Hand Platform with Rotational Finger Reconfiguration**|Benito Ribadeneira et.al.|[2610.33241v1](http://arxiv.org/abs/2610.33241v1)|null|[αX↑3](https://alphaxiv.org/abs/2610.33241)|
 |**2026-10-23**|**DexPort: A Hand-Held Skill Interface for Dexterous Hand Data Collection**|Amber Xie et.al.|[2610.32969v1](http://arxiv.org/abs/2610.32969v1)|null|[αX↑17](https://alphaxiv.org/abs/2610.32969)|
-|**2026-10-23**|**If at First You Don't Succeed, Backtrack: Lightweight Recovery for Frozen VLAs**|Thomas Landeg et.al.|[2610.32941v1](http://arxiv.org/abs/2610.32941v1)|null|[αX↑7](https://alphaxiv.org/abs/2610.32941)|
+|**2026-10-23**|**If at First You Don't Succeed, Backtrack: Lightweight Recovery for Frozen VLAs**|Thomas Landeg et.al.|[2610.32941v1](http://arxiv.org/abs/2610.32941v1)|null|[αX↑8](https://alphaxiv.org/abs/2610.32941)|
 |**2026-10-23**|**Predictive Long-Horizon Progress Modeling with Action-Aware Quantification**|Tianchi Xu et.al.|[2610.32776v1](http://arxiv.org/abs/2610.32776v1)|null|[αX↑7](https://alphaxiv.org/abs/2610.32776)|
-|**2026-10-23**|**From Freehand Demonstrations to Autonomous Robotic Ultrasound: An Anatomy-Anchored Learning Framework**|Yuan Bi et.al.|[2610.32525v1](http://arxiv.org/abs/2610.32525v1)|null|[αX↑4](https://alphaxiv.org/abs/2610.32525)|
+|**2026-10-23**|**From Freehand Demonstrations to Autonomous Robotic Ultrasound: An Anatomy-Anchored Learning Framework**|Yuan Bi et.al.|[2610.32525v1](http://arxiv.org/abs/2610.32525v1)|null|[αX↑5](https://alphaxiv.org/abs/2610.32525)|
 |**2026-10-23**|**CoCarry: Contact-Support-Structured Retargeting for Dual-Humanoid Cooperative Carrying**|Ziyu Lin et.al.|[2610.32460v1](http://arxiv.org/abs/2610.32460v1)|null|[αX↑16](https://alphaxiv.org/abs/2610.32460)|
 |**2026-10-23**|**DynaSlots: Slot-Centric 3D Dynamics Pretraining for Robot Manipulation**|Meng Li et.al.|[2610.32330v1](http://arxiv.org/abs/2610.32330v1)|null|[αX↑7](https://alphaxiv.org/abs/2610.32330)|
-|**2026-10-23**|**MAST-VLA: Skill-Conditioned Adaptation with Trajectory-Affordance Priors for Multi-Skill Robot Manipulation**|Jiachi Yang et.al.|[2610.32312v1](http://arxiv.org/abs/2610.32312v1)|null|[αX↑6](https://alphaxiv.org/abs/2610.32312)|
-|**2026-10-23**|**From Tabletop to Walking Bot: Deploying a VLA Model on a Legged Manipulator Robot**|Giovanni Minelli et.al.|[2610.32271v1](http://arxiv.org/abs/2610.32271v1)|null|[αX↑5](https://alphaxiv.org/abs/2610.32271)|
+|**2026-10-23**|**MAST-VLA: Skill-Conditioned Adaptation with Trajectory-Affordance Priors for Multi-Skill Robot Manipulation**|Jiachi Yang et.al.|[2610.32312v1](http://arxiv.org/abs/2610.32312v1)|null|[αX↑9](https://alphaxiv.org/abs/2610.32312)|
+|**2026-10-23**|**From Tabletop to Walking Bot: Deploying a VLA Model on a Legged Manipulator Robot**|Giovanni Minelli et.al.|[2610.32271v1](http://arxiv.org/abs/2610.32271v1)|null|[αX↑6](https://alphaxiv.org/abs/2610.32271)|
 |**2026-10-23**|**RoboCode: Learning Reusable Action Primitives for Robot Manipulation**|Xianyue Peng et.al.|[2610.32225v1](http://arxiv.org/abs/2610.32225v1)|null|[αX↑5](https://alphaxiv.org/abs/2610.32225)|
-|**2026-10-23**|**Coupling Execution Horizon and Sampling Depth in Flow-Matching VLA Policies**|Jiabing Yang et.al.|[2610.32102v1](http://arxiv.org/abs/2610.32102v1)|null|[αX↑9](https://alphaxiv.org/abs/2610.32102)|
+|**2026-10-23**|**Coupling Execution Horizon and Sampling Depth in Flow-Matching VLA Policies**|Jiabing Yang et.al.|[2610.32102v1](http://arxiv.org/abs/2610.32102v1)|null|[αX↑10](https://alphaxiv.org/abs/2610.32102)|
 |**2026-10-23**|**DiscoDemo: Discovering Efficient and Diverse Robot Demonstrations for Imitation Learning**|Minho Park et.al.|[2610.32093v1](http://arxiv.org/abs/2610.32093v1)|[link](https://github.com/DAVIAN-Robotics/DiscoDemo)|[🤗👍28](https://huggingface.co/papers/2610.32093) [αX↑15](https://alphaxiv.org/abs/2610.32093)|
-|**2026-10-22**|**EgoForesight: Effectively Scaling Policy Learning with Noisy Egocentric Actions**|Chubin Zhang et.al.|[2610.31845v1](http://arxiv.org/abs/2610.31845v1)|null|[αX↑25](https://alphaxiv.org/abs/2610.31845)|
+|**2026-10-22**|**EgoForesight: Effectively Scaling Policy Learning with Noisy Egocentric Actions**|Chubin Zhang et.al.|[2610.31845v1](http://arxiv.org/abs/2610.31845v1)|null|[αX↑26](https://alphaxiv.org/abs/2610.31845)|
 |**2026-10-22**|**FORCA: A Force-Aware Coding Agent for Contact-Rich Robot Manipulation**|Xiao Tan et.al.|[2610.31841v1](http://arxiv.org/abs/2610.31841v1)|null|[αX↑12](https://alphaxiv.org/abs/2610.31841)|
 |**2026-10-22**|**PrefO2O: Zero-Shot Preference-Based Reinforcement Learning via Offline-to-Online Latent Preference Transfer**|Ruiqi Wang et.al.|[2610.31812v1](http://arxiv.org/abs/2610.31812v1)|null|[αX↑5](https://alphaxiv.org/abs/2610.31812)|
 |**2026-10-22**|**VecTile: A Low-Cost Flexible Tactile Array for 3-DoF Force Sensing**|Jian Hou et.al.|[2610.31472v1](http://arxiv.org/abs/2610.31472v1)|null|[αX↑14](https://alphaxiv.org/abs/2610.31472)|

@@ -1,9 +1,20 @@
 ## World Models
 
-### Updated on 2026.11.05
+### Updated on 2026.11.06
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-11-05**|**Learning a patient world model for health system simulation in intensive care**|Yingtai Li et.al.|[2611.08392v1](http://arxiv.org/abs/2611.08392v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.08392)|
+|**2026-11-05**|**GPWM: Modeling the World as 3D Particle Motion**|Robert Ren et.al.|[2611.08338v1](http://arxiv.org/abs/2611.08338v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.08338)|
+|**2026-11-05**|**La-JEPA: Compact Robot Policies with Latent World Modeling**|Mateo Clémente et.al.|[2611.08156v1](http://arxiv.org/abs/2611.08156v1)|[link](https://github.com/mt-clemente/lajepa)|[αX↑0](https://alphaxiv.org/abs/2611.08156)|
+|**2026-11-05**|**FreeOcc: Decoupling Ego-Motion for Efficient 4D Occupancy Forecasting via Continuous Flow Matching**|Zeping Zhang et.al.|[2611.08128v1](http://arxiv.org/abs/2611.08128v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.08128)|
+|**2026-11-05**|**WAM-Sim0.1: World Anchored Memory Meets Online RL for Consistent and Realistic Driving Simulation**|Jiahao Cui et.al.|[2611.07939v1](http://arxiv.org/abs/2611.07939v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.07939)|
+|**2026-11-05**|**GuidedWAM: Training-Free Energy Guidance for World Action Models in Autonomous Driving**|Xiyan Su et.al.|[2611.07912v1](http://arxiv.org/abs/2611.07912v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.07912)|
+|**2026-11-05**|**PVDepth: Panoramic Video Depth Estimation via Geometry-Aware Spatiotemporal Adaptation**|Chuanxin Song et.al.|[2611.07873v1](http://arxiv.org/abs/2611.07873v1)|[link](https://github.com/ChuanxinSong/PVDepth)|[αX↑0](https://alphaxiv.org/abs/2611.07873)|
+|**2026-11-05**|**PlayGen2: Learning Real-Time Playable Worlds with Explicit 3D State**|Jihai Zhang et.al.|[2611.07867v1](http://arxiv.org/abs/2611.07867v1)|[link](https://github.com/MajorDavidZhang/PlayGen-2)|[αX↑0](https://alphaxiv.org/abs/2611.07867)|
+|**2026-11-05**|**Learning Robotic World Models with Semantic and Visual Feedback**|Hao Wu et.al.|[2611.07850v1](http://arxiv.org/abs/2611.07850v1)|[link](https://github.com/Alexander-wu/RoboImagine)|[αX↑0](https://alphaxiv.org/abs/2611.07850)|
+|**2026-11-05**|**Seeing Beyond the Next Step: World-Model-Guided Human-Like Navigation in Multi-Agent Scenes**|Seong-Eun Hong et.al.|[2611.07730v1](http://arxiv.org/abs/2611.07730v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.07730)|
+|**2026-11-04**|**MAC-v2: Long-horizon model-based value expansion from pixels**|Kwanyoung Park et.al.|[2611.07245v1](http://arxiv.org/abs/2611.07245v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.07245)|
 |**2026-11-04**|**Motion-guided Contrastive Regularization For Latent World Models**|Yiwen Chen et.al.|[2611.06901v1](http://arxiv.org/abs/2611.06901v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.06901)|
 |**2026-11-04**|**Detecting Silent Action-Interface Mismatch with Calibrated Relational World Models**|Rui Zhu et.al.|[2611.06653v1](http://arxiv.org/abs/2611.06653v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.06653)|
 |**2026-11-04**|**MKD2World: A Typed Spatial MarkDown World Model For Web Agents**|Zhihao Nan et.al.|[2611.06544v1](http://arxiv.org/abs/2611.06544v1)|[link](https://github.com/OmniAI-Lab-CUHKSZ/MKD2World)|[αX↑0](https://alphaxiv.org/abs/2611.06544)|
@@ -50,7 +61,7 @@
 |**2026-11-01**|**RubricWorld: World Model-Guided Rubric Optimization for LLM Graders**|Hongji Pu et.al.|[2611.01986v1](http://arxiv.org/abs/2611.01986v1)|null|[αX↑6](https://alphaxiv.org/abs/2611.01986)|
 |**2026-11-01**|**Geometric Morphology Learning: Empowering Foundation Models from Structure to Spacetime Intelligence**|Li Sun et.al.|[2611.01932v1](http://arxiv.org/abs/2611.01932v1)|null|[αX↑5](https://alphaxiv.org/abs/2611.01932)|
 |**2026-11-01**|**The (Butter)fly Dream: Linear Separability of World-Model Rollouts in a Connectome-Constrained Visual Model**|Junichiro Niimi et.al.|[2611.01866v1](http://arxiv.org/abs/2611.01866v1)|null|[αX↑3](https://alphaxiv.org/abs/2611.01866)|
-|**2026-11-01**|**OpenNWM: A Generalist Navigation World Model with Latent Action Pretraining**|Dujun Nie et.al.|[2611.01844v1](http://arxiv.org/abs/2611.01844v1)|[link](https://github.com/OpenSpace-Lab/OpenNWM)|[αX↑7](https://alphaxiv.org/abs/2611.01844)|
+|**2026-11-05**|**OpenNWM: A Generalist Navigation World Model with Latent Action Pretraining**|Dujun Nie et.al.|[2611.01844v2](http://arxiv.org/abs/2611.01844v2)|[link](https://github.com/OpenSpace-Lab/OpenNWM)|[αX↑7](https://alphaxiv.org/abs/2611.01844)|
 |**2026-11-01**|**When Does Latent Prediction Error Support Physical Surprise Claims in Video World Models?**|Anton Hristov et.al.|[2611.01815v1](http://arxiv.org/abs/2611.01815v1)|[link](https://github.com/3-ml/jepa-surprise)|[🤗👍23](https://huggingface.co/papers/2611.01815) [αX↑8](https://alphaxiv.org/abs/2611.01815)|
 |**2026-11-01**|**Xiaomi Auto World Model 2.0: Causal World Models for Real-World Driving and Embodied Intelligence**|Zhenxin Zhu et.al.|[2611.01677v1](http://arxiv.org/abs/2611.01677v1)|null|[αX↑13](https://alphaxiv.org/abs/2611.01677)|
 |**2026-11-01**|**Stand-In Effects and Pooling Amplification: Design-Based Tests of Whether Biological World Models Use Actions**|Bowen Xu et.al.|[2611.01666v1](http://arxiv.org/abs/2611.01666v1)|null|[αX↑3](https://alphaxiv.org/abs/2611.01666)|
@@ -59,7 +70,7 @@
 |**2026-10-31**|**World Models Need Not Be Right to Rank Policies Right: Relative Bounds and Audit Limits**|Ahanaf Hasan Ariq et.al.|[2611.01139v1](http://arxiv.org/abs/2611.01139v1)|null|[αX↑6](https://alphaxiv.org/abs/2611.01139)|
 |**2026-10-31**|**pico-WAM: Evaluating Counterfactual Prediction and Planning Error in a Compact World Action Model**|Keivalya Pandya et.al.|[2611.01039v1](http://arxiv.org/abs/2611.01039v1)|[link](https://github.com/keivalya/pico-wam)|[αX↑6](https://alphaxiv.org/abs/2611.01039)|
 |**2026-10-31**|**GURU: A Hierarchical Neuro-Symbolic Multi-Agent System for Verification-Aware Automation of Mission-Critical Digital Engineering and Operations**|Allan Grosvenor et.al.|[2611.01001v1](http://arxiv.org/abs/2611.01001v1)|null|[αX↑3](https://alphaxiv.org/abs/2611.01001)|
-|**2026-10-31**|**Why Koopman Structure Does Not Help Differentiable World Models for Humanoid Whole-Body Tracking**|Haizhou Ge et.al.|[2611.00951v1](http://arxiv.org/abs/2611.00951v1)|null|[αX↑6](https://alphaxiv.org/abs/2611.00951)|
+|**2026-11-05**|**Why Koopman Structure Does Not Help Differentiable World Models for Humanoid Whole-Body Tracking**|Haizhou Ge et.al.|[2611.00951v2](http://arxiv.org/abs/2611.00951v2)|null|[αX↑6](https://alphaxiv.org/abs/2611.00951)|
 |**2026-10-31**|**Old Is Not False: Valid-Time Memory for Interactive Video World Models**|Ziming Wang et.al.|[2611.00758v1](http://arxiv.org/abs/2611.00758v1)|null|[αX↑10](https://alphaxiv.org/abs/2611.00758)|
 |**2026-10-31**|**Shaped by What's Missing: Topological Invariance Simplification Discovers Behavioral Transitions**|Kaiwen Bian et.al.|[2611.00688v1](http://arxiv.org/abs/2611.00688v1)|[link](https://github.com/KevinBian107/TopoMIMIC)|[αX↑4](https://alphaxiv.org/abs/2611.00688)|
 |**2026-10-31**|**Roz: A Taste Test for World Model Latents**|Kenneth Ge et.al.|[2611.00612v1](http://arxiv.org/abs/2611.00612v1)|null|[αX↑4](https://alphaxiv.org/abs/2611.00612)|
@@ -68,7 +79,7 @@
 |**2026-10-30**|**TacMind: Benchmarking and Modeling Tactile Interaction States for Robotic Manipulation**|Jiaxin Shi et.al.|[2611.00455v1](http://arxiv.org/abs/2611.00455v1)|null|[αX↑5](https://alphaxiv.org/abs/2611.00455)|
 |**2026-10-30**|**Spoofing the Latent State: Imperceptible Goal-Image Attacks Derail Planning in LeWorldModel**|Kunal Bhosikar et.al.|[2611.00427v1](http://arxiv.org/abs/2611.00427v1)|null|[αX↑5](https://alphaxiv.org/abs/2611.00427)|
 |**2026-10-30**|**TAP-Out: Tracking Any Point in 360° via Outpainting**|Finlay G. C. Hudson et.al.|[2611.00406v1](http://arxiv.org/abs/2611.00406v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.00406)|
-|**2026-11-04**|**AuroraWorld: Structured 4D World Modeling for Exo-to-Ego Video Generation in Robot Manipulation**|Hao Xue et.al.|[2611.00177v2](http://arxiv.org/abs/2611.00177v2)|[link](https://github.com/xueha0/AuroraWorld)|[αX↑3](https://alphaxiv.org/abs/2611.00177)|
+|**2026-11-05**|**AuroraWorld: Structured 4D World Modeling for Exo-to-Ego Video Generation in Robot Manipulation**|Hao Xue et.al.|[2611.00177v3](http://arxiv.org/abs/2611.00177v3)|[link](https://github.com/xueha0/AuroraWorld)|[αX↑3](https://alphaxiv.org/abs/2611.00177)|
 |**2026-10-30**|**Hierarchical World Models with Implicit Dynamics**|Gaoyue Zhou et.al.|[2610.42146v1](http://arxiv.org/abs/2610.42146v1)|null|[αX↑78](https://alphaxiv.org/abs/2610.42146)|
 |**2026-10-30**|**CausalWAM: Learning the Causes of Actions in World Action Models**|Juntao Cheng et.al.|[2610.42096v1](http://arxiv.org/abs/2610.42096v1)|null|[🤗👍4](https://huggingface.co/papers/2610.42096) [αX↑12](https://alphaxiv.org/abs/2610.42096)|
 |**2026-11-04**|**GeoFlip Preview: Benchmarking Geometry-Sensitive Physics in Video Generation**|Yuqi Li et.al.|[2610.42002v2](http://arxiv.org/abs/2610.42002v2)|null|[αX↑8](https://alphaxiv.org/abs/2610.42002)|

@@ -1,9 +1,19 @@
 ## Humanoid & Locomotion
 
-### Updated on 2026.11.05
+### Updated on 2026.11.06
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-11-05**|**Social Humanoid: Socially Responsive Human-Humanoid Interaction**|Vongani H. Maluleke et.al.|[2611.08407v1](http://arxiv.org/abs/2611.08407v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.08407)|
+|**2026-11-05**|**STEP: Spatiotemporal Training with Explicit Prediction for Perceptive Humanoid Locomotion**|Youhao Lyu et.al.|[2611.08097v1](http://arxiv.org/abs/2611.08097v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.08097)|
+|**2026-11-05**|**Terrain-Indexed Motion Priors and Geometric Support for Extreme Humanoid Parkour**|Chenghao Sun et.al.|[2611.08056v1](http://arxiv.org/abs/2611.08056v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.08056)|
+|**2026-11-05**|**HITCH: Teaching a Vision-Language Model to Operate a Humanoid through a Whole-Body Harness**|Qingzhou Lu et.al.|[2611.08039v1](http://arxiv.org/abs/2611.08039v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.08039)|
+|**2026-11-05**|**AffectiveVLA: Safe and Intent-Aware VLA Control for Human-Humanoid Social Interaction**|Nikita Kuzmin et.al.|[2611.07712v1](http://arxiv.org/abs/2611.07712v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.07712)|
+|**2026-11-05**|**PhySA: Decoupling Aesthetic and Physical Rewards for Humanoid Locomotion**|Yunwan Fu et.al.|[2611.07679v1](http://arxiv.org/abs/2611.07679v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.07679)|
+|**2026-11-05**|**Whole-Body Elasto-Geometrical Calibration of Wheeled Humanoid Robots Using a Shared-Waist Dual-Chain Model**|Pengxin Zha et.al.|[2611.07560v1](http://arxiv.org/abs/2611.07560v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.07560)|
+|**2026-11-05**|**LMGN: A Unified Policy Learning Model for Last-Mile Grasp-Navigation**|Xuenmin Hu et.al.|[2611.07515v1](http://arxiv.org/abs/2611.07515v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.07515)|
+|**2026-11-05**|**Kinematic analysis of a double-closed-loop four-bar chain-based leg for a multimodal quadruped-pentarotor robot**|Prashant Raturi et.al.|[2611.07470v1](http://arxiv.org/abs/2611.07470v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.07470)|
+|**2026-11-05**|**CRISP: Constraint-Resolved Interactions between Subsystems for Predictive Whole-Body Cooperation**|Dario Valenzuela et.al.|[2611.07268v1](http://arxiv.org/abs/2611.07268v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.07268)|
 |**2026-11-04**|**Perceptive Humanoid Motion from Simulation**|Siyuan Hu et.al.|[2611.06908v1](http://arxiv.org/abs/2611.06908v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.06908)|
 |**2026-11-04**|**SCRUB: Contact-Based Surface-Frame Estimation for Force-Motion Control with an Armless Quadruped**|Sourav Selvaraj et.al.|[2611.06649v1](http://arxiv.org/abs/2611.06649v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.06649)|
 |**2026-11-04**|**Playing Soccer Like Humans Do: Learning Versatile and Agile Humanoid Soccer via Latent Motion Priors**|Haoyu Shao et.al.|[2611.06564v1](http://arxiv.org/abs/2611.06564v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.06564)|
@@ -13,7 +23,7 @@
 |**2026-11-03**|**Contact-Implicit Whole-Body Trajectory Optimization for Dynamic Humanoid Locomotion on Parameterizable Uneven Terrain**|Roberto Mauceri et.al.|[2611.05585v1](http://arxiv.org/abs/2611.05585v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.05585)|
 |**2026-11-03**|**Ctrl-F: Force as an Interface for Humanoid Loco-Manipulation**|Mengjie Zhao et.al.|[2611.05507v1](http://arxiv.org/abs/2611.05507v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.05507)|
 |**2026-11-03**|**PACT: Pose-Robust Actuation Co-Design for Tendon-Driven Robotic Hands**|Prashant Kumar et.al.|[2611.05302v1](http://arxiv.org/abs/2611.05302v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.05302)|
-|**2026-11-04**|**RoboTryOn: Synthesizing Dexterous Robot Demonstrations from Human Videos via Virtual Try-On**|Seungyong Lee et.al.|[2611.05163v2](http://arxiv.org/abs/2611.05163v2)|[link](https://github.com/ryan-seungyong-lee/RoboTryOn)|[🤗👍6](https://huggingface.co/papers/2611.05163) [αX↑3](https://alphaxiv.org/abs/2611.05163)|
+|**2026-11-05**|**Synthesizing Dexterous Robot Demonstrations from Human Videos via Virtual Try-On**|Seungyong Lee et.al.|[2611.05163v3](http://arxiv.org/abs/2611.05163v3)|[link](https://github.com/ryan-seungyong-lee/RoboTryOn)|[🤗👍6](https://huggingface.co/papers/2611.05163) [αX↑3](https://alphaxiv.org/abs/2611.05163)|
 |**2026-11-03**|**HLO-AMP: Hierarchical Loco-Manipulation from Object-Aware Motion Priors**|Jean-Pierre Sleiman et.al.|[2611.05113v1](http://arxiv.org/abs/2611.05113v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.05113)|
 |**2026-11-03**|**Caging Vision-Language Navigation for Legged Robots via Barrier-Certified Safety Architecture**|Abhijeet M. Kulkarni et.al.|[2611.04972v1](http://arxiv.org/abs/2611.04972v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.04972)|
 |**2026-11-03**|**Coordinating Humanoid Loco-Manipulation through Action-Conditioned Latent Foresight**|Ju Dong et.al.|[2611.04839v1](http://arxiv.org/abs/2611.04839v1)|null|[αX↑4](https://alphaxiv.org/abs/2611.04839)|
@@ -36,7 +46,7 @@
 |**2026-11-01**|**ODE Policy: Robot Learning via Action Dynamics, Not Actions**|Jindou Jia et.al.|[2611.01729v1](http://arxiv.org/abs/2611.01729v1)|null|[αX↑25](https://alphaxiv.org/abs/2611.01729)|
 |**2026-11-01**|**HuG: Learning Humanoid Whole-Body Affordance-Aware Grasping with Active Perception**|Xuanbin Peng et.al.|[2611.01659v1](http://arxiv.org/abs/2611.01659v1)|null|[αX↑8](https://alphaxiv.org/abs/2611.01659)|
 |**2026-10-31**|**Learning Agile Humanoid Dodgeball with Onboard Monocular Vision**|Feng Tian et.al.|[2611.01197v1](http://arxiv.org/abs/2611.01197v1)|null|[αX↑7](https://alphaxiv.org/abs/2611.01197)|
-|**2026-10-31**|**Why Koopman Structure Does Not Help Differentiable World Models for Humanoid Whole-Body Tracking**|Haizhou Ge et.al.|[2611.00951v1](http://arxiv.org/abs/2611.00951v1)|null|[αX↑6](https://alphaxiv.org/abs/2611.00951)|
+|**2026-11-05**|**Why Koopman Structure Does Not Help Differentiable World Models for Humanoid Whole-Body Tracking**|Haizhou Ge et.al.|[2611.00951v2](http://arxiv.org/abs/2611.00951v2)|null|[αX↑6](https://alphaxiv.org/abs/2611.00951)|
 |**2026-10-31**|**Faster Imitation by Re-timing Demonstrations Within the Controller Limit**|Zongtan Li et.al.|[2611.00539v1](http://arxiv.org/abs/2611.00539v1)|null|[αX↑6](https://alphaxiv.org/abs/2611.00539)|
 |**2026-10-31**|**MESSPa: A Multi-modal Embodiment Stimulation Shoulder Pad for Preserving the Sense of Agency in a Detachable Robotic Arm**|Vitvasin Vimolmongkolporn et.al.|[2611.00509v1](http://arxiv.org/abs/2611.00509v1)|null|[αX↑3](https://alphaxiv.org/abs/2611.00509)|
 |**2026-10-31**|**Knowing Where to Look: Interactive Object Search via Spatial-Semantic Fusion**|Aditya Agarwal et.al.|[2611.00499v1](http://arxiv.org/abs/2611.00499v1)|null|[αX↑6](https://alphaxiv.org/abs/2611.00499)|
@@ -56,7 +66,7 @@
 |**2026-10-29**|**LLM-guided Planar Loco-Manipulation for Quadruped Robots**|Georges Jetti et.al.|[2610.40248v1](http://arxiv.org/abs/2610.40248v1)|null|[αX↑7](https://alphaxiv.org/abs/2610.40248)|
 |**2026-10-29**|**Humanoid Dodgeball: Learning Fast Dynamic Obstacle Avoidance Motions for Humanoids**|Aoqian Zhang et.al.|[2610.40003v1](http://arxiv.org/abs/2610.40003v1)|null|[αX↑10](https://alphaxiv.org/abs/2610.40003)|
 |**2026-10-31**|**ScheduleGen: Demonstration Generation via Skill Scheduling for Multi-Arm Imitation Learning**|Neel Jawale et.al.|[2610.39429v2](http://arxiv.org/abs/2610.39429v2)|null|[αX↑25](https://alphaxiv.org/abs/2610.39429)|
-|**2026-11-03**|**SONIC-K1: Porting a Universal Humanoid Motion Tracker to a Small Humanoid on a Single GPU**|Kyrylo Kolesnichenko et.al.|[2610.39327v2](http://arxiv.org/abs/2610.39327v2)|null|[αX↑9](https://alphaxiv.org/abs/2610.39327)|
+|**2026-11-05**|**SONIC-K1: Porting a Universal Humanoid Motion Tracker to a Small Humanoid on a Single GPU**|Kyrylo Kolesnichenko et.al.|[2610.39327v3](http://arxiv.org/abs/2610.39327v3)|null|[αX↑9](https://alphaxiv.org/abs/2610.39327)|
 |**2026-10-29**|**RAIBO-Wagon: Real-Time Navigation System for a Legged Robot Towing a Wagon**|Insung Yang et.al.|[2610.39267v1](http://arxiv.org/abs/2610.39267v1)|null|[αX↑9](https://alphaxiv.org/abs/2610.39267)|
 |**2026-10-28**|**Catch It All!: Generalizable Dynamic Catching with a Dexterous Hand**|Arth Shukla et.al.|[2610.39044v1](http://arxiv.org/abs/2610.39044v1)|null|[αX↑15](https://alphaxiv.org/abs/2610.39044)|
 |**2026-10-28**|**OmniQuad: a Wheeled-Legged Hybrid Robot with Omnidirectional Wheels**|Francesco Iotti et.al.|[2610.38502v1](http://arxiv.org/abs/2610.38502v1)|null|[αX↑4](https://alphaxiv.org/abs/2610.38502)|

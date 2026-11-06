@@ -1,9 +1,14 @@
 ## Embodied Navigation & Driving
 
-### Updated on 2026.11.05
+### Updated on 2026.11.06
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-11-05**|**VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding**|Yu-Cheng Chou et.al.|[2611.08449v1](http://arxiv.org/abs/2611.08449v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.08449)|
+|**2026-11-05**|**Reinforcing End-to-End Autonomous Driving Safety via Negative-Aware Planning in a Unified World-Action Model**|Zihao Zhang et.al.|[2611.08111v1](http://arxiv.org/abs/2611.08111v1)|[link](https://github.com/Zizizi-hao/NegWAM)|[αX↑0](https://alphaxiv.org/abs/2611.08111)|
+|**2026-11-05**|**GuidedWAM: Training-Free Energy Guidance for World Action Models in Autonomous Driving**|Xiyan Su et.al.|[2611.07912v1](http://arxiv.org/abs/2611.07912v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.07912)|
+|**2026-11-05**|**Towards Real-Time Full-Waveform LiDAR Transformers via Intensity-Guided Token Reduction and Physics-Aware Augmentation**|Kotaro Oishi et.al.|[2611.07613v1](http://arxiv.org/abs/2611.07613v1)|[link](https://github.com/Keio-CSG/FWL-ToPM)|[αX↑0](https://alphaxiv.org/abs/2611.07613)|
+|**2026-11-04**|**Wide View Synthesis from Overlapping Perspective Cameras in Autonomous Driving**|Kaixuan Zhang et.al.|[2611.07081v1](http://arxiv.org/abs/2611.07081v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.07081)|
 |**2026-11-04**|**CoSafe: Cooperative Runtime Safety Assurance for Mixed-Traffic Autonomous Driving**|Dingji Wang et.al.|[2611.06204v1](http://arxiv.org/abs/2611.06204v1)|[link](https://github.com/Kiki2049/CoSafe)|[αX↑0](https://alphaxiv.org/abs/2611.06204)|
 |**2026-11-04**|**MotoVerse: A Benchmark for Predictive Perception of Motorized Two-Wheelers in Dense Unstructured Traffic**|Varun A. Paturkar et.al.|[2611.06007v1](http://arxiv.org/abs/2611.06007v1)|[link](https://github.com/VarunIIITH/MotoVerse)|[αX↑0](https://alphaxiv.org/abs/2611.06007)|
 |**2026-11-03**|**OdorSpaces: Visual-Olfactory Embodied Navigation in 3D Environments**|Changyeon Lee et.al.|[2611.05738v1](http://arxiv.org/abs/2611.05738v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.05738)|
@@ -72,7 +77,7 @@
 |**2026-10-19**|**Think Densely, Act Sparsely: Latent Expert Cognitive Chains for Vision-Language-Action Autonomous Driving**|Jie Wang et.al.|[2610.25734v1](http://arxiv.org/abs/2610.25734v1)|null|[αX↑12](https://alphaxiv.org/abs/2610.25734)|
 |**2026-10-19**|**Revealing and Bridging the Physical Executability Gap in Vision-Language Navigation**|Gang He et.al.|[2610.25687v1](http://arxiv.org/abs/2610.25687v1)|null|[αX↑11](https://alphaxiv.org/abs/2610.25687)|
 |**2026-10-18**|**UBD-Bench: Benchmarking and Analyzing Unimodal Branch Degradation in Multimodal Perception for Autonomous Driving**|Ang Liu et.al.|[2610.25448v1](http://arxiv.org/abs/2610.25448v1)|null|[αX↑7](https://alphaxiv.org/abs/2610.25448)|
-|**2026-10-18**|**Learning Lane-Structured Conditioning Fields for Online HD Mapping**|Andrea Bertogalli et.al.|[2610.25284v1](http://arxiv.org/abs/2610.25284v1)|null|[αX↑13](https://alphaxiv.org/abs/2610.25284)|
+|**2026-11-05**|**Learning Lane-Structured Conditioning Fields for Online HD Mapping**|Andrea Bertogalli et.al.|[2610.25284v2](http://arxiv.org/abs/2610.25284v2)|null|[αX↑13](https://alphaxiv.org/abs/2610.25284)|
 |**2026-10-18**|**GeoV2V: Geometry-Grounded Video Diffusion Model for Driving Scene Generation**|Yuchen Xi et.al.|[2610.25245v1](http://arxiv.org/abs/2610.25245v1)|null|[αX↑18](https://alphaxiv.org/abs/2610.25245)|
 |**2026-10-18**|**Map2Vid: Embodied Navigation Video Generation with Human-Friendly Motion Control**|Yulin Dai et.al.|[2610.25223v1](http://arxiv.org/abs/2610.25223v1)|null|[αX↑10](https://alphaxiv.org/abs/2610.25223)|
 |**2026-10-18**|**Structure over Reasoning: Unified Zero-Shot Navigation with a Small Vision-Language Model**|Zeqi Li et.al.|[2610.25130v1](http://arxiv.org/abs/2610.25130v1)|null|[αX↑6](https://alphaxiv.org/abs/2610.25130)|

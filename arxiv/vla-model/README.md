@@ -1,9 +1,14 @@
 ## Vision Language Action Model
 
-### Updated on 2026.11.05
+### Updated on 2026.11.06
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-11-05**|**OopsieRecover: Learning Transferable VLA Corrections from Semantic Interventions**|Arpit Bahety et.al.|[2611.08462v1](http://arxiv.org/abs/2611.08462v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.08462)|
+|**2026-11-05**|**Failure Prediction and Classification in Vision-Language-Action Models Via Calibrated Latent Probing**|Michal P. Podolinsky et.al.|[2611.08425v1](http://arxiv.org/abs/2611.08425v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.08425)|
+|**2026-11-05**|**T3R: Training-Free Two-Stage Token Refinement Towards Efficient and Robust VLA Models**|Mohammed Hassan et.al.|[2611.08413v1](http://arxiv.org/abs/2611.08413v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.08413)|
+|**2026-11-05**|**La-JEPA: Compact Robot Policies with Latent World Modeling**|Mateo Clémente et.al.|[2611.08156v1](http://arxiv.org/abs/2611.08156v1)|[link](https://github.com/mt-clemente/lajepa)|[αX↑0](https://alphaxiv.org/abs/2611.08156)|
+|**2026-11-05**|**AffectiveVLA: Safe and Intent-Aware VLA Control for Human-Humanoid Social Interaction**|Nikita Kuzmin et.al.|[2611.07712v1](http://arxiv.org/abs/2611.07712v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.07712)|
 |**2026-11-04**|**From Pixels to Actions - Towards Native Vision-Language-Action Policies**|Weichen Fan et.al.|[2611.06918v1](http://arxiv.org/abs/2611.06918v1)|[link](https://github.com/EvolvingLMMs-Lab/NEO/tree/main/VLAKit)|[αX↑0](https://alphaxiv.org/abs/2611.06918)|
 |**2026-11-04**|**Where Is VLA Inference Time Spent? Bottlenecks and Optimization Interactions Across GPUs**|Muhammad Danish Waseem et.al.|[2611.06710v1](http://arxiv.org/abs/2611.06710v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.06710)|
 |**2026-11-04**|**$A^3$ -VLA: Automatic Perception-Guided Attention Alignment for Robot Manipulation**|Shengzhe Zhang et.al.|[2611.06447v1](http://arxiv.org/abs/2611.06447v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.06447)|
@@ -26,7 +31,7 @@
 |**2026-11-01**|**Scene-Adaptive Readout and Decoding in Diffusion Driving VLAs**|Seungjun Yu et.al.|[2611.02076v1](http://arxiv.org/abs/2611.02076v1)|[link](https://github.com/sjyu001/SARD)|[αX↑2](https://alphaxiv.org/abs/2611.02076)|
 |**2026-11-01**|**Route-Guided CBF-QP Repair for Safe Vision-Language-Action Models**|Chan Park et.al.|[2611.01713v1](http://arxiv.org/abs/2611.01713v1)|null|[αX↑6](https://alphaxiv.org/abs/2611.01713)|
 |**2026-11-01**|**Same Path, Less Time: Training-Free Fast Execution of Vision-Language-Action Models under Inference Latency**|Fuyi Chen et.al.|[2611.01390v1](http://arxiv.org/abs/2611.01390v1)|null|[αX↑4](https://alphaxiv.org/abs/2611.01390)|
-|**2026-10-31**|**Vision-Language Models Are Joint Denoisers in Robotic Action Generation**|Xicheng Gong et.al.|[2611.01215v1](http://arxiv.org/abs/2611.01215v1)|null|[αX↑9](https://alphaxiv.org/abs/2611.01215)|
+|**2026-11-05**|**Vision-Language Models Are Joint Denoisers in Robotic Action Generation**|Xicheng Gong et.al.|[2611.01215v2](http://arxiv.org/abs/2611.01215v2)|null|[αX↑9](https://alphaxiv.org/abs/2611.01215)|
 |**2026-10-31**|**ClothDojo: Learned Data Generation and Benchmarking for Bimanual Garment Flattening and Folding**|Zilong Huang et.al.|[2611.01190v1](http://arxiv.org/abs/2611.01190v1)|null|[αX↑4](https://alphaxiv.org/abs/2611.01190)|
 |**2026-10-31**|**Leap-VLA: High-Rate Robot Control from a Low-Rate VLM Backbone**|Lin Yang et.al.|[2611.01011v1](http://arxiv.org/abs/2611.01011v1)|null|[αX↑5](https://alphaxiv.org/abs/2611.01011)|
 |**2026-10-31**|**Verifying Test-State Identity in Paired Evaluation of Vision-Language-Action Models**|Rafiqul Islam et.al.|[2611.00896v1](http://arxiv.org/abs/2611.00896v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.00896)|

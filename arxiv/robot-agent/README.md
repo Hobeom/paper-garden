@@ -4,15 +4,15 @@
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-11-05**|**Learning the Task or Learning the Verifier? Rethinking Criteria Exposure in Embodied Self-Improvement**|Wenbo Huang et.al.|[2611.08318v1](http://arxiv.org/abs/2611.08318v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.08318)|
-|**2026-11-05**|**Transformer-Based Trajectory Prescription for sEMG-Optimizing Robot-Mediated Rehabilitation**|Gabriel Parra et.al.|[2611.08295v1](http://arxiv.org/abs/2611.08295v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.08295)|
-|**2026-11-05**|**RoboARCade: Benchmarking Agentic Robot Control**|Satvik Sharma et.al.|[2611.08209v1](http://arxiv.org/abs/2611.08209v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.08209)|
-|**2026-11-05**|**La-JEPA: Compact Robot Policies with Latent World Modeling**|Mateo Clémente et.al.|[2611.08156v1](http://arxiv.org/abs/2611.08156v1)|[link](https://github.com/mt-clemente/lajepa)|[αX↑0](https://alphaxiv.org/abs/2611.08156)|
-|**2026-11-05**|**A Unified Fractal Impedance Control Framework**|Adnan Takriti et.al.|[2611.08009v1](http://arxiv.org/abs/2611.08009v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.08009)|
-|**2026-11-05**|**AffordJEV: Affordance Grounding by Confirming Candidate Regions**|Jincheng Li et.al.|[2611.07896v1](http://arxiv.org/abs/2611.07896v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.07896)|
-|**2026-11-05**|**Generate-then-Rank: Learning Symbolic Goal Interpretation for Embodied Agents**|Jisen Lei et.al.|[2611.07825v1](http://arxiv.org/abs/2611.07825v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.07825)|
-|**2026-11-05**|**Closed-Loop Physics-Based Manipulation Evaluation at a Commodity Price: What 4.4 L4 GPU hours at $3.50 Buys You**|Rohun Kshirsagar et.al.|[2611.07441v1](http://arxiv.org/abs/2611.07441v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.07441)|
-|**2026-11-05**|**Kinematic Hypothesis Context: Embodiment-Conditioned Learned Video Coding for Bandwidth-Limited Robot Policy Uplinks**|Yuze Lu et.al.|[2611.07411v1](http://arxiv.org/abs/2611.07411v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.07411)|
+|**2026-11-05**|**Learning the Task or Learning the Verifier? Rethinking Criteria Exposure in Embodied Self-Improvement**|Wenbo Huang et.al.|[2611.08318v1](http://arxiv.org/abs/2611.08318v1)|null|[αX↑7](https://alphaxiv.org/abs/2611.08318)|
+|**2026-11-05**|**Transformer-Based Trajectory Prescription for sEMG-Optimizing Robot-Mediated Rehabilitation**|Gabriel Parra et.al.|[2611.08295v1](http://arxiv.org/abs/2611.08295v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.08295)|
+|**2026-11-05**|**RoboARCade: Benchmarking Agentic Robot Control**|Satvik Sharma et.al.|[2611.08209v1](http://arxiv.org/abs/2611.08209v1)|null|[αX↑8](https://alphaxiv.org/abs/2611.08209)|
+|**2026-11-05**|**La-JEPA: Compact Robot Policies with Latent World Modeling**|Mateo Clémente et.al.|[2611.08156v1](http://arxiv.org/abs/2611.08156v1)|[link](https://github.com/mt-clemente/lajepa)|[αX↑9](https://alphaxiv.org/abs/2611.08156)|
+|**2026-11-05**|**A Unified Fractal Impedance Control Framework**|Adnan Takriti et.al.|[2611.08009v1](http://arxiv.org/abs/2611.08009v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.08009)|
+|**2026-11-05**|**AffordJEV: Affordance Grounding by Confirming Candidate Regions**|Jincheng Li et.al.|[2611.07896v1](http://arxiv.org/abs/2611.07896v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.07896)|
+|**2026-11-05**|**Generate-then-Rank: Learning Symbolic Goal Interpretation for Embodied Agents**|Jisen Lei et.al.|[2611.07825v1](http://arxiv.org/abs/2611.07825v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.07825)|
+|**2026-11-05**|**Closed-Loop Physics-Based Manipulation Evaluation at a Commodity Price: What 4.4 L4 GPU hours at $3.50 Buys You**|Rohun Kshirsagar et.al.|[2611.07441v1](http://arxiv.org/abs/2611.07441v1)|null|[αX↑4](https://alphaxiv.org/abs/2611.07441)|
+|**2026-11-05**|**Kinematic Hypothesis Context: Embodiment-Conditioned Learned Video Coding for Bandwidth-Limited Robot Policy Uplinks**|Yuze Lu et.al.|[2611.07411v1](http://arxiv.org/abs/2611.07411v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.07411)|
 |**2026-11-04**|**Reinforcement Learning Enables Scaling Generalist Robot Policy Improvement**|Michal Korniak et.al.|[2611.06905v1](http://arxiv.org/abs/2611.06905v1)|[link](https://github.com/lasgroup/generalist-improvement)|[αX↑17](https://alphaxiv.org/abs/2611.06905)|
 |**2026-11-05**|**Open-HumanWAM: An Open Recipe for Scaling Human and Robot Experience for Embodied Foundation Models**|Juncheng Ma et.al.|[2611.06817v2](http://arxiv.org/abs/2611.06817v2)|[link](https://github.com/DAGroup-PKU/HumanNet/tree/Open-HumanWAM)|[αX↑12](https://alphaxiv.org/abs/2611.06817)|
 |**2026-11-04**|**Dexterous Robotic Hands in the Foundation-Model Era: A Full-Stack Survey of Hardware, Data, Cross-Embodiment Transfer, Learning, and Evaluation**|Ji Pei et.al.|[2611.06724v1](http://arxiv.org/abs/2611.06724v1)|null|[αX↑4](https://alphaxiv.org/abs/2611.06724)|

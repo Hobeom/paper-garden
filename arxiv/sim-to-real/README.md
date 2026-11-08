@@ -4,7 +4,7 @@
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-11-05**|**4D Point Splatting for mmWave Radar Micro-Doppler Differentiable Rendering**|Adnan Armouti et.al.|[2611.08342v1](http://arxiv.org/abs/2611.08342v1)|null|[αX↑4](https://alphaxiv.org/abs/2611.08342)|
+|**2026-11-05**|**4D Point Splatting for mmWave Radar Micro-Doppler Differentiable Rendering**|Adnan Armouti et.al.|[2611.08342v1](http://arxiv.org/abs/2611.08342v1)|null|[αX↑5](https://alphaxiv.org/abs/2611.08342)|
 |**2026-11-05**|**TactileLab: Sim-to-Real Dexterous Robot Manipulation with Efficient Shear-Sensitive Tactile Simulation**|Yijiong Lin et.al.|[2611.07881v1](http://arxiv.org/abs/2611.07881v1)|null|[αX↑4](https://alphaxiv.org/abs/2611.07881)|
 |**2026-11-05**|**An Empirical Study of Reinforcement Learning for Keypoint Positioning of Deformable Linear Objects**|Vinay Rodrigues et.al.|[2611.07261v1](http://arxiv.org/abs/2611.07261v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.07261)|
 |**2026-11-04**|**TwinBridge: Digital Twin-Driven Policy and Reward Transfer for Real-World Reinforcement Learning in Laboratory Robotics**|Shu'ang Sun et.al.|[2611.06442v1](http://arxiv.org/abs/2611.06442v1)|null|[αX↑3](https://alphaxiv.org/abs/2611.06442)|

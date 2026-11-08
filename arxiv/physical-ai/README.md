@@ -4,11 +4,11 @@
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-11-05**|**VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding**|Yu-Cheng Chou et.al.|[2611.08449v1](http://arxiv.org/abs/2611.08449v1)|null|[αX↑39](https://alphaxiv.org/abs/2611.08449)|
-|**2026-11-05**|**Failure Prediction and Classification in Vision-Language-Action Models Via Calibrated Latent Probing**|Michal P. Podolinsky et.al.|[2611.08425v1](http://arxiv.org/abs/2611.08425v1)|null|[αX↑4](https://alphaxiv.org/abs/2611.08425)|
-|**2026-11-05**|**La-JEPA: Compact Robot Policies with Latent World Modeling**|Mateo Clémente et.al.|[2611.08156v1](http://arxiv.org/abs/2611.08156v1)|[link](https://github.com/mt-clemente/lajepa)|[αX↑9](https://alphaxiv.org/abs/2611.08156)|
-|**2026-11-05**|**Scenario-aware Adaptive Neuromorphic Intelligence for multimodal sensor fusion**|Kapil Bhardwaj et.al.|[2611.07830v1](http://arxiv.org/abs/2611.07830v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.07830)|
-|**2026-11-05**|**Few-Shot Beam Selection for Embodied AI via In-Context Learning and Conformal Prediction**|Weicao Deng et.al.|[2611.07306v1](http://arxiv.org/abs/2611.07306v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.07306)|
+|**2026-11-05**|**VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding**|Yu-Cheng Chou et.al.|[2611.08449v1](http://arxiv.org/abs/2611.08449v1)|null|[αX↑62](https://alphaxiv.org/abs/2611.08449)|
+|**2026-11-05**|**Failure Prediction and Classification in Vision-Language-Action Models Via Calibrated Latent Probing**|Michal P. Podolinsky et.al.|[2611.08425v1](http://arxiv.org/abs/2611.08425v1)|null|[αX↑8](https://alphaxiv.org/abs/2611.08425)|
+|**2026-11-05**|**La-JEPA: Compact Robot Policies with Latent World Modeling**|Mateo Clémente et.al.|[2611.08156v1](http://arxiv.org/abs/2611.08156v1)|[link](https://github.com/mt-clemente/lajepa)|[αX↑17](https://alphaxiv.org/abs/2611.08156)|
+|**2026-11-05**|**Scenario-aware Adaptive Neuromorphic Intelligence for multimodal sensor fusion**|Kapil Bhardwaj et.al.|[2611.07830v1](http://arxiv.org/abs/2611.07830v1)|null|[αX↑3](https://alphaxiv.org/abs/2611.07830)|
+|**2026-11-05**|**Few-Shot Beam Selection for Embodied AI via In-Context Learning and Conformal Prediction**|Weicao Deng et.al.|[2611.07306v1](http://arxiv.org/abs/2611.07306v1)|null|[αX↑4](https://alphaxiv.org/abs/2611.07306)|
 |**2026-11-04**|**Reinforcement Learning Enables Scaling Generalist Robot Policy Improvement**|Michal Korniak et.al.|[2611.06905v1](http://arxiv.org/abs/2611.06905v1)|[link](https://github.com/lasgroup/generalist-improvement)|[αX↑22](https://alphaxiv.org/abs/2611.06905)|
 |**2026-11-05**|**Open-HumanWAM: An Open Recipe for Scaling Human and Robot Experience for Embodied Foundation Models**|Juncheng Ma et.al.|[2611.06817v2](http://arxiv.org/abs/2611.06817v2)|[link](https://github.com/DAGroup-PKU/HumanNet/tree/Open-HumanWAM)|[αX↑15](https://alphaxiv.org/abs/2611.06817)|
 |**2026-11-04**|**Compounding Physical RSI: Turning Execution Failure into Inherited Capability**|Yixuan Yang et.al.|[2611.06654v1](http://arxiv.org/abs/2611.06654v1)|null|[αX↑13](https://alphaxiv.org/abs/2611.06654)|

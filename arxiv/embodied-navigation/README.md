@@ -4,11 +4,11 @@
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-11-05**|**VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding**|Yu-Cheng Chou et.al.|[2611.08449v1](http://arxiv.org/abs/2611.08449v1)|null|[αX↑39](https://alphaxiv.org/abs/2611.08449)|
-|**2026-11-05**|**Reinforcing End-to-End Autonomous Driving Safety via Negative-Aware Planning in a Unified World-Action Model**|Zihao Zhang et.al.|[2611.08111v1](http://arxiv.org/abs/2611.08111v1)|[link](https://github.com/Zizizi-hao/NegWAM)|[αX↑1](https://alphaxiv.org/abs/2611.08111)|
+|**2026-11-05**|**VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding**|Yu-Cheng Chou et.al.|[2611.08449v1](http://arxiv.org/abs/2611.08449v1)|null|[αX↑62](https://alphaxiv.org/abs/2611.08449)|
+|**2026-11-05**|**Reinforcing End-to-End Autonomous Driving Safety via Negative-Aware Planning in a Unified World-Action Model**|Zihao Zhang et.al.|[2611.08111v1](http://arxiv.org/abs/2611.08111v1)|[link](https://github.com/Zizizi-hao/NegWAM)|[αX↑3](https://alphaxiv.org/abs/2611.08111)|
 |**2026-11-05**|**GuidedWAM: Training-Free Energy Guidance for World Action Models in Autonomous Driving**|Xiyan Su et.al.|[2611.07912v1](http://arxiv.org/abs/2611.07912v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.07912)|
-|**2026-11-05**|**Towards Real-Time Full-Waveform LiDAR Transformers via Intensity-Guided Token Reduction and Physics-Aware Augmentation**|Kotaro Oishi et.al.|[2611.07613v1](http://arxiv.org/abs/2611.07613v1)|[link](https://github.com/Keio-CSG/FWL-ToPM)|[αX↑1](https://alphaxiv.org/abs/2611.07613)|
-|**2026-11-04**|**Wide View Synthesis from Overlapping Perspective Cameras in Autonomous Driving**|Kaixuan Zhang et.al.|[2611.07081v1](http://arxiv.org/abs/2611.07081v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.07081)|
+|**2026-11-05**|**Towards Real-Time Full-Waveform LiDAR Transformers via Intensity-Guided Token Reduction and Physics-Aware Augmentation**|Kotaro Oishi et.al.|[2611.07613v1](http://arxiv.org/abs/2611.07613v1)|[link](https://github.com/Keio-CSG/FWL-ToPM)|[αX↑2](https://alphaxiv.org/abs/2611.07613)|
+|**2026-11-04**|**Wide View Synthesis from Overlapping Perspective Cameras in Autonomous Driving**|Kaixuan Zhang et.al.|[2611.07081v1](http://arxiv.org/abs/2611.07081v1)|null|[αX↑4](https://alphaxiv.org/abs/2611.07081)|
 |**2026-11-04**|**CoSafe: Cooperative Runtime Safety Assurance for Mixed-Traffic Autonomous Driving**|Dingji Wang et.al.|[2611.06204v1](http://arxiv.org/abs/2611.06204v1)|[link](https://github.com/Kiki2049/CoSafe)|[αX↑3](https://alphaxiv.org/abs/2611.06204)|
 |**2026-11-04**|**MotoVerse: A Benchmark for Predictive Perception of Motorized Two-Wheelers in Dense Unstructured Traffic**|Varun A. Paturkar et.al.|[2611.06007v1](http://arxiv.org/abs/2611.06007v1)|[link](https://github.com/VarunIIITH/MotoVerse)|[αX↑4](https://alphaxiv.org/abs/2611.06007)|
 |**2026-11-03**|**OdorSpaces: Visual-Olfactory Embodied Navigation in 3D Environments**|Changyeon Lee et.al.|[2611.05738v1](http://arxiv.org/abs/2611.05738v1)|null|[αX↑3](https://alphaxiv.org/abs/2611.05738)|

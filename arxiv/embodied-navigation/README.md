@@ -1,9 +1,12 @@
 ## Embodied Navigation & Driving
 
-### Updated on 2026.11.10
+### Updated on 2026.11.11
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-11-10**|**RiSE-Drive: Risk-Sensitive Long-Horizon Candidate Evaluation for End-to-End Autonomous Driving**|Yu Zhao et.al.|[2611.13790v1](http://arxiv.org/abs/2611.13790v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.13790)|
+|**2026-11-10**|**Route-Time Conflict Maps for Cooperative End-to-End Autonomous Driving**|Haohua Que et.al.|[2611.13494v1](http://arxiv.org/abs/2611.13494v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.13494)|
+|**2026-11-06**|**URL-Sim: Unified and Regulated LiDAR Simulation for High-Fidelity Reconstruction of Dynamic Driving Scenes**|Kefei Qian et.al.|[2611.12932v1](http://arxiv.org/abs/2611.12932v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.12932)|
 |**2026-11-09**|**AutoVLA-D: Learn a Trajectory-Geometric Condition from Reasoning for Autonomous Driving VLA**|Yuguang Yang et.al.|[2611.12382v1](http://arxiv.org/abs/2611.12382v1)|[link](https://github.com/ShivaTeam/AutoVLA-D)|[αX↑0](https://alphaxiv.org/abs/2611.12382)|
 |**2026-11-09**|**Mitigating SM-Level Load Imbalance in 3D Gaussian Splatting on GPUs**|Junha Ryu et.al.|[2611.12319v1](http://arxiv.org/abs/2611.12319v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.12319)|
 |**2026-11-09**|**Compass 1: Towards Open-World and Persistent Embodied Navigation from Monocular RGB Videos**|Hai Zhang et.al.|[2611.12087v1](http://arxiv.org/abs/2611.12087v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.12087)|
@@ -17,10 +20,10 @@
 |**2026-11-07**|**CPNav: Calibrated Vision-Language Navigation for Object-Goal Search in Unseen Environments**|Qizhao Chen et.al.|[2611.10366v1](http://arxiv.org/abs/2611.10366v1)|[link](https://github.com/practice-lab-ucla/CPnav)|[αX↑0](https://alphaxiv.org/abs/2611.10366)|
 |**2026-11-06**|**Scenario Orchestration for Closed-loop Policy Evaluation of Autonomous Driving**|Frieda Rong et.al.|[2611.09888v1](http://arxiv.org/abs/2611.09888v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.09888)|
 |**2026-11-05**|**BEVCast: Path-Adaptive BEV for Efficient End-to-End Autonomous Driving**|Qiren Wang et.al.|[2611.08631v1](http://arxiv.org/abs/2611.08631v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.08631)|
-|**2026-11-05**|**VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding**|Yu-Cheng Chou et.al.|[2611.08449v1](http://arxiv.org/abs/2611.08449v1)|null|[🤗👍111](https://huggingface.co/papers/2611.08449) [αX↑92](https://alphaxiv.org/abs/2611.08449)|
+|**2026-11-05**|**VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding**|Yu-Cheng Chou et.al.|[2611.08449v1](http://arxiv.org/abs/2611.08449v1)|null|[🤗👍111](https://huggingface.co/papers/2611.08449) [αX↑106](https://alphaxiv.org/abs/2611.08449)|
 |**2026-11-05**|**Reinforcing End-to-End Autonomous Driving Safety via Negative-Aware Planning in a Unified World-Action Model**|Zihao Zhang et.al.|[2611.08111v1](http://arxiv.org/abs/2611.08111v1)|[link](https://github.com/Zizizi-hao/NegWAM)|[αX↑5](https://alphaxiv.org/abs/2611.08111)|
-|**2026-11-05**|**GuidedWAM: Training-Free Energy Guidance for World Action Models in Autonomous Driving**|Xiyan Su et.al.|[2611.07912v1](http://arxiv.org/abs/2611.07912v1)|null|[αX↑5](https://alphaxiv.org/abs/2611.07912)|
-|**2026-11-05**|**Towards Real-Time Full-Waveform LiDAR Transformers via Intensity-Guided Token Reduction and Physics-Aware Augmentation**|Kotaro Oishi et.al.|[2611.07613v1](http://arxiv.org/abs/2611.07613v1)|[link](https://github.com/Keio-CSG/FWL-ToPM)|[🤗👍5](https://huggingface.co/papers/2611.07613) [αX↑5](https://alphaxiv.org/abs/2611.07613)|
+|**2026-11-05**|**GuidedWAM: Training-Free Energy Guidance for World Action Models in Autonomous Driving**|Xiyan Su et.al.|[2611.07912v1](http://arxiv.org/abs/2611.07912v1)|null|[αX↑7](https://alphaxiv.org/abs/2611.07912)|
+|**2026-11-05**|**Towards Real-Time Full-Waveform LiDAR Transformers via Intensity-Guided Token Reduction and Physics-Aware Augmentation**|Kotaro Oishi et.al.|[2611.07613v1](http://arxiv.org/abs/2611.07613v1)|[link](https://github.com/Keio-CSG/FWL-ToPM)|[🤗👍5](https://huggingface.co/papers/2611.07613) [αX↑6](https://alphaxiv.org/abs/2611.07613)|
 |**2026-11-04**|**Wide View Synthesis from Overlapping Perspective Cameras in Autonomous Driving**|Kaixuan Zhang et.al.|[2611.07081v1](http://arxiv.org/abs/2611.07081v1)|null|[αX↑5](https://alphaxiv.org/abs/2611.07081)|
 |**2026-11-04**|**CoSafe: Cooperative Runtime Safety Assurance for Mixed-Traffic Autonomous Driving**|Dingji Wang et.al.|[2611.06204v1](http://arxiv.org/abs/2611.06204v1)|[link](https://github.com/Kiki2049/CoSafe)|[αX↑4](https://alphaxiv.org/abs/2611.06204)|
 |**2026-11-04**|**MotoVerse: A Benchmark for Predictive Perception of Motorized Two-Wheelers in Dense Unstructured Traffic**|Varun A. Paturkar et.al.|[2611.06007v1](http://arxiv.org/abs/2611.06007v1)|[link](https://github.com/VarunIIITH/MotoVerse)|[αX↑5](https://alphaxiv.org/abs/2611.06007)|

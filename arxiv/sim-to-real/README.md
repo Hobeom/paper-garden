@@ -1,9 +1,10 @@
 ## Sim-to-Real
 
-### Updated on 2026.11.10
+### Updated on 2026.11.11
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-11-10**|**DeRep: Learning Depth Representations for End-to-End Navigation in Cluttered Environments**|Hanyu Jin et.al.|[2611.13499v1](http://arxiv.org/abs/2611.13499v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.13499)|
 |**2026-11-09**|**WanderBench: Can World Models Explore Dynamic Worlds from Video?**|Yuhang Chen et.al.|[2611.12557v1](http://arxiv.org/abs/2611.12557v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.12557)|
 |**2026-11-08**|**Feel My Focus: Gaze-Triggered Digital Twin Creation for Remote Collaboration**|Shih-Yu Ma et.al.|[2611.11640v1](http://arxiv.org/abs/2611.11640v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.11640)|
 |**2026-11-08**|**From Festival Video to the Stage: A Sim-to-Real Ladder for Long-Horizon Expressive Whole-Body Dance on a Commercial Humanoid**|Hesham Shehata et.al.|[2611.11127v1](http://arxiv.org/abs/2611.11127v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.11127)|
@@ -19,8 +20,8 @@
 |**2026-11-06**|**RevoSim: Scalable Multimodal Tactile Simulation for Dexterous Manipulation**|Ke Zhang et.al.|[2611.08939v1](http://arxiv.org/abs/2611.08939v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.08939)|
 |**2026-11-06**|**STRIDE: Learning Humanoid Locomotion in Minutes with Acceleration-Based Rewards**|Nico Bohlinger et.al.|[2611.08857v1](http://arxiv.org/abs/2611.08857v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.08857)|
 |**2026-11-05**|**From Geometry to Function: A Multi-Task LiDAR Benchmark Dataset for Semantic and Functional Parsing of Urban Facades**|Abdiaziz Muse et.al.|[2611.08645v1](http://arxiv.org/abs/2611.08645v1)|[link](https://github.com/jijup/hfx3d-benchmark)|[αX↑2](https://alphaxiv.org/abs/2611.08645)|
-|**2026-11-05**|**4D Point Splatting for mmWave Radar Micro-Doppler Differentiable Rendering**|Adnan Armouti et.al.|[2611.08342v1](http://arxiv.org/abs/2611.08342v1)|null|[αX↑7](https://alphaxiv.org/abs/2611.08342)|
-|**2026-11-05**|**TactileLab: Sim-to-Real Dexterous Robot Manipulation with Efficient Shear-Sensitive Tactile Simulation**|Yijiong Lin et.al.|[2611.07881v1](http://arxiv.org/abs/2611.07881v1)|null|[αX↑7](https://alphaxiv.org/abs/2611.07881)|
+|**2026-11-05**|**4D Point Splatting for mmWave Radar Micro-Doppler Differentiable Rendering**|Adnan Armouti et.al.|[2611.08342v1](http://arxiv.org/abs/2611.08342v1)|null|[αX↑8](https://alphaxiv.org/abs/2611.08342)|
+|**2026-11-05**|**TactileLab: Sim-to-Real Dexterous Robot Manipulation with Efficient Shear-Sensitive Tactile Simulation**|Yijiong Lin et.al.|[2611.07881v1](http://arxiv.org/abs/2611.07881v1)|null|[αX↑12](https://alphaxiv.org/abs/2611.07881)|
 |**2026-11-05**|**An Empirical Study of Reinforcement Learning for Keypoint Positioning of Deformable Linear Objects**|Vinay Rodrigues et.al.|[2611.07261v1](http://arxiv.org/abs/2611.07261v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.07261)|
 |**2026-11-04**|**TwinBridge: Digital Twin-Driven Policy and Reward Transfer for Real-World Reinforcement Learning in Laboratory Robotics**|Shu'ang Sun et.al.|[2611.06442v1](http://arxiv.org/abs/2611.06442v1)|null|[αX↑5](https://alphaxiv.org/abs/2611.06442)|
 |**2026-11-04**|**Learning to Tune with Biased Gradients: Iterative Feedback Tuning of Model-Free Control on Throttle Valves**|Félix Martinez-Jiménez et.al.|[2611.06338v1](http://arxiv.org/abs/2611.06338v1)|null|[αX↑6](https://alphaxiv.org/abs/2611.06338)|

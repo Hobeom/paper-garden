@@ -1,9 +1,15 @@
 ## Sim-to-Real
 
-### Updated on 2026.11.12
+### Updated on 2026.11.13
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-11-12**|**Fog-FWL: A Large-Scale Full-Waveform LiDAR Dataset for Recovering Fog-Hidden Objects**|Kazuma Ikeda et.al.|[2611.16742v1](http://arxiv.org/abs/2611.16742v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.16742)|
+|**2026-11-12**|**Memory-Efficient Parallel Policy Learning for Collapse-Reactive Retreat via Hybrid Terrain Modeling**|Yuki Kadokawa et.al.|[2611.16337v1](http://arxiv.org/abs/2611.16337v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.16337)|
+|**2026-11-11**|**Embedded Sim-to-Real Visual Servoing: Learned Reaching and Force-Guided Placement**|Dezhi Sun et.al.|[2611.15658v1](http://arxiv.org/abs/2611.15658v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.15658)|
+|**2026-11-11**|**Reading the Table: Sim-to-Real Game State Detection for the Chef's Hat Card Game**|Connor Gäde et.al.|[2611.15524v1](http://arxiv.org/abs/2611.15524v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.15524)|
+|**2026-11-11**|**MiniPose: Miniature-Based Real Data Collection for 6D Pose Estimation of Large Industrial Pipe Segments**|Hyunjun Kim et.al.|[2611.15066v1](http://arxiv.org/abs/2611.15066v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.15066)|
+|**2026-11-11**|**Genie Sim Benchmark: Real-to-Sim Fidelity and Evaluation**|Di Yang et.al.|[2611.15020v1](http://arxiv.org/abs/2611.15020v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.15020)|
 |**2026-11-10**|**DeRep: Learning Depth Representations for End-to-End Navigation in Cluttered Environments**|Hanyu Jin et.al.|[2611.13499v1](http://arxiv.org/abs/2611.13499v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.13499)|
 |**2026-11-09**|**WanderBench: Can World Models Explore Dynamic Worlds from Video?**|Yuhang Chen et.al.|[2611.12557v1](http://arxiv.org/abs/2611.12557v1)|null|[αX↑3](https://alphaxiv.org/abs/2611.12557)|
 |**2026-11-08**|**Feel My Focus: Gaze-Triggered Digital Twin Creation for Remote Collaboration**|Shih-Yu Ma et.al.|[2611.11640v1](http://arxiv.org/abs/2611.11640v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.11640)|
@@ -281,6 +287,7 @@
 |**2026-06-30**|**ASPIRE: Agentic /Skills Discovery for Robotics**|Runyu Lu et.al.|[2607.00272v1](http://arxiv.org/abs/2607.00272v1)|null|[🤗👍24](https://huggingface.co/papers/2607.00272) [αX↑125](https://alphaxiv.org/abs/2607.00272)|
 |**2026-07-01**|**Labimus: A Simulation and Benchmark for Humanoid Dexterous Manipulation in Chemical Laboratory**|Yuhan Wu et.al.|[2606.31037v2](http://arxiv.org/abs/2606.31037v2)|null|[αX↑9](https://alphaxiv.org/abs/2606.31037)|
 |**2026-06-29**|**VLK: Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes**|Yen-Jen Wang et.al.|[2606.30645v1](http://arxiv.org/abs/2606.30645v1)|null|[αX↑62](https://alphaxiv.org/abs/2606.30645)|
+|**2026-10-08**|**Recover, Discover, Plan: Learning Skills and Concepts from Robot Failures**|Bowen Li et.al.|[2606.18328v2](http://arxiv.org/abs/2606.18328v2)|null|[αX↑17](https://alphaxiv.org/abs/2606.18328)|
 |**2026-06-03**|**GRAIL: Generating Humanoid Loco-Manipulation from 3D Assets and Video Priors**|Tianyi Xie et.al.|[2606.05160v1](http://arxiv.org/abs/2606.05160v1)|[link](https://github.com/NVlabs/GRAIL)|[🤗👍8](https://huggingface.co/papers/2606.05160) [αX↑64](https://alphaxiv.org/abs/2606.05160)|
 |**2026-06-13**|**WAM-Nav: Asymmetric Latent World-Action Modeling for Unified Visual Navigation**|Ning Yang et.al.|[2606.04907v2](http://arxiv.org/abs/2606.04907v2)|null|[αX↑27](https://alphaxiv.org/abs/2606.04907)|
 |**2026-04-13**|**DexWorldModel: Causal Latent World Modeling towards Automated Learning of Embodied Tasks**|Yueci Deng et.al.|[2604.16484v1](http://arxiv.org/abs/2604.16484v1)|null|[αX↑13](https://alphaxiv.org/abs/2604.16484)|

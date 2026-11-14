@@ -1,6 +1,6 @@
 ## World Models
 
-### Updated on 2026.11.13
+### Updated on 2026.11.14
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -719,6 +719,7 @@
 |**2026-09-23**|**PointCast: One World Model for Rigid, Articulated, and Deformable Object Manipulation**|Hantao Ye et.al.|[2609.28393v1](http://arxiv.org/abs/2609.28393v1)|null|[αX↑17](https://alphaxiv.org/abs/2609.28393)|
 |**2026-08-15**|**AWM-VLA: AlignedWorld Modeling for Efficient and Explainable Vision-Language-Action Policies**|An Lanji et.al.|[2609.27753v1](http://arxiv.org/abs/2609.27753v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.27753)|
 |**2026-09-22**|**Code Plans, Diffusion Renders: Open-Ended Generative World Modeling**|Zixun Fang et.al.|[2609.26458v1](http://arxiv.org/abs/2609.26458v1)|null|[αX↑20](https://alphaxiv.org/abs/2609.26458)|
+|**2026-09-22**|**Fysiverse-3D-Vision Technical Report: Generating Executable 3D Worlds from Images through Unified Spatial Reasoning**|Dingkang Yang et.al.|[2609.25741v1](http://arxiv.org/abs/2609.25741v1)|[link](https://github.com/Fysics-AI/Fysiverse-3D-Vision)|[αX↑3](https://alphaxiv.org/abs/2609.25741)|
 |**2026-09-21**|**WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory**|Wangbo Yu et.al.|[2609.24984v1](http://arxiv.org/abs/2609.24984v1)|[link](https://github.com/TencentARC/WorldCrafter)|[🤗👍160](https://huggingface.co/papers/2609.24984) [αX↑91](https://alphaxiv.org/abs/2609.24984)|
 |**2026-09-21**|**D-JEPA: A Decision-Aligned Latent World Model**|Shuaijun Liu et.al.|[2609.24749v1](http://arxiv.org/abs/2609.24749v1)|[link](https://github.com/NEBULIS-Lab/D-JEPA)|[🤗👍18](https://huggingface.co/papers/2609.24749) [αX↑31](https://alphaxiv.org/abs/2609.24749)|
 |**2026-09-21**|**Relationally Grounded Latent World Models for Autonomous Driving**|Fabian Schmidt et.al.|[2609.24626v1](http://arxiv.org/abs/2609.24626v1)|null|[αX↑4](https://alphaxiv.org/abs/2609.24626)|

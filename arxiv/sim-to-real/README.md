@@ -4,7 +4,7 @@
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-11-12**|**Fog-FWL: A Large-Scale Full-Waveform LiDAR Dataset for Recovering Fog-Hidden Objects**|Kazuma Ikeda et.al.|[2611.16742v1](http://arxiv.org/abs/2611.16742v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.16742)|
+|**2026-11-12**|**Fog-FWL: A Large-Scale Full-Waveform LiDAR Dataset for Recovering Fog-Hidden Objects**|Kazuma Ikeda et.al.|[2611.16742v1](http://arxiv.org/abs/2611.16742v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.16742)|
 |**2026-11-12**|**Memory-Efficient Parallel Policy Learning for Collapse-Reactive Retreat via Hybrid Terrain Modeling**|Yuki Kadokawa et.al.|[2611.16337v1](http://arxiv.org/abs/2611.16337v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.16337)|
 |**2026-11-11**|**Embedded Sim-to-Real Visual Servoing: Learned Reaching and Force-Guided Placement**|Dezhi Sun et.al.|[2611.15658v1](http://arxiv.org/abs/2611.15658v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.15658)|
 |**2026-11-11**|**Reading the Table: Sim-to-Real Game State Detection for the Chef's Hat Card Game**|Connor Gäde et.al.|[2611.15524v1](http://arxiv.org/abs/2611.15524v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.15524)|
@@ -269,6 +269,7 @@
 |**2026-09-20**|**ReVeal: A Reconstruction-Aware Real-to-Sim Framework for VLA Policy Evaluation**|Xinyi Wang et.al.|[2609.23910v1](http://arxiv.org/abs/2609.23910v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.23910)|
 |**2026-09-20**|**PRIMO: Prior-Informed Odometry from Human-Motion Tracking for Humanoid Robots**|Xu Han et.al.|[2609.23610v1](http://arxiv.org/abs/2609.23610v1)|[link](https://github.com/Agibot-Spatial-Intelligence/PRIMO)|[αX↑2](https://alphaxiv.org/abs/2609.23610)|
 |**2026-09-20**|**PINGU: Extending Air-Bearing Spacecraft Emulators with Open-Source Actuators and Learned Control for Contact-Rich Proximity Operations**|Ricard Marsal I Castan et.al.|[2609.23554v1](http://arxiv.org/abs/2609.23554v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.23554)|
+|**2026-09-19**|**Verti-WM: A Physics-Aided Exteroceptive World Model for Off-Road Reinforcement Learning**|Chenhui Pan et.al.|[2609.23118v1](http://arxiv.org/abs/2609.23118v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.23118)|
 |**2026-09-19**|**"Dear LLaVA, Please Drive": A Depth-Aware Vision-Language Agent for Closed-Loop Robotic Control**|Sebastian Berger et.al.|[2609.22925v1](http://arxiv.org/abs/2609.22925v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.22925)|
 |**2026-09-18**|**KnowDemo: Knowledge-Guided Robot Demonstration Generation from Human Videos**|Zhiyuan Gao et.al.|[2609.21229v1](http://arxiv.org/abs/2609.21229v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.21229)|
 |**2026-10-05**|**DEXTERA: From a Single Image to Deployable Dexterous Manipulation via Real-to-Sim-to-Real**|Jin Wu et.al.|[2609.21045v2](http://arxiv.org/abs/2609.21045v2)|null|[αX↑10](https://alphaxiv.org/abs/2609.21045)|

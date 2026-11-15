@@ -1,6 +1,6 @@
 ## Robot & Agent
 
-### Updated on 2026.11.14
+### Updated on 2026.11.15
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -63,11 +63,11 @@
 |**2026-11-06**|**OfficeTwin: Realizing 3D Reconstruction of Redundant Scenes through Partial Viewpoint Perception**|Quanyun Wu et.al.|[2611.10241v1](http://arxiv.org/abs/2611.10241v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.10241)|
 |**2026-11-06**|**BATCH: Behavior Alignment for Cross-Embodiment Learning from Humans**|Zeyi Liu et.al.|[2611.10148v1](http://arxiv.org/abs/2611.10148v1)|null|[αX↑14](https://alphaxiv.org/abs/2611.10148)|
 |**2026-11-06**|**UniLatent: Cross-Embodiment Transfer via Latent Observation Alignment**|Yufei Ding et.al.|[2611.10061v1](http://arxiv.org/abs/2611.10061v1)|[link](https://github.com/Selina2023/unilatent)|[αX↑6](https://alphaxiv.org/abs/2611.10061)|
-|**2026-11-06**|**Can LLMs Debug Robots by Editing Their Weights?**|Jusheng Zhang et.al.|[2611.09376v1](http://arxiv.org/abs/2611.09376v1)|null|[αX↑13](https://alphaxiv.org/abs/2611.09376)|
+|**2026-11-06**|**Can LLMs Debug Robots by Editing Their Weights?**|Jusheng Zhang et.al.|[2611.09376v1](http://arxiv.org/abs/2611.09376v1)|null|[αX↑14](https://alphaxiv.org/abs/2611.09376)|
 |**2026-11-06**|**Augmentron: Scalable Multi-View Visual Augmentation for Robot Learning**|Tanay Tandon et.al.|[2611.09145v1](http://arxiv.org/abs/2611.09145v1)|null|[αX↑5](https://alphaxiv.org/abs/2611.09145)|
 |**2026-11-06**|**TouchAnnotator: Multi-Source Tactile Supervision with Privileged-View Distillation**|Ao Li et.al.|[2611.09129v1](http://arxiv.org/abs/2611.09129v1)|[link](https://github.com/RammusLeo/TouchAnnotator)|[αX↑5](https://alphaxiv.org/abs/2611.09129)|
-|**2026-11-06**|**ToolDex: An Ego-Exo Human Demonstration Dataset for Creative Physical Tool Use**|Mohamed Elmoghany et.al.|[2611.09036v1](http://arxiv.org/abs/2611.09036v1)|null|[αX↑31](https://alphaxiv.org/abs/2611.09036)|
-|**2026-11-06**|**A Controlled Study of Models, Skills, Feedback, and Curriculum in Agentic Robotics**|Kaiyuan Chen et.al.|[2611.09030v1](http://arxiv.org/abs/2611.09030v1)|null|[αX↑15](https://alphaxiv.org/abs/2611.09030)|
+|**2026-11-06**|**ToolDex: An Ego-Exo Human Demonstration Dataset for Creative Physical Tool Use**|Mohamed Elmoghany et.al.|[2611.09036v1](http://arxiv.org/abs/2611.09036v1)|null|[αX↑32](https://alphaxiv.org/abs/2611.09036)|
+|**2026-11-06**|**A Controlled Study of Models, Skills, Feedback, and Curriculum in Agentic Robotics**|Kaiyuan Chen et.al.|[2611.09030v1](http://arxiv.org/abs/2611.09030v1)|null|[αX↑16](https://alphaxiv.org/abs/2611.09030)|
 |**2026-11-06**|**STRIDE: Learning Humanoid Locomotion in Minutes with Acceleration-Based Rewards**|Nico Bohlinger et.al.|[2611.08857v1](http://arxiv.org/abs/2611.08857v1)|null|[αX↑8](https://alphaxiv.org/abs/2611.08857)|
 |**2026-11-12**|**Meituan-Robotics-0: A Vision-Language-Action Foundation Model for Desktop Manipulation**|Meituan Robotics Team et.al.|[2611.08577v3](http://arxiv.org/abs/2611.08577v3)|[link](https://github.com/Meituan-Robotics/Meituan-Robotics-0)|[αX↑22](https://alphaxiv.org/abs/2611.08577)|
 |**2026-11-05**|**Q-OIL: Optimistic Exploration in Learning from Human Interventions**|Pranav Teegavarapu et.al.|[2611.08576v1](http://arxiv.org/abs/2611.08576v1)|null|[αX↑9](https://alphaxiv.org/abs/2611.08576)|
@@ -94,7 +94,7 @@
 |**2026-11-03**|**Asynchronous Robot Policies**|Sombit Dey et.al.|[2611.05155v1](http://arxiv.org/abs/2611.05155v1)|[link](https://github.com/yxBeginner/RL-and-Robot)|[αX↑17](https://alphaxiv.org/abs/2611.05155)|
 |**2026-11-03**|**HLO-AMP: Hierarchical Loco-Manipulation from Object-Aware Motion Priors**|Jean-Pierre Sleiman et.al.|[2611.05113v1](http://arxiv.org/abs/2611.05113v1)|null|[αX↑16](https://alphaxiv.org/abs/2611.05113)|
 |**2026-11-03**|**CRONOS: Benchmarking Non-Episodic Reinforcement Learning for Robotic Manipulation**|Po-Yi Wu et.al.|[2611.05080v1](http://arxiv.org/abs/2611.05080v1)|null|[αX↑10](https://alphaxiv.org/abs/2611.05080)|
-|**2026-11-04**|**FloMo: 3D Scene Flow as a World Action Model Intermediate for Learning from Human Video**|Jeremy Collins et.al.|[2611.05062v2](http://arxiv.org/abs/2611.05062v2)|null|[αX↑18](https://alphaxiv.org/abs/2611.05062)|
+|**2026-11-04**|**FloMo: 3D Scene Flow as a World Action Model Intermediate for Learning from Human Video**|Jeremy Collins et.al.|[2611.05062v2](http://arxiv.org/abs/2611.05062v2)|null|[αX↑19](https://alphaxiv.org/abs/2611.05062)|
 |**2026-11-03**|**Do Agentic Policies Need to Look at Every Step? Geometric Abstraction for Reasoning and Action**|Yihang Liu et.al.|[2611.05058v1](http://arxiv.org/abs/2611.05058v1)|[link](https://github.com/Spectraorder/geometric-abstraction)|[αX↑14](https://alphaxiv.org/abs/2611.05058)|
 |**2026-11-03**|**LLMs as MDP Designers: A Dependency-Aware Agentic Framework for Automated Robot Policy Generation**|Hong Je-Gal et.al.|[2611.04974v1](http://arxiv.org/abs/2611.04974v1)|null|[αX↑10](https://alphaxiv.org/abs/2611.04974)|
 |**2026-11-03**|**PrimeSim: A Generalist World Model Simulator from Large-Scale Cross-Embodiment Demonstrations**|Travis Davies et.al.|[2611.04870v1](http://arxiv.org/abs/2611.04870v1)|[link](https://github.com/PrimebotTech/PrimeSim)|[🤗👍10](https://huggingface.co/papers/2611.04870) [αX↑15](https://alphaxiv.org/abs/2611.04870)|

@@ -1,9 +1,14 @@
 ## Sim-to-Real
 
-### Updated on 2026.11.17
+### Updated on 2026.11.18
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-11-17**|**Any2Building: Unifying Point Clouds and Images for Building Reconstruction via Shared Spatial Queries**|Hongye Hou et.al.|[2611.23187v1](http://arxiv.org/abs/2611.23187v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.23187)|
+|**2026-11-17**|**RFW-S: Everyday Deformable Objects with Independent Simulation Verification**|Jiarui Guo et.al.|[2611.23056v1](http://arxiv.org/abs/2611.23056v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.23056)|
+|**2026-11-17**|**Practice in Text, Act in Pixels: Correcting Where Perception Fails**|Zhongling Xu et.al.|[2611.22722v1](http://arxiv.org/abs/2611.22722v1)|[link](https://github.com/Carlxuzhl/practice-in-text)|[αX↑0](https://alphaxiv.org/abs/2611.22722)|
+|**2026-11-17**|**PhyVGGT: Feed-Forward Articulated Object Reconstruction from Monocular Videos**|Qi Shao et.al.|[2611.22244v1](http://arxiv.org/abs/2611.22244v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.22244)|
+|**2026-11-16**|**ASTRA: ASV Simulator for Transferable Realistic Autonomy**|Tsimafei Lazouski et.al.|[2611.21789v1](http://arxiv.org/abs/2611.21789v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.21789)|
 |**2026-11-16**|**Exploring the link between predictive uncertainty and the sim-to-real gap in deep learning models utilizing synthetic data**|Alexander Moriz et.al.|[2611.21365v1](http://arxiv.org/abs/2611.21365v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.21365)|
 |**2026-11-16**|**artist: A Python package for differentiable ray tracing and gradient-based optimization of solar tower power plant operation**|Marlene Busch et.al.|[2611.20851v1](http://arxiv.org/abs/2611.20851v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.20851)|
 |**2026-11-16**|**DNA: A Double-Helix Hierarchical Deep Interaction Network Architecture for Industrial Digital Twin**|Haoran Yang et.al.|[2611.20607v1](http://arxiv.org/abs/2611.20607v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.20607)|
@@ -36,7 +41,7 @@
 |**2026-11-10**|**DeRep: Learning Depth Representations for End-to-End Navigation in Cluttered Environments**|Hanyu Jin et.al.|[2611.13499v1](http://arxiv.org/abs/2611.13499v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.13499)|
 |**2026-11-09**|**WanderBench: Can World Models Explore Dynamic Worlds from Video?**|Yuhang Chen et.al.|[2611.12557v1](http://arxiv.org/abs/2611.12557v1)|null|[αX↑3](https://alphaxiv.org/abs/2611.12557)|
 |**2026-11-08**|**Feel My Focus: Gaze-Triggered Digital Twin Creation for Remote Collaboration**|Shih-Yu Ma et.al.|[2611.11640v1](http://arxiv.org/abs/2611.11640v1)|null|[αX↑5](https://alphaxiv.org/abs/2611.11640)|
-|**2026-11-08**|**From Festival Video to the Stage: A Sim-to-Real Ladder for Long-Horizon Expressive Whole-Body Dance on a Commercial Humanoid**|Hesham Shehata et.al.|[2611.11127v1](http://arxiv.org/abs/2611.11127v1)|null|[αX↑4](https://alphaxiv.org/abs/2611.11127)|
+|**2026-11-13**|**From Festival Video to the Stage: A Sim-to-Real Ladder for Long-Horizon Expressive Whole-Body Dance on a Commercial Humanoid**|Hesham Shehata et.al.|[2611.11127v2](http://arxiv.org/abs/2611.11127v2)|null|[αX↑4](https://alphaxiv.org/abs/2611.11127)|
 |**2026-11-07**|**Differentiable Agent-Based Modeling for Multi-Echelon Supply Chains: Gradient-Based Optimization of Heterogeneous Policies at Scale**|Bulent Soykan et.al.|[2611.10999v1](http://arxiv.org/abs/2611.10999v1)|null|[αX↑3](https://alphaxiv.org/abs/2611.10999)|
 |**2026-11-07**|**Zero-Shot VLA Adaptation with Retrieved Guidance**|Subin Kim et.al.|[2611.10894v1](http://arxiv.org/abs/2611.10894v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.10894)|
 |**2026-11-07**|**GUARD: Anomaly-Informed Q-Steering for Generative Robot Policies in Dexterous Manipulation**|Aryaman Gupta et.al.|[2611.10343v1](http://arxiv.org/abs/2611.10343v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.10343)|

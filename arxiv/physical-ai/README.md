@@ -1,9 +1,13 @@
 ## Physical AI
 
-### Updated on 2026.11.17
+### Updated on 2026.11.18
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-11-17**|**PAIR: Bringing Household Robots into the Smart Home**|Junseong Pyo et.al.|[2611.23070v1](http://arxiv.org/abs/2611.23070v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.23070)|
+|**2026-11-17**|**Network-Exposed Configuration Attacks on LLM-Controlled Social Robots**|Stanley Akingbola et.al.|[2611.22761v1](http://arxiv.org/abs/2611.22761v1)|[link](https://github.com/akingbolastanley1998-byte/reachy-personality-injection)|[αX↑0](https://alphaxiv.org/abs/2611.22761)|
+|**2026-11-17**|**Perception into Imagination: Executable Memory for World Models**|Xianyao Li et.al.|[2611.22294v1](http://arxiv.org/abs/2611.22294v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.22294)|
+|**2026-11-17**|**Big Brains, Tiny Board: Pupavision, an Agentic Physical AI Instrument for Monitoring Drosophila Pupariation and Lifecycle Transitions**|Joel Sadler et.al.|[2611.22136v1](http://arxiv.org/abs/2611.22136v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.22136)|
 |**2026-11-16**|**ScaleVLA: Scaling Vision-Language-Action Models to 552 Billion Parameters**|Ruixi Yu et.al.|[2611.21607v1](http://arxiv.org/abs/2611.21607v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.21607)|
 |**2026-11-15**|**DoF-Query Transformer for Adaptive Fusion of Egocentric Vision and Forearm HD-sEMG in Continuous Hand Kinematics**|Jiahang Liu et.al.|[2611.20196v1](http://arxiv.org/abs/2611.20196v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.20196)|
 |**2026-11-15**|**EgoSwarm: Learning Decentralized Robot Swarm Intelligence from Human Swarm Demonstrations**|Ziqiang Liu et.al.|[2611.20100v1](http://arxiv.org/abs/2611.20100v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.20100)|
@@ -18,9 +22,9 @@
 |**2026-11-13**|**Robot Demonstration Videos Should Include Transparency Disclosures**|Nozomi Nakajima et.al.|[2611.18982v1](http://arxiv.org/abs/2611.18982v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.18982)|
 |**2026-11-13**|**From AI-Enabled Remote Patient Monitoring Toward Agentic Robotics: Embodiment, Governance, and Care Integration**|Ivana Ragusa et.al.|[2611.18484v1](http://arxiv.org/abs/2611.18484v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.18484)|
 |**2026-11-13**|**AI-guided robotic in situ fabrication of curvature- and tissue-adaptive wireless bioelectronics**|Hiroyuki Tetsuka et.al.|[2611.17638v1](http://arxiv.org/abs/2611.17638v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.17638)|
-|**2026-11-15**|**SALA: Semantically Aligned Latent Actions Enable Dual-Axis Scaling of Embodied Foundation Models**|Jiachun Jin et.al.|[2611.17110v2](http://arxiv.org/abs/2611.17110v2)|null|[αX↑16](https://alphaxiv.org/abs/2611.17110)|
-|**2026-11-16**|**Ropedia Xperience 2: A Gold Standard for Scaling Physical AI Environments and Behaviors**|Hao Li et.al.|[2611.17060v2](http://arxiv.org/abs/2611.17060v2)|[link](https://github.com/Ropedia/Ropedia-Xperience-2)|[🤗👍35](https://huggingface.co/papers/2611.17060) [αX↑46](https://alphaxiv.org/abs/2611.17060)|
-|**2026-11-16**|**PhysCapBench: A Cross-Domain Benchmark for Physically Grounded Video Captioning**|Haofeng Wang et.al.|[2611.16424v2](http://arxiv.org/abs/2611.16424v2)|null|[αX↑2](https://alphaxiv.org/abs/2611.16424)|
+|**2026-11-15**|**SALA: Semantically Aligned Latent Actions Enable Dual-Axis Scaling of Embodied Foundation Models**|Jiachun Jin et.al.|[2611.17110v2](http://arxiv.org/abs/2611.17110v2)|null|[αX↑21](https://alphaxiv.org/abs/2611.17110)|
+|**2026-11-16**|**Ropedia Xperience 2: A Gold Standard for Scaling Physical AI Environments and Behaviors**|Hao Li et.al.|[2611.17060v2](http://arxiv.org/abs/2611.17060v2)|[link](https://github.com/Ropedia/Ropedia-Xperience-2)|[🤗👍35](https://huggingface.co/papers/2611.17060) [αX↑54](https://alphaxiv.org/abs/2611.17060)|
+|**2026-11-16**|**PhysCapBench: A Cross-Domain Benchmark for Physically Grounded Video Captioning**|Haofeng Wang et.al.|[2611.16424v2](http://arxiv.org/abs/2611.16424v2)|null|[αX↑3](https://alphaxiv.org/abs/2611.16424)|
 |**2026-11-12**|**BWM-Forge: Agentic World Programming for Embodied Intelligence**|BWM Team et.al.|[2611.16221v1](http://arxiv.org/abs/2611.16221v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.16221)|
 |**2026-11-11**|**Topology-Aware 4D Gaussian Splatting for Egocentric Videos**|Leonardo Vanni et.al.|[2611.16012v1](http://arxiv.org/abs/2611.16012v1)|null|[αX↑3](https://alphaxiv.org/abs/2611.16012)|
 |**2026-11-11**|**Recover, Don't Just Continue: Learning from Feedback for Physical Failure Understanding and Correction**|Miao Pan et.al.|[2611.15651v1](http://arxiv.org/abs/2611.15651v1)|null|[αX↑5](https://alphaxiv.org/abs/2611.15651)|
@@ -83,7 +87,7 @@
 |**2026-10-29**|**UniffordInteractor: Reasoning the Unified Affordance for Human and Multi-Object Interaction**|Chen Su et.al.|[2610.39745v1](http://arxiv.org/abs/2610.39745v1)|null|[αX↑13](https://alphaxiv.org/abs/2610.39745)|
 |**2026-10-31**|**ScheduleGen: Demonstration Generation via Skill Scheduling for Multi-Arm Imitation Learning**|Neel Jawale et.al.|[2610.39429v2](http://arxiv.org/abs/2610.39429v2)|null|[αX↑32](https://alphaxiv.org/abs/2610.39429)|
 |**2026-10-30**|**Cross-Controller Transfer via In-Context Behavior Adaptation**|Jonathan Yang et.al.|[2610.39280v2](http://arxiv.org/abs/2610.39280v2)|null|[αX↑74](https://alphaxiv.org/abs/2610.39280)|
-|**2026-10-29**|**WorldFlow: Joint Video and 3D Motion Prediction via Large-Scale Pretraining**|Yuhao Lu et.al.|[2610.39278v1](http://arxiv.org/abs/2610.39278v1)|[link](https://github.com/worldflow-rbs/worldflow)|[🤗👍5](https://huggingface.co/papers/2610.39278) [αX↑27](https://alphaxiv.org/abs/2610.39278)|
+|**2026-11-17**|**WorldFlow: Joint Video and 3D Motion Prediction via Large-Scale Pretraining**|Yuhao Lu et.al.|[2610.39278v2](http://arxiv.org/abs/2610.39278v2)|[link](https://github.com/worldflow-rbs/worldflow)|[🤗👍5](https://huggingface.co/papers/2610.39278) [αX↑27](https://alphaxiv.org/abs/2610.39278)|
 |**2026-10-29**|**PhysicsNeMo-Mesh: GPU-Native Meshes and Simulation Cases for Physics AI**|Peter D. Sharpe et.al.|[2610.39072v1](http://arxiv.org/abs/2610.39072v1)|null|[αX↑12](https://alphaxiv.org/abs/2610.39072)|
 |**2026-10-28**|**Recursive Self-Improvement in Physical AI: Mechanisms, Evidence, and Evaluation**|Xiaofeng Han et.al.|[2610.38266v1](http://arxiv.org/abs/2610.38266v1)|[link](https://github.com/nkd-lkz/physical-ai-rsi-survey)|[αX↑19](https://alphaxiv.org/abs/2610.38266)|
 |**2026-10-28**|**Embodied at Sea: Imitation Learning for Multi-Task Underwater Manipulation**|Greta Perez-Haiek et.al.|[2610.38199v1](http://arxiv.org/abs/2610.38199v1)|null|[αX↑14](https://alphaxiv.org/abs/2610.38199)|

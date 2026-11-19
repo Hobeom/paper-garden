@@ -1,9 +1,21 @@
 ## Embodied Navigation & Driving
 
-### Updated on 2026.11.18
+### Updated on 2026.11.19
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-11-18**|**Learning to Interact in Multi-Agent Self-Play for Controllable Autonomous Driving Scenario Generation**|Beyazit Yalcinkaya et.al.|[2611.24876v1](http://arxiv.org/abs/2611.24876v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.24876)|
+|**2026-11-18**|**Does the Action Matter? Probing Action-Conditioned Semantic Forecasting as a World Model for Autonomous Driving**|Binay Kumar Singh et.al.|[2611.24840v1](http://arxiv.org/abs/2611.24840v1)|[link](https://github.com/binayksingh/does-action-matter)|[αX↑0](https://alphaxiv.org/abs/2611.24840)|
+|**2026-11-18**|**DRIFT: Detachable Reasoning for Runtime-Flexible and Efficient End-to-End Driving**|Emad Aghajanzadeh et.al.|[2611.24719v1](http://arxiv.org/abs/2611.24719v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.24719)|
+|**2026-11-18**|**Teaching VLMs What to Say, Not How to Reason: Rethinking Counterfactual Reasoning in Autonomous Driving**|Hayeon Oh et.al.|[2611.24376v1](http://arxiv.org/abs/2611.24376v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.24376)|
+|**2026-11-18**|**TrajWAM: Trajectory-Conditioned Future Learning for Vision-Language Driving**|Xuerui Fang et.al.|[2611.24192v1](http://arxiv.org/abs/2611.24192v1)|[link](https://github.com/FangWD520/TrajWAM)|[αX↑0](https://alphaxiv.org/abs/2611.24192)|
+|**2026-11-18**|**Efficient World-Model Planning via Physics-Guided Search Distillation**|Hongyu Zhang et.al.|[2611.24171v1](http://arxiv.org/abs/2611.24171v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.24171)|
+|**2026-11-18**|**CausalDrive: Causal Decomposition for Data-Efficient End-to-End Autonomous Driving**|Xiaobao Wei et.al.|[2611.24080v1](http://arxiv.org/abs/2611.24080v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.24080)|
+|**2026-11-18**|**AeroRSI: Recursive Self-Improvement for Aerial Vision-Language Navigation**|Shiwei Wu et.al.|[2611.24077v1](http://arxiv.org/abs/2611.24077v1)|[link](https://github.com/starsholic/AeroRSI)|[αX↑0](https://alphaxiv.org/abs/2611.24077)|
+|**2026-11-18**|**Attention Is Not Relevance: Challenging the Causality of Attention in Autonomous Driving**|Luca Lusvarghi et.al.|[2611.24051v1](http://arxiv.org/abs/2611.24051v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.24051)|
+|**2026-11-18**|**Freeforward4d: Annotation-free feed-forward 4d reconstruction of driving scenes**|Luosong Guo et.al.|[2611.24007v1](http://arxiv.org/abs/2611.24007v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.24007)|
+|**2026-11-18**|**A Hierarchical Onboard Vision-Language-Navigation Framework for Aerial Robots in Complex Environments**|Yuze Wu et.al.|[2611.23930v1](http://arxiv.org/abs/2611.23930v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.23930)|
+|**2026-11-18**|**SWIFT: Slow World, Instant Freshness, and Timely Action for Asynchronous Autonomous Driving**|Jiazhe Wang et.al.|[2611.23813v1](http://arxiv.org/abs/2611.23813v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.23813)|
 |**2026-11-17**|**Fly as Instructed: Refining World-Action Policies for UAV Vision-Language Navigation**|Zhexuan Zhou et.al.|[2611.22883v1](http://arxiv.org/abs/2611.22883v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.22883)|
 |**2026-11-17**|**Learning Agent-Centric Vision-Language-Action World Models for Autonomous Driving**|Guoqing Wang et.al.|[2611.22880v1](http://arxiv.org/abs/2611.22880v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.22880)|
 |**2026-11-17**|**Making the World React Realistically: A Closed-Loop Interactive World Model for Autonomous Driving**|Jia Hu et.al.|[2611.22691v1](http://arxiv.org/abs/2611.22691v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.22691)|
@@ -22,11 +34,12 @@
 |**2026-11-16**|**Training-Free Anonymization of Driving Data with Promptable Segmentation and 3D Human Mesh Recovery**|Max A. Buettner et.al.|[2611.20412v1](http://arxiv.org/abs/2611.20412v1)|[link](https://github.com/max-a-ai/FM-Anonymize)|[αX↑0](https://alphaxiv.org/abs/2611.20412)|
 |**2026-11-15**|**SAFER: Navigating the Exploration-Exploitation Dilemma in World-Model-Based Planning for Autonomous Driving**|Yansong Qu et.al.|[2611.20107v1](http://arxiv.org/abs/2611.20107v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.20107)|
 |**2026-11-15**|**D'BEAST: Logged Bad Experiences as Explanation for Autonomous Driving Agents**|Ahmad Alfan Alfian Irfan et.al.|[2611.20019v1](http://arxiv.org/abs/2611.20019v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.20019)|
-|**2026-11-15**|**ReactBench-AD: Do Driving VLAs and World-Action Models React to Imminent Hazards in Their Path?**|Nikos Theodoridis et.al.|[2611.20011v1](http://arxiv.org/abs/2611.20011v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.20011)|
+|**2026-11-17**|**ReactBench-AD: Do Driving VLAs and World-Action Models React to Imminent Hazards in Their Path?**|Nikos Theodoridis et.al.|[2611.20011v2](http://arxiv.org/abs/2611.20011v2)|null|[αX↑0](https://alphaxiv.org/abs/2611.20011)|
+|**2026-11-17**|**Passable for Whom? Few-Shot Learning for Personal Calibration of Sidewalk Accessibility Perception for Human-Centered Autonomous Driving**|Wesley Maia et.al.|[2611.19839v2](http://arxiv.org/abs/2611.19839v2)|null|[αX↑0](https://alphaxiv.org/abs/2611.19839)|
 |**2026-11-15**|**Beyond Vehicle-Centric Data: Scaling Autonomous Driving through Roadside-to-Vehicle Generation**|Yichen Zhang et.al.|[2611.19830v1](http://arxiv.org/abs/2611.19830v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.19830)|
 |**2026-11-14**|**AcousticBEV: Acoustic BEV Object Localization for Intelligent Vehicles**|Ziang Liu et.al.|[2611.19381v1](http://arxiv.org/abs/2611.19381v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.19381)|
 |**2026-11-14**|**Do VLMs Really Look at the Road? A Diagnostic Evaluation for Autonomous Driving**|Shankar Gangisetty et.al.|[2611.19184v1](http://arxiv.org/abs/2611.19184v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.19184)|
-|**2026-11-14**|**SuperGlance: Driving at a Glance with a Vision-Language Model**|Jieyuan Pei et.al.|[2611.19138v1](http://arxiv.org/abs/2611.19138v1)|[link](https://github.com/GuobaPei/SuperGlance)|[αX↑4](https://alphaxiv.org/abs/2611.19138)|
+|**2026-11-18**|**SuperGlance: Driving at a Glance with a Vision-Language Model**|Jieyuan Pei et.al.|[2611.19138v2](http://arxiv.org/abs/2611.19138v2)|[link](https://github.com/GuobaPei/SuperGlance)|[αX↑4](https://alphaxiv.org/abs/2611.19138)|
 |**2026-11-13**|**Technical Report of Auriga's 1:10 Scale Autonomous Vehicle Robot**|Marya Sabouri Dodaran et.al.|[2611.18855v1](http://arxiv.org/abs/2611.18855v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.18855)|
 |**2026-11-13**|**VLAN: Vision-Language Accessible Navigation**|Jie Hu et.al.|[2611.18346v1](http://arxiv.org/abs/2611.18346v1)|[link](https://github.com/InSAI-Lab/VLAN)|[αX↑2](https://alphaxiv.org/abs/2611.18346)|
 |**2026-11-13**|**Ego2Flow: Benchmarking the Traffic-System Impact of Autonomous Driving on Maps Distilled from Real-World Roads**|Yu Dong et.al.|[2611.17720v1](http://arxiv.org/abs/2611.17720v1)|[link](https://github.com/Fisher-007/Ego2Flow)|[αX↑0](https://alphaxiv.org/abs/2611.17720)|
@@ -37,9 +50,9 @@
 |**2026-11-12**|**ProtoVis-Nav: Prototypical Visual Imagination for Visual-Spatial Aligned UAV Navigation**|Guangyuan Sui et.al.|[2611.17330v1](http://arxiv.org/abs/2611.17330v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.17330)|
 |**2026-11-12**|**Evaluating Video LLMs' Understanding of Corner Cases in Autonomous Driving**|Gabriel Manalu et.al.|[2611.16767v1](http://arxiv.org/abs/2611.16767v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.16767)|
 |**2026-11-12**|**Fog-FWL: A Large-Scale Full-Waveform LiDAR Dataset for Recovering Fog-Hidden Objects**|Kazuma Ikeda et.al.|[2611.16742v1](http://arxiv.org/abs/2611.16742v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.16742)|
-|**2026-11-12**|**From Foundation VLM to Versatile Driving VLM: A Triplet Incremental Training Approach**|Shengtao Wu et.al.|[2611.16727v1](http://arxiv.org/abs/2611.16727v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.16727)|
-|**2026-11-12**|**ActWorld-JEPA: Action-Conditioned JEPA World Models Meet Latent Planning for End-to-End Autonomous Driving**|Ziying Song et.al.|[2611.16579v1](http://arxiv.org/abs/2611.16579v1)|[link](https://github.com/adept-thu/ActWorld-JEPA)|[αX↑4](https://alphaxiv.org/abs/2611.16579)|
-|**2026-11-17**|**What Can a VLA Learn from the Agent That Calls It? Task-Level Experience Distillation for Embodied Navigation**|Jinze Tao et.al.|[2611.16246v3](http://arxiv.org/abs/2611.16246v3)|null|[αX↑2](https://alphaxiv.org/abs/2611.16246)|
+|**2026-11-12**|**From Foundation VLM to Versatile Driving VLM: A Triplet Incremental Training Approach**|Shengtao Wu et.al.|[2611.16727v1](http://arxiv.org/abs/2611.16727v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.16727)|
+|**2026-11-12**|**ActWorld-JEPA: Action-Conditioned JEPA World Models Meet Latent Planning for End-to-End Autonomous Driving**|Ziying Song et.al.|[2611.16579v1](http://arxiv.org/abs/2611.16579v1)|[link](https://github.com/adept-thu/ActWorld-JEPA)|[αX↑5](https://alphaxiv.org/abs/2611.16579)|
+|**2026-11-17**|**What Can a VLA Learn from the Agent That Calls It? Task-Level Experience Distillation for Embodied Navigation**|Jinze Tao et.al.|[2611.16246v3](http://arxiv.org/abs/2611.16246v3)|null|[αX↑3](https://alphaxiv.org/abs/2611.16246)|
 |**2026-11-11**|**EMS-Nav: Embodied Multi-Scale Navigation**|Zenghui Yang et.al.|[2611.15589v1](http://arxiv.org/abs/2611.15589v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.15589)|
 |**2026-11-13**|**CARE-Drive: Coupled Alternating Refinement for Ego-trajectories**|Xiao Ma et.al.|[2611.15360v2](http://arxiv.org/abs/2611.15360v2)|null|[αX↑1](https://alphaxiv.org/abs/2611.15360)|
 |**2026-11-11**|**Are We Ready for Snow-tonomous Driving? Challenges Toward Robust Automated Driving in Extreme Weather**|Eren Erdal Aksoy et.al.|[2611.15217v1](http://arxiv.org/abs/2611.15217v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.15217)|

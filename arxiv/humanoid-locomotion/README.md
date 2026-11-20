@@ -1,9 +1,19 @@
 ## Humanoid & Locomotion
 
-### Updated on 2026.11.19
+### Updated on 2026.11.20
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-11-19**|**PGX: Physically Grounded Execution for Long-Horizon Humanoid Loco-Manipulation**|Kai Lu et.al.|[2611.26596v1](http://arxiv.org/abs/2611.26596v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.26596)|
+|**2026-11-19**|**PhyDEX: A Benchmark for Physical Reasoning in Vision-Language-Action Models via Dynamic Extrinsic Dexterity**|Hao Vo et.al.|[2611.26565v1](http://arxiv.org/abs/2611.26565v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.26565)|
+|**2026-11-19**|**Awaken-HI: Scaling Humanoid Intelligence with Whole-Body Human Experience**|EngineAI et.al.|[2611.26420v1](http://arxiv.org/abs/2611.26420v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.26420)|
+|**2026-11-19**|**LocoMuJoCo: A Comprehensive Imitation Learning Benchmark for Whole-Body Control**|Firas Al-Hafez et.al.|[2611.26293v1](http://arxiv.org/abs/2611.26293v1)|[link](https://github.com/robfiras/loco-mujoco)|[αX↑0](https://alphaxiv.org/abs/2611.26293)|
+|**2026-11-19**|**Controlling the Humanoid Robot H1-2 With a Simulated Biologically Plausible Network**|Fatima Atwi et.al.|[2611.26074v1](http://arxiv.org/abs/2611.26074v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.26074)|
+|**2026-11-19**|**Reference-Free Humanoid Skateboarding via Termination-Shaped Reinforcement Learning**|Ganeshvar Soenessardien et.al.|[2611.26054v1](http://arxiv.org/abs/2611.26054v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.26054)|
+|**2026-11-19**|**Learning optimal gaits and styles for terrain-adaptive quadruped locomotion**|Guillaume Bellegarda et.al.|[2611.25958v1](http://arxiv.org/abs/2611.25958v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.25958)|
+|**2026-11-19**|**Fast and Accurate Body Estimation in Pixels, World Space and Scenes**|Jinkun Cao et.al.|[2611.25801v1](http://arxiv.org/abs/2611.25801v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.25801)|
+|**2026-11-19**|**ECHO: In-Context Behavior foundation model for Humanoid Whole-Body Control**|Xingyi Wang et.al.|[2611.25778v1](http://arxiv.org/abs/2611.25778v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.25778)|
+|**2026-11-18**|**WEVO: World Model-Enabled VLA Optimization for Whole-Body Loco-Manipulation**|Qianzhong Chen et.al.|[2611.25251v1](http://arxiv.org/abs/2611.25251v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.25251)|
 |**2026-11-18**|**Render the Robot, Generate the World: One Video World Model Across Embodiments**|Yash Jangir et.al.|[2611.24925v1](http://arxiv.org/abs/2611.24925v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.24925)|
 |**2026-11-18**|**SearchDiffusion: Information-Guided Diffusion Planning for Object Search**|Sausar Karaf et.al.|[2611.24375v1](http://arxiv.org/abs/2611.24375v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.24375)|
 |**2026-11-18**|**QDD-MM: A Simple and Compact Open-Source Muscle Module with Quasi-Direct-Drive Motor for Tendon-driven Robots**|Kento Kawaharazuka et.al.|[2611.24279v1](http://arxiv.org/abs/2611.24279v1)|[link](https://github.com/haraduka/qddmm)|[αX↑0](https://alphaxiv.org/abs/2611.24279)|
@@ -34,7 +44,7 @@
 |**2026-11-14**|**Certify, Then Select: Viability-Aware Runtime Steering of Frozen Diffusion Policies**|Angelo Moroncelli et.al.|[2611.19047v1](http://arxiv.org/abs/2611.19047v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.19047)|
 |**2026-11-13**|**TMA: Sim-to-Real Forceful Humanoid Manipulation via Tactile-Driven Motor Adaptation**|Yiting Chen et.al.|[2611.18976v1](http://arxiv.org/abs/2611.18976v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.18976)|
 |**2026-11-13**|**When Will You Hand It Over? A Hidden Start Delay Makes Self-Play Handover Robust to Unfamiliar Partners**|Mohammad Khoshnazar et.al.|[2611.18491v1](http://arxiv.org/abs/2611.18491v1)|[link](https://github.com/mkhoshnam/Selfplay-PPO-handover)|[αX↑1](https://alphaxiv.org/abs/2611.18491)|
-|**2026-11-13**|**Vision-Language-Action Models: A Life-Cycle Survey of Design, Training and Deployment**|Suvarna Kadam et.al.|[2611.18372v1](http://arxiv.org/abs/2611.18372v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.18372)|
+|**2026-11-19**|**Vision-Language-Action Models: A Life-Cycle Survey of Design, Training and Deployment**|Suvarna Kadam et.al.|[2611.18372v2](http://arxiv.org/abs/2611.18372v2)|null|[αX↑2](https://alphaxiv.org/abs/2611.18372)|
 |**2026-11-13**|**PROOF: Perceptive Robustness via Out-of-Distribution Fallback for Legged Locomotion**|Siyuan Wang et.al.|[2611.18305v1](http://arxiv.org/abs/2611.18305v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.18305)|
 |**2026-11-13**|**PoliMop: Policy-in-the-Loop Motion Planning in 3D Spaces for Mobile Robots**|Yael Fassbind et.al.|[2611.18110v1](http://arxiv.org/abs/2611.18110v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.18110)|
 |**2026-11-13**|**Reusing Locomotion Training Recipes Across Humanoids via Body-Aligned Virtual Joints**|Sol Choi et.al.|[2611.18003v1](http://arxiv.org/abs/2611.18003v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.18003)|
@@ -446,6 +456,7 @@
 |**2026-09-25**|**CognitiveReality: Robot-Agnostic Semantic Gaussian Mapping with an LLM Agent for Immersive Collaborative VR Teleoperation**|Timofei Kozlov et.al.|[2609.31418v1](http://arxiv.org/abs/2609.31418v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.31418)|
 |**2026-09-25**|**Quadruped Obstacle Avoidance and Footstep Planning with Distributed Low-cost Time-of-Flight Sensors**|Giammarco Caroleo et.al.|[2609.31008v1](http://arxiv.org/abs/2609.31008v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.31008)|
 |**2026-09-25**|**TRACKGRAPH: Online Open-Vocabulary 3D Scene Graphs via Image-Space Tracking**|Peder Borge Hellesylt et.al.|[2609.31005v1](http://arxiv.org/abs/2609.31005v1)|null|[αX↑4](https://alphaxiv.org/abs/2609.31005)|
+|**2026-09-25**|**Bundled Contact Gradients: Stabilizing Differentiable Simulation for Deployable Dynamic Tasks**|Dyuman Aditya et.al.|[2609.30951v1](http://arxiv.org/abs/2609.30951v1)|null|[αX↑10](https://alphaxiv.org/abs/2609.30951)|
 |**2026-09-25**|**Praxis: Distilling Physical Interaction Priors from Egocentric Videos for Generalizable Whole-Body Manipulation**|Shuliang He et.al.|[2609.30735v1](http://arxiv.org/abs/2609.30735v1)|null|[αX↑10](https://alphaxiv.org/abs/2609.30735)|
 |**2026-09-24**|**Aerial Manipulation in the Wild with Onboard Perception, Policy Learning, and Whole-Body Control**|Yuanzhu Zhan et.al.|[2609.30521v1](http://arxiv.org/abs/2609.30521v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.30521)|
 |**2026-09-24**|**Learning-Based Pressure Predictive Control of a Vertebraic Soft Robotic Tail**|Wenjian Yang et.al.|[2609.30479v1](http://arxiv.org/abs/2609.30479v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.30479)|

@@ -1,6 +1,6 @@
 ## World Models
 
-### Updated on 2026.11.20
+### Updated on 2026.11.21
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 |**2026-11-16**|**SciWorldBench: Do Video World Models Really Understand Scientific Experiments?**|Xue Yang et.al.|[2611.20899v1](http://arxiv.org/abs/2611.20899v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.20899)|
 |**2026-11-18**|**Auditing World-Model Explanations in Retail Forecasting: Faithfulness, Accuracy and Price Response**|Karthik Iyer et.al.|[2611.20811v3](http://arxiv.org/abs/2611.20811v3)|null|[αX↑0](https://alphaxiv.org/abs/2611.20811)|
 |**2026-11-16**|**Parallelizable Interior-Point ADMM for Block-Structured Nonconvex Programs**|Zherong Pan et.al.|[2611.20483v1](http://arxiv.org/abs/2611.20483v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.20483)|
-|**2026-11-16**|**XMimic and XSoma: Learning Humanoid Motion Tracking and Locomotion in Under a Minute**|Nico Bohlinger et.al.|[2611.20452v1](http://arxiv.org/abs/2611.20452v1)|[link](https://github.com/nico-bohlinger/xmimic)|[αX↑1](https://alphaxiv.org/abs/2611.20452)|
+|**2026-11-16**|**XMimic and XSoma: Learning Humanoid Motion Tracking and Locomotion in Under a Minute**|Nico Bohlinger et.al.|[2611.20452v1](http://arxiv.org/abs/2611.20452v1)|[link](https://github.com/nico-bohlinger/xmimic)|[αX↑2](https://alphaxiv.org/abs/2611.20452)|
 |**2026-11-17**|**DominoBench: Evaluating Multi-Step Physical Reasoning from Still Images**|Emilio Ferrara et.al.|[2611.20385v2](http://arxiv.org/abs/2611.20385v2)|null|[🤗👍6](https://huggingface.co/papers/2611.20385) [αX↑1](https://alphaxiv.org/abs/2611.20385)|
 |**2026-11-15**|**Multi-output neural network surrogate for double-pulse femtosecond optothermal control of thin silicon films on fused silica**|George D. Tsibidis et.al.|[2611.20301v1](http://arxiv.org/abs/2611.20301v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.20301)|
 |**2026-11-15**|**SAFER: Navigating the Exploration-Exploitation Dilemma in World-Model-Based Planning for Autonomous Driving**|Yansong Qu et.al.|[2611.20107v1](http://arxiv.org/abs/2611.20107v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.20107)|

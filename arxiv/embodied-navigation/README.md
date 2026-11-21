@@ -1,6 +1,6 @@
 ## Embodied Navigation & Driving
 
-### Updated on 2026.11.20
+### Updated on 2026.11.21
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 |**2026-11-08**|**Reaching Is Not Finding: Map-Anchored Visual Prompting for the Last Mile of Aerial Vision-Language Navigation**|Ningbo Li et.al.|[2611.11510v1](http://arxiv.org/abs/2611.11510v1)|null|[αX↑6](https://alphaxiv.org/abs/2611.11510)|
 |**2026-11-08**|**MoT3DVG: A Benchmark for Outdoor 3D Visual Grounding with Motion-Aware Descriptions and Temporal Cues**|Shijia Zhao et.al.|[2611.11334v1](http://arxiv.org/abs/2611.11334v1)|[link](https://github.com/Harry710887048/MoT3DVG)|[αX↑1](https://alphaxiv.org/abs/2611.11334)|
 |**2026-11-08**|**CrossLiDAR: Controllable Multi-Sensor LiDAR Sequence Generation**|Khanh Nguyen et.al.|[2611.11131v1](http://arxiv.org/abs/2611.11131v1)|null|[αX↑3](https://alphaxiv.org/abs/2611.11131)|
-|**2026-11-07**|**Latent-WAM++: Shaping World and Action Representations for End-to-End Autonomous Driving**|Yichen Zhang et.al.|[2611.10632v1](http://arxiv.org/abs/2611.10632v1)|null|[αX↑9](https://alphaxiv.org/abs/2611.10632)|
+|**2026-11-07**|**Latent-WAM++: Shaping World and Action Representations for End-to-End Autonomous Driving**|Yichen Zhang et.al.|[2611.10632v1](http://arxiv.org/abs/2611.10632v1)|null|[αX↑10](https://alphaxiv.org/abs/2611.10632)|
 |**2026-11-07**|**SRA: Spatial Reasoning Adapter via Evolving Social Interaction Graphs for Trajectory Prediction**|Jaewoo Jeong et.al.|[2611.10506v1](http://arxiv.org/abs/2611.10506v1)|[link](https://github.com/Jaewoo97/SRA)|[αX↑2](https://alphaxiv.org/abs/2611.10506)|
 |**2026-11-07**|**CPNav: Calibrated Vision-Language Navigation for Object-Goal Search in Unseen Environments**|Qizhao Chen et.al.|[2611.10366v1](http://arxiv.org/abs/2611.10366v1)|[link](https://github.com/practice-lab-ucla/CPnav)|[αX↑3](https://alphaxiv.org/abs/2611.10366)|
 |**2026-11-06**|**Scenario Orchestration for Closed-loop Policy Evaluation of Autonomous Driving**|Frieda Rong et.al.|[2611.09888v1](http://arxiv.org/abs/2611.09888v1)|null|[αX↑5](https://alphaxiv.org/abs/2611.09888)|
@@ -90,8 +90,8 @@
 |**2026-11-03**|**WayTrace: A Map-to-Language-to-Trace Hierarchy for Embodied Urban Navigation**|Manthan Patel et.al.|[2611.05129v1](http://arxiv.org/abs/2611.05129v1)|null|[αX↑30](https://alphaxiv.org/abs/2611.05129)|
 |**2026-11-03**|**Trajectory Evaluation via Rollout-Free World Model for End-to-end Autonomous Driving**|Junzhe Wang et.al.|[2611.05072v1](http://arxiv.org/abs/2611.05072v1)|null|[αX↑15](https://alphaxiv.org/abs/2611.05072)|
 |**2026-11-03**|**Caging Vision-Language Navigation for Legged Robots via Barrier-Certified Safety Architecture**|Abhijeet M. Kulkarni et.al.|[2611.04972v1](http://arxiv.org/abs/2611.04972v1)|null|[αX↑18](https://alphaxiv.org/abs/2611.04972)|
-|**2026-11-03**|**MiCaDe: Online LiDAR-Camera Miscalibration Change Detection for Autonomous Driving**|Carlo Sgaravatti et.al.|[2611.04912v1](http://arxiv.org/abs/2611.04912v1)|[link](https://github.com/CarloSgaravatti/MiCaDe)|[αX↑6](https://alphaxiv.org/abs/2611.04912)|
-|**2026-11-03**|**DenseTwins: Dense Modality Decoupling for Multimodal Self-Supervision**|Carlo Sgaravatti et.al.|[2611.04710v1](http://arxiv.org/abs/2611.04710v1)|[link](https://github.com/CarloSgaravatti/DenseTwins)|[αX↑14](https://alphaxiv.org/abs/2611.04710)|
+|**2026-11-03**|**MiCaDe: Online LiDAR-Camera Miscalibration Change Detection for Autonomous Driving**|Carlo Sgaravatti et.al.|[2611.04912v1](http://arxiv.org/abs/2611.04912v1)|[link](https://github.com/CarloSgaravatti/MiCaDe)|[αX↑7](https://alphaxiv.org/abs/2611.04912)|
+|**2026-11-03**|**DenseTwins: Dense Modality Decoupling for Multimodal Self-Supervision**|Carlo Sgaravatti et.al.|[2611.04710v1](http://arxiv.org/abs/2611.04710v1)|[link](https://github.com/CarloSgaravatti/DenseTwins)|[αX↑15](https://alphaxiv.org/abs/2611.04710)|
 |**2026-11-03**|**IGSW: Multi-Weather Urban Scene Reconstruction with Intrinsic-Decoupled Gaussian Splatting**|Zhongquan Wang et.al.|[2611.04374v1](http://arxiv.org/abs/2611.04374v1)|[link](https://github.com/Akaxi6/IGSW_IntrinsicGSWeather)|[αX↑5](https://alphaxiv.org/abs/2611.04374)|
 |**2026-11-03**|**Weather Adaptive Autonomous Driving**|Nicholas Taylor et.al.|[2611.04305v1](http://arxiv.org/abs/2611.04305v1)|[link](https://github.com/jinlong17/DA-Detect)|[αX↑5](https://alphaxiv.org/abs/2611.04305)|
 |**2026-11-02**|**Do Pretrained Backbones Transfer to Physical Sensors? A Systematic Study of Multimodal Initialization Across the Sensor Stack**|Fabio Montello et.al.|[2611.04034v1](http://arxiv.org/abs/2611.04034v1)|[link](https://github.com/DTU-PAS/sensormae)|[αX↑8](https://alphaxiv.org/abs/2611.04034)|

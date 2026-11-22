@@ -1,6 +1,6 @@
 ## Embodied Navigation & Driving
 
-### Updated on 2026.11.21
+### Updated on 2026.11.22
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 |**2026-11-11**|**EMS-Nav: Embodied Multi-Scale Navigation**|Zenghui Yang et.al.|[2611.15589v1](http://arxiv.org/abs/2611.15589v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.15589)|
 |**2026-11-13**|**CARE-Drive: Coupled Alternating Refinement for Ego-trajectories**|Xiao Ma et.al.|[2611.15360v2](http://arxiv.org/abs/2611.15360v2)|null|[αX↑1](https://alphaxiv.org/abs/2611.15360)|
 |**2026-11-11**|**Are We Ready for Snow-tonomous Driving? Challenges Toward Robust Automated Driving in Extreme Weather**|Eren Erdal Aksoy et.al.|[2611.15217v1](http://arxiv.org/abs/2611.15217v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.15217)|
-|**2026-11-10**|**RiSE-Drive: Risk-Sensitive Long-Horizon Candidate Evaluation for End-to-End Autonomous Driving**|Yu Zhao et.al.|[2611.13790v1](http://arxiv.org/abs/2611.13790v1)|null|[αX↑3](https://alphaxiv.org/abs/2611.13790)|
+|**2026-11-10**|**RiSE-Drive: Risk-Sensitive Long-Horizon Candidate Evaluation for End-to-End Autonomous Driving**|Yu Zhao et.al.|[2611.13790v1](http://arxiv.org/abs/2611.13790v1)|null|[αX↑4](https://alphaxiv.org/abs/2611.13790)|
 |**2026-11-10**|**Route-Time Conflict Maps for Cooperative End-to-End Autonomous Driving**|Haohua Que et.al.|[2611.13494v1](http://arxiv.org/abs/2611.13494v1)|null|[αX↑3](https://alphaxiv.org/abs/2611.13494)|
 |**2026-11-06**|**URL-Sim: Unified and Regulated LiDAR Simulation for High-Fidelity Reconstruction of Dynamic Driving Scenes**|Kefei Qian et.al.|[2611.12932v1](http://arxiv.org/abs/2611.12932v1)|null|[αX↑3](https://alphaxiv.org/abs/2611.12932)|
 |**2026-11-09**|**AutoVLA-D: Learn a Trajectory-Geometric Condition from Reasoning for Autonomous Driving VLA**|Yuguang Yang et.al.|[2611.12382v1](http://arxiv.org/abs/2611.12382v1)|[link](https://github.com/ShivaTeam/AutoVLA-D)|[αX↑11](https://alphaxiv.org/abs/2611.12382)|
@@ -88,7 +88,7 @@
 |**2026-11-03**|**Low-Density 3D Point Cloud Classification**|Ahmed Baha Ben Jmaa et.al.|[2611.05291v1](http://arxiv.org/abs/2611.05291v1)|null|[αX↑9](https://alphaxiv.org/abs/2611.05291)|
 |**2026-11-03**|**Should the Action Expert Train the VLM? Action-Token Supervision and Gradient Routing in Mixture-of-Transformer VLAs**|Asher James Hancock et.al.|[2611.05249v1](http://arxiv.org/abs/2611.05249v1)|null|[αX↑24](https://alphaxiv.org/abs/2611.05249)|
 |**2026-11-03**|**WayTrace: A Map-to-Language-to-Trace Hierarchy for Embodied Urban Navigation**|Manthan Patel et.al.|[2611.05129v1](http://arxiv.org/abs/2611.05129v1)|null|[αX↑30](https://alphaxiv.org/abs/2611.05129)|
-|**2026-11-03**|**Trajectory Evaluation via Rollout-Free World Model for End-to-end Autonomous Driving**|Junzhe Wang et.al.|[2611.05072v1](http://arxiv.org/abs/2611.05072v1)|null|[αX↑15](https://alphaxiv.org/abs/2611.05072)|
+|**2026-11-03**|**Trajectory Evaluation via Rollout-Free World Model for End-to-end Autonomous Driving**|Junzhe Wang et.al.|[2611.05072v1](http://arxiv.org/abs/2611.05072v1)|null|[αX↑16](https://alphaxiv.org/abs/2611.05072)|
 |**2026-11-03**|**Caging Vision-Language Navigation for Legged Robots via Barrier-Certified Safety Architecture**|Abhijeet M. Kulkarni et.al.|[2611.04972v1](http://arxiv.org/abs/2611.04972v1)|null|[αX↑18](https://alphaxiv.org/abs/2611.04972)|
 |**2026-11-03**|**MiCaDe: Online LiDAR-Camera Miscalibration Change Detection for Autonomous Driving**|Carlo Sgaravatti et.al.|[2611.04912v1](http://arxiv.org/abs/2611.04912v1)|[link](https://github.com/CarloSgaravatti/MiCaDe)|[αX↑7](https://alphaxiv.org/abs/2611.04912)|
 |**2026-11-03**|**DenseTwins: Dense Modality Decoupling for Multimodal Self-Supervision**|Carlo Sgaravatti et.al.|[2611.04710v1](http://arxiv.org/abs/2611.04710v1)|[link](https://github.com/CarloSgaravatti/DenseTwins)|[αX↑15](https://alphaxiv.org/abs/2611.04710)|

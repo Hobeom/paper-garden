@@ -1,9 +1,13 @@
 ## Sim-to-Real
 
-### Updated on 2026.11.22
+### Updated on 2026.11.23
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-11-20**|**Augmentation of cardiovascular flow measurements with generative diffusion models**|Fabio Guglietta et.al.|[2611.27917v1](http://arxiv.org/abs/2611.27917v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.27917)|
+|**2026-11-20**|**Adesktop learning factory for smart and resilient manufacturing based on digital twin and AI**|Wenxuan Hu et.al.|[2611.27579v1](http://arxiv.org/abs/2611.27579v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.27579)|
+|**2026-11-20**|**HermiteTwin: Bicubic Hermite Shell Digital Twins for Contact-Rich Deformable Manipulation**|Kangrui Zhang et.al.|[2611.27282v1](http://arxiv.org/abs/2611.27282v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.27282)|
+|**2026-11-20**|**Toward a digital twin of the ICU patient: Forecasting and treatment response in a generative event model**|Zhuoyang Lyu et.al.|[2611.27028v1](http://arxiv.org/abs/2611.27028v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.27028)|
 |**2026-11-19**|**JARVIS: An Agent That Designs, Builds, and Tests Circuit Boards on Its Own**|Shibo Zhou et.al.|[2611.26503v1](http://arxiv.org/abs/2611.26503v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.26503)|
 |**2026-11-19**|**LocoMuJoCo: A Comprehensive Imitation Learning Benchmark for Whole-Body Control**|Firas Al-Hafez et.al.|[2611.26293v1](http://arxiv.org/abs/2611.26293v1)|[link](https://github.com/robfiras/loco-mujoco)|[αX↑0](https://alphaxiv.org/abs/2611.26293)|
 |**2026-11-19**|**Domain-Aware Conformal Prediction for Trustworthy Spacecraft Pose Estimation under Sim-to-Real Shift**|Nidhal Eddine Chenni et.al.|[2611.26065v1](http://arxiv.org/abs/2611.26065v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.26065)|
@@ -40,9 +44,9 @@
 |**2026-11-13**|**Large language models as oncology world models**|Julien Vibert et.al.|[2611.18994v1](http://arxiv.org/abs/2611.18994v1)|[link](https://github.com/julienvibert/llm-oncology-world-models)|[αX↑0](https://alphaxiv.org/abs/2611.18994)|
 |**2026-11-13**|**TMA: Sim-to-Real Forceful Humanoid Manipulation via Tactile-Driven Motor Adaptation**|Yiting Chen et.al.|[2611.18976v1](http://arxiv.org/abs/2611.18976v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.18976)|
 |**2026-11-12**|**Third-Place Solution for the UCF UrbanTwin V2X-Real Track at ECCV 2026: Synthetic Point Cloud Generation and Sim-to-Real 3D Object Detection**|Antong Deng et.al.|[2611.18778v1](http://arxiv.org/abs/2611.18778v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.18778)|
-|**2026-11-13**|**Heavy Metal Acrobatics: Learning Dynamic Control for Skid-Steer Loaders**|Pierre-Jean Lorentz et.al.|[2611.18365v1](http://arxiv.org/abs/2611.18365v1)|null|[αX↑4](https://alphaxiv.org/abs/2611.18365)|
+|**2026-11-13**|**Heavy Metal Acrobatics: Learning Dynamic Control for Skid-Steer Loaders**|Pierre-Jean Lorentz et.al.|[2611.18365v1](http://arxiv.org/abs/2611.18365v1)|null|[αX↑5](https://alphaxiv.org/abs/2611.18365)|
 |**2026-11-13**|**Objectives as Policies: Vision-Language Model Cost Programs for Contact-Rich Manipulation**|Zihao Lu et.al.|[2611.18298v1](http://arxiv.org/abs/2611.18298v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.18298)|
-|**2026-11-13**|**TouchTwin: Scaling Human Touch Data via Real-to-Sim-to-Real**|Huiwen Han et.al.|[2611.17619v1](http://arxiv.org/abs/2611.17619v1)|null|[αX↑5](https://alphaxiv.org/abs/2611.17619)|
+|**2026-11-13**|**TouchTwin: Scaling Human Touch Data via Real-to-Sim-to-Real**|Huiwen Han et.al.|[2611.17619v1](http://arxiv.org/abs/2611.17619v1)|null|[αX↑6](https://alphaxiv.org/abs/2611.17619)|
 |**2026-11-12**|**X-Nav Technical Report: Real-World Long-Horizon Indoor-to-Outdoor Navigation on a Humanoid Robot**|Jiaxin Huang et.al.|[2611.17598v1](http://arxiv.org/abs/2611.17598v1)|null|[αX↑5](https://alphaxiv.org/abs/2611.17598)|
 |**2026-11-12**|**Fog-FWL: A Large-Scale Full-Waveform LiDAR Dataset for Recovering Fog-Hidden Objects**|Kazuma Ikeda et.al.|[2611.16742v1](http://arxiv.org/abs/2611.16742v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.16742)|
 |**2026-11-12**|**Memory-Efficient Parallel Policy Learning for Collapse-Reactive Retreat via Hybrid Terrain Modeling**|Yuki Kadokawa et.al.|[2611.16337v1](http://arxiv.org/abs/2611.16337v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.16337)|
@@ -64,7 +68,7 @@
 |**2026-11-06**|**Probably Safe Sim-to-Real Transfer with Lifetime Validity**|Rohan Tangri et.al.|[2611.09344v1](http://arxiv.org/abs/2611.09344v1)|null|[αX↑3](https://alphaxiv.org/abs/2611.09344)|
 |**2026-11-06**|**SUGARv2: Learning Diverse Visual Humanoid Loco-Manipulation Skills from Synthesized Interaction References**|Tianshu Wu et.al.|[2611.09266v1](http://arxiv.org/abs/2611.09266v1)|null|[αX↑18](https://alphaxiv.org/abs/2611.09266)|
 |**2026-11-06**|**RevoSim: Scalable Multimodal Tactile Simulation for Dexterous Manipulation**|Ke Zhang et.al.|[2611.08939v1](http://arxiv.org/abs/2611.08939v1)|null|[αX↑4](https://alphaxiv.org/abs/2611.08939)|
-|**2026-11-06**|**STRIDE: Learning Humanoid Locomotion in Minutes with Acceleration-Based Rewards**|Nico Bohlinger et.al.|[2611.08857v1](http://arxiv.org/abs/2611.08857v1)|null|[αX↑9](https://alphaxiv.org/abs/2611.08857)|
+|**2026-11-06**|**STRIDE: Learning Humanoid Locomotion in Minutes with Acceleration-Based Rewards**|Nico Bohlinger et.al.|[2611.08857v1](http://arxiv.org/abs/2611.08857v1)|null|[αX↑10](https://alphaxiv.org/abs/2611.08857)|
 |**2026-11-05**|**From Geometry to Function: A Multi-Task LiDAR Benchmark Dataset for Semantic and Functional Parsing of Urban Facades**|Abdiaziz Muse et.al.|[2611.08645v1](http://arxiv.org/abs/2611.08645v1)|[link](https://github.com/jijup/hfx3d-benchmark)|[αX↑5](https://alphaxiv.org/abs/2611.08645)|
 |**2026-11-05**|**4D Point Splatting for mmWave Radar Micro-Doppler Differentiable Rendering**|Adnan Armouti et.al.|[2611.08342v1](http://arxiv.org/abs/2611.08342v1)|null|[αX↑11](https://alphaxiv.org/abs/2611.08342)|
 |**2026-11-05**|**TactileLab: Sim-to-Real Dexterous Robot Manipulation with Efficient Shear-Sensitive Tactile Simulation**|Yijiong Lin et.al.|[2611.07881v1](http://arxiv.org/abs/2611.07881v1)|null|[αX↑18](https://alphaxiv.org/abs/2611.07881)|
@@ -93,7 +97,7 @@
 |**2026-10-30**|**FlowMoDE: Coarse-to-fine Flow Matching for Detail-aware Sim-to-Real Monocular Depth Estimation**|Liangjing Shao et.al.|[2610.41190v1](http://arxiv.org/abs/2610.41190v1)|null|[αX↑13](https://alphaxiv.org/abs/2610.41190)|
 |**2026-10-29**|**Frozen in Time: How a Physics Foundation Model Forgets Under Sim-to-Real Adaptation**|Haaris Mian et.al.|[2610.40857v1](http://arxiv.org/abs/2610.40857v1)|[link](https://github.com/haarisamian/walrus-forgetting-paper)|[αX↑6](https://alphaxiv.org/abs/2610.40857)|
 |**2026-10-29**|**The Athlete as a Scientist of One: Agentic Bayesian Experimental Design for Individualized Physiology from Consumer Wearables**|Behnam Moradi et.al.|[2610.40370v1](http://arxiv.org/abs/2610.40370v1)|null|[αX↑8](https://alphaxiv.org/abs/2610.40370)|
-|**2026-10-31**|**ScheduleGen: Demonstration Generation via Skill Scheduling for Multi-Arm Imitation Learning**|Neel Jawale et.al.|[2610.39429v2](http://arxiv.org/abs/2610.39429v2)|null|[αX↑32](https://alphaxiv.org/abs/2610.39429)|
+|**2026-10-31**|**ScheduleGen: Demonstration Generation via Skill Scheduling for Multi-Arm Imitation Learning**|Neel Jawale et.al.|[2610.39429v2](http://arxiv.org/abs/2610.39429v2)|null|[αX↑33](https://alphaxiv.org/abs/2610.39429)|
 |**2026-10-28**|**Catch It All!: Generalizable Dynamic Catching with a Dexterous Hand**|Arth Shukla et.al.|[2610.39044v1](http://arxiv.org/abs/2610.39044v1)|null|[αX↑21](https://alphaxiv.org/abs/2610.39044)|
 |**2026-10-28**|**Explore Where It Matters: Targeted Exploration for Efficient Rover Adaptation**|Jacob Levy et.al.|[2610.38657v1](http://arxiv.org/abs/2610.38657v1)|[link](https://github.com/CLeARoboticsLab/terra)|[αX↑16](https://alphaxiv.org/abs/2610.38657)|
 |**2026-10-30**|**SimRetract: Zero-Shot Sim-to-Real Robotic Assistance for Retractor Take-Over in Open Surgery**|Xucheng Wang et.al.|[2610.38234v2](http://arxiv.org/abs/2610.38234v2)|null|[αX↑8](https://alphaxiv.org/abs/2610.38234)|

@@ -1,9 +1,17 @@
 ## Embodied Navigation & Driving
 
-### Updated on 2026.11.25
+### Updated on 2026.11.26
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-11-25**|**Nav4Manip: From Navigation to Dexterous Mobile Manipulation through Co-Evolution**|Yusen Feng et.al.|[2611.34655v1](http://arxiv.org/abs/2611.34655v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.34655)|
+|**2026-11-25**|**Commit2Drive: Perception-Grounded Language Decisions as Commitments for Trajectory Planning in Vision-Language-Action Driving Models**|Zikai Zhang et.al.|[2611.34614v1](http://arxiv.org/abs/2611.34614v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34614)|
+|**2026-11-25**|**Compact Vision-Language Navigation in Continuous Environmentsvia On-Policy Training and Route-Bearing Output**|Reshad Ul Karim et.al.|[2611.34561v1](http://arxiv.org/abs/2611.34561v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34561)|
+|**2026-11-25**|**Recoverability policy editing for closed-loop safety in autonomous driving**|Yang Guan et.al.|[2611.34403v1](http://arxiv.org/abs/2611.34403v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34403)|
+|**2026-11-25**|**Embodied-VGGT: Preserving Reliable Local Geometry for Long-Sequence Reconstruction**|Yiheng Han et.al.|[2611.33964v1](http://arxiv.org/abs/2611.33964v1)|[link](https://github.com/Ang-Sheep/Embodied-VGGT)|[αX↑0](https://alphaxiv.org/abs/2611.33964)|
+|**2026-11-25**|**GeoTex: Geometry-as-Texture Encoding and History-Grounded 4D Occupancy Forecasting**|Shijun Guo et.al.|[2611.33693v1](http://arxiv.org/abs/2611.33693v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33693)|
+|**2026-11-25**|**Fine-Grained Ego-Vehicle Action Recognition from Driving Video**|Zhipeng Bao et.al.|[2611.33654v1](http://arxiv.org/abs/2611.33654v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33654)|
+|**2026-11-24**|**OnCue: Generating Safety-Critical Driving Scenarios under Occlusion with Temporal Control**|Kailang Ma et.al.|[2611.33439v1](http://arxiv.org/abs/2611.33439v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33439)|
 |**2026-11-24**|**Benchmarking Evidence Sufficiency in Vision-Language Models for Autonomous Driving**|Nhat Ha Nguyen et.al.|[2611.32964v1](http://arxiv.org/abs/2611.32964v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.32964)|
 |**2026-11-24**|**MemAnchorWorld: A Sparse World Model with Horizon-Conditioned Memory Retrieval for Autonomous Driving**|Xinyang Jia et.al.|[2611.32745v1](http://arxiv.org/abs/2611.32745v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.32745)|
 |**2026-11-24**|**GeoVLDrive: Geometry-Grounded Vision-Language Reasoning for Autonomous Driving**|JiaHui Huang et.al.|[2611.32510v1](http://arxiv.org/abs/2611.32510v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.32510)|
@@ -57,7 +65,7 @@
 |**2026-11-17**|**Fly as Instructed: Refining World-Action Policies for UAV Vision-Language Navigation**|Zhexuan Zhou et.al.|[2611.22883v1](http://arxiv.org/abs/2611.22883v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.22883)|
 |**2026-11-17**|**Learning Agent-Centric Vision-Language-Action World Models for Autonomous Driving**|Guoqing Wang et.al.|[2611.22880v1](http://arxiv.org/abs/2611.22880v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.22880)|
 |**2026-11-17**|**Making the World React Realistically: A Closed-Loop Interactive World Model for Autonomous Driving**|Jia Hu et.al.|[2611.22691v1](http://arxiv.org/abs/2611.22691v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.22691)|
-|**2026-11-17**|**AutoE2E: Don't speak - Language free end-to-end autonomy A Real-Time Driving Model for L2++ ADAS and L4 Robotaxis**|Muhammad Zain Khawaja et.al.|[2611.22374v1](http://arxiv.org/abs/2611.22374v1)|[link](https://github.com/autowarefoundation/auto_e2e(v1.0)|[αX↑3](https://alphaxiv.org/abs/2611.22374)|
+|**2026-11-25**|**AutoE2E: Don't speak - Language free end-to-end autonomy for L2++ ADAS and L4 Robotaxis**|Muhammad Zain Khawaja et.al.|[2611.22374v2](http://arxiv.org/abs/2611.22374v2)|[link](https://github.com/autowarefoundation/auto_e2e(v1.0)|[αX↑3](https://alphaxiv.org/abs/2611.22374)|
 |**2026-11-17**|**Beyond Episodic Recall: Experience-to-Knowledge Evolution for Lifelong Embodied Navigation**|Weitao An et.al.|[2611.22321v1](http://arxiv.org/abs/2611.22321v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.22321)|
 |**2026-11-17**|**FIRE-Drive: Feasibility-Informed Risk Evaluation for End-to-End Diffusion Planning**|Qifeng Xie et.al.|[2611.22297v1](http://arxiv.org/abs/2611.22297v1)|[link](https://github.com/Latte00/FIRE-drive)|[αX↑0](https://alphaxiv.org/abs/2611.22297)|
 |**2026-11-16**|**AR-WAM: efficient streaming world-action modeling for autonomous driving**|Baiting Luo et.al.|[2611.21851v1](http://arxiv.org/abs/2611.21851v1)|[link](https://github.com/OWNER/REPOSITORY)|[αX↑2](https://alphaxiv.org/abs/2611.21851)|

@@ -1,19 +1,19 @@
 ## Sim-to-Real
 
-### Updated on 2026.11.26
+### Updated on 2026.11.27
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
 |**2026-11-25**|**What a Drop Reveals: Sim-to-Real Material Estimation for Deformable Objects from Video**|Ziyue Peng et.al.|[2611.34894v1](http://arxiv.org/abs/2611.34894v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34894)|
-|**2026-11-25**|**FineDex: Bridging Fine-Grained Human-Object Interaction Generation to Dexterous Humanoid Manipulation**|Yujia Zeng et.al.|[2611.34884v1](http://arxiv.org/abs/2611.34884v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34884)|
-|**2026-11-25**|**Riding the Wave: Sim-to-Real Humanoid Control on Elastic Terrain**|Yinglei Zhu et.al.|[2611.34569v1](http://arxiv.org/abs/2611.34569v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34569)|
+|**2026-11-25**|**FineDex: Bridging Fine-Grained Human-Object Interaction Generation to Dexterous Humanoid Manipulation**|Yujia Zeng et.al.|[2611.34884v1](http://arxiv.org/abs/2611.34884v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.34884)|
+|**2026-11-25**|**Riding the Wave: Sim-to-Real Humanoid Control on Elastic Terrain**|Yinglei Zhu et.al.|[2611.34569v1](http://arxiv.org/abs/2611.34569v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.34569)|
 |**2026-11-25**|**Lab2Sim: Agentic Generation of Interactive Laboratory Equipment from Operation Videos**|Yuxin Lin et.al.|[2611.33705v1](http://arxiv.org/abs/2611.33705v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33705)|
 |**2026-11-24**|**A 3D Simulator for Passive SPAD Imaging**|Elia Mergaert et.al.|[2611.33498v1](http://arxiv.org/abs/2611.33498v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33498)|
 |**2026-11-24**|**At the Limit: Autonomous Vehicle Drifting under Generative Policies**|Jie He et.al.|[2611.33040v1](http://arxiv.org/abs/2611.33040v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33040)|
 |**2026-11-24**|**AirLeg: A Robust and Accurate Self-Supervised Visual-Inertial-Leg SLAM System**|Kuan Xu et.al.|[2611.32523v1](http://arxiv.org/abs/2611.32523v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.32523)|
 |**2026-11-23**|**One Phase Is Enough: Sim-to-Real Transfer with Direct Visual Reinforcement Learning**|John Marangola et.al.|[2611.31588v1](http://arxiv.org/abs/2611.31588v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.31588)|
-|**2026-11-23**|**Real2Worlds2Real: Scaling Self-Improving Agentic Real2Sim2Real for Robot Manipulation**|Jinzhong Gu et.al.|[2611.31098v1](http://arxiv.org/abs/2611.31098v1)|null|[αX↑3](https://alphaxiv.org/abs/2611.31098)|
-|**2026-11-23**|**RoboUniverse-10K: Toward the Scaling Era of Agentic Robotics via Real-to-Sim Environments**|Jinkun Liu et.al.|[2611.31002v1](http://arxiv.org/abs/2611.31002v1)|null|[αX↑37](https://alphaxiv.org/abs/2611.31002)|
+|**2026-11-23**|**Real2Worlds2Real: Scaling Self-Improving Agentic Real2Sim2Real for Robot Manipulation**|Jinzhong Gu et.al.|[2611.31098v1](http://arxiv.org/abs/2611.31098v1)|null|[αX↑10](https://alphaxiv.org/abs/2611.31098)|
+|**2026-11-23**|**RoboUniverse-10K: Toward the Scaling Era of Agentic Robotics via Real-to-Sim Environments**|Jinkun Liu et.al.|[2611.31002v1](http://arxiv.org/abs/2611.31002v1)|null|[αX↑53](https://alphaxiv.org/abs/2611.31002)|
 |**2026-11-23**|**Bridging Continuous-Time MAPF and Industrial AGV Fleet Coordination with Lazy Priority-Based Search**|Federico Signorile et.al.|[2611.30874v1](http://arxiv.org/abs/2611.30874v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.30874)|
 |**2026-11-23**|**Part-wise Certified State Estimation of Articulated Objects from Passive Stereo**|Orion Desbonnet et.al.|[2611.30646v1](http://arxiv.org/abs/2611.30646v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.30646)|
 |**2026-11-23**|**FASCIA: Seeing Beneath the Surface with Queryable, Personalized Anatomy in Any Pose**|R. James Cotton et.al.|[2611.29970v1](http://arxiv.org/abs/2611.29970v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.29970)|
@@ -59,7 +59,7 @@
 |**2026-11-15**|**Score-Based Stochastic Closure Modeling via Offline Indirect Learning and Online Data Assimilation**|Xinghao Dong et.al.|[2611.19676v1](http://arxiv.org/abs/2611.19676v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.19676)|
 |**2026-11-14**|**Towards Probabilistically Safe Reinforcement Learning: Theory and Deployment on Humanoid and Aerial Robots**|Pol Mestres et.al.|[2611.19616v1](http://arxiv.org/abs/2611.19616v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.19616)|
 |**2026-11-14**|**Residual Reinforcement Learning for Visual Servo Control with Zero-Shot Sim-to-Real Transfer**|Mahdi Nobar et.al.|[2611.19318v1](http://arxiv.org/abs/2611.19318v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.19318)|
-|**2026-11-14**|**Ego2Sim2Humanoid: Agentic Real-to-Sim for Learning Loco-Manipulation VLAs without Robot Demonstrations**|Chen Liu et.al.|[2611.19196v1](http://arxiv.org/abs/2611.19196v1)|null|[αX↑4](https://alphaxiv.org/abs/2611.19196)|
+|**2026-11-14**|**Ego2Sim2Humanoid: Agentic Real-to-Sim for Learning Loco-Manipulation VLAs without Robot Demonstrations**|Chen Liu et.al.|[2611.19196v1](http://arxiv.org/abs/2611.19196v1)|null|[αX↑5](https://alphaxiv.org/abs/2611.19196)|
 |**2026-11-14**|**Leaning Over to Reach Far-Away Objects**|Allen Devaraj et.al.|[2611.19100v1](http://arxiv.org/abs/2611.19100v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.19100)|
 |**2026-11-13**|**Large language models as oncology world models**|Julien Vibert et.al.|[2611.18994v1](http://arxiv.org/abs/2611.18994v1)|[link](https://github.com/julienvibert/llm-oncology-world-models)|[αX↑0](https://alphaxiv.org/abs/2611.18994)|
 |**2026-11-13**|**TMA: Sim-to-Real Forceful Humanoid Manipulation via Tactile-Driven Motor Adaptation**|Yiting Chen et.al.|[2611.18976v1](http://arxiv.org/abs/2611.18976v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.18976)|
@@ -72,9 +72,9 @@
 |**2026-11-12**|**Memory-Efficient Parallel Policy Learning for Collapse-Reactive Retreat via Hybrid Terrain Modeling**|Yuki Kadokawa et.al.|[2611.16337v1](http://arxiv.org/abs/2611.16337v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.16337)|
 |**2026-11-11**|**Embedded Sim-to-Real Visual Servoing: Learned Reaching and Force-Guided Placement**|Dezhi Sun et.al.|[2611.15658v1](http://arxiv.org/abs/2611.15658v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.15658)|
 |**2026-11-11**|**Reading the Table: Sim-to-Real Game State Detection for the Chef's Hat Card Game**|Connor Gäde et.al.|[2611.15524v1](http://arxiv.org/abs/2611.15524v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.15524)|
-|**2026-11-11**|**MiniPose: Miniature-Based Real Data Collection for 6D Pose Estimation of Large Industrial Pipe Segments**|Hyunjun Kim et.al.|[2611.15066v1](http://arxiv.org/abs/2611.15066v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.15066)|
+|**2026-11-11**|**MiniPose: Miniature-Based Real Data Collection for 6D Pose Estimation of Large Industrial Pipe Segments**|Hyunjun Kim et.al.|[2611.15066v1](http://arxiv.org/abs/2611.15066v1)|null|[αX↑5](https://alphaxiv.org/abs/2611.15066)|
 |**2026-11-11**|**Genie Sim Benchmark: Real-to-Sim Fidelity and Evaluation**|Di Yang et.al.|[2611.15020v1](http://arxiv.org/abs/2611.15020v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.15020)|
-|**2026-11-10**|**DeRep: Learning Depth Representations for End-to-End Navigation in Cluttered Environments**|Hanyu Jin et.al.|[2611.13499v1](http://arxiv.org/abs/2611.13499v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.13499)|
+|**2026-11-10**|**DeRep: Learning Depth Representations for End-to-End Navigation in Cluttered Environments**|Hanyu Jin et.al.|[2611.13499v1](http://arxiv.org/abs/2611.13499v1)|null|[αX↑3](https://alphaxiv.org/abs/2611.13499)|
 |**2026-11-09**|**WanderBench: Can World Models Explore Dynamic Worlds from Video?**|Yuhang Chen et.al.|[2611.12557v1](http://arxiv.org/abs/2611.12557v1)|null|[αX↑3](https://alphaxiv.org/abs/2611.12557)|
 |**2026-11-08**|**Feel My Focus: Gaze-Triggered Digital Twin Creation for Remote Collaboration**|Shih-Yu Ma et.al.|[2611.11640v1](http://arxiv.org/abs/2611.11640v1)|null|[αX↑5](https://alphaxiv.org/abs/2611.11640)|
 |**2026-11-13**|**From Festival Video to the Stage: A Sim-to-Real Ladder for Long-Horizon Expressive Whole-Body Dance on a Commercial Humanoid**|Hesham Shehata et.al.|[2611.11127v2](http://arxiv.org/abs/2611.11127v2)|null|[αX↑4](https://alphaxiv.org/abs/2611.11127)|

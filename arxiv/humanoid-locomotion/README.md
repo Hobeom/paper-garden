@@ -1,14 +1,14 @@
 ## Humanoid & Locomotion
 
-### Updated on 2026.11.26
+### Updated on 2026.11.27
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-11-25**|**FineDex: Bridging Fine-Grained Human-Object Interaction Generation to Dexterous Humanoid Manipulation**|Yujia Zeng et.al.|[2611.34884v1](http://arxiv.org/abs/2611.34884v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34884)|
+|**2026-11-25**|**FineDex: Bridging Fine-Grained Human-Object Interaction Generation to Dexterous Humanoid Manipulation**|Yujia Zeng et.al.|[2611.34884v1](http://arxiv.org/abs/2611.34884v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.34884)|
 |**2026-11-25**|**$μ$ MPC: Microsecond-Scale Nonlinear and World Model Control from Edge to GPU via Koopman-Linearized Precompilation**|Devesh Nath et.al.|[2611.34597v1](http://arxiv.org/abs/2611.34597v1)|[link](https://github.com/trustworthyrobotics/microMPC)|[αX↑0](https://alphaxiv.org/abs/2611.34597)|
-|**2026-11-25**|**Riding the Wave: Sim-to-Real Humanoid Control on Elastic Terrain**|Yinglei Zhu et.al.|[2611.34569v1](http://arxiv.org/abs/2611.34569v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34569)|
+|**2026-11-25**|**Riding the Wave: Sim-to-Real Humanoid Control on Elastic Terrain**|Yinglei Zhu et.al.|[2611.34569v1](http://arxiv.org/abs/2611.34569v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.34569)|
 |**2026-11-25**|**AGLR: Attribute-Guided Latent Refinement for Fine-Grained Humanoid Motion Generation and Editing**|Shuai Yuan et.al.|[2611.34519v1](http://arxiv.org/abs/2611.34519v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34519)|
-|**2026-11-25**|**HoloBrain-0.5 Technical Report**|Xuewu Lin et.al.|[2611.34449v1](http://arxiv.org/abs/2611.34449v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34449)|
+|**2026-11-25**|**HoloBrain-0.5 Technical Report**|Xuewu Lin et.al.|[2611.34449v1](http://arxiv.org/abs/2611.34449v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.34449)|
 |**2026-11-25**|**Autonomous Vineyard Exploration using LiDAR Sensing: A Field Evaluation on Legged-Wheeled Quadruped Robot**|Spencer Sweeney et.al.|[2611.34246v1](http://arxiv.org/abs/2611.34246v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.34246)|
 |**2026-11-25**|**CoTAMP: Cooperative Task and Motion Planning for Quadruped Robots with Large Language Models**|Woojin Kim et.al.|[2611.33911v1](http://arxiv.org/abs/2611.33911v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33911)|
 |**2026-11-25**|**Learning a Whole-Body Pivot-Walking Gait for Heavy-Box Transport with a Humanoid**|Rikuto Hidaka et.al.|[2611.33828v1](http://arxiv.org/abs/2611.33828v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33828)|
@@ -35,8 +35,8 @@
 |**2026-11-20**|**What Must a Model Tell a Planner? Outcome Interfaces for Risk-Aware Planning After Robot Damage**|Hassan Iqbal et.al.|[2611.27939v1](http://arxiv.org/abs/2611.27939v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.27939)|
 |**2026-11-20**|**Humanoid robots for safety-critical electrical switching: A perception-informed runtime constraint filter**|Songyang Liu et.al.|[2611.27845v1](http://arxiv.org/abs/2611.27845v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.27845)|
 |**2026-11-20**|**Trust What Repeats: Capped World-Model Policy Gradients for Humanoid Motion Tracking**|Xuzhe Dang et.al.|[2611.27648v1](http://arxiv.org/abs/2611.27648v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.27648)|
-|**2026-11-20**|**S-BFM: A Behavioral Foundation Model for Humanoid Control from Sparse Spatiotemporal Goals**|Kun Yang et.al.|[2611.27552v1](http://arxiv.org/abs/2611.27552v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.27552)|
-|**2026-11-20**|**NavRSI: Recursive Harness Self-Improvement for Vision-and-Language Navigation**|Guangzhao Dai et.al.|[2611.27499v1](http://arxiv.org/abs/2611.27499v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.27499)|
+|**2026-11-20**|**S-BFM: A Behavioral Foundation Model for Humanoid Control from Sparse Spatiotemporal Goals**|Kun Yang et.al.|[2611.27552v1](http://arxiv.org/abs/2611.27552v1)|null|[αX↑3](https://alphaxiv.org/abs/2611.27552)|
+|**2026-11-20**|**NavRSI: Recursive Harness Self-Improvement for Vision-and-Language Navigation**|Guangzhao Dai et.al.|[2611.27499v1](http://arxiv.org/abs/2611.27499v1)|null|[αX↑3](https://alphaxiv.org/abs/2611.27499)|
 |**2026-11-20**|**AnyBodyCodec: A Shared Native Interface for Body-Model Conversion, Extension, and Humanoid Control**|Qianxing Li et.al.|[2611.27397v1](http://arxiv.org/abs/2611.27397v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.27397)|
 |**2026-11-20**|**Latent Jacobian Steer: Eliciting Contact-Rich Out-of-Distribution Behaviors from Pretrained Humanoid Controllers**|S K Swaminathan et.al.|[2611.27338v1](http://arxiv.org/abs/2611.27338v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.27338)|
 |**2026-11-24**|**HumanoidPose: Monocular 3D Pose Estimation for Humanoid Robots**|Jinlin Gan et.al.|[2611.27181v2](http://arxiv.org/abs/2611.27181v2)|null|[αX↑1](https://alphaxiv.org/abs/2611.27181)|
@@ -58,7 +58,7 @@
 |**2026-11-18**|**SemPhys: Semantic-Physical Co-Learning for Humanoid Motion Generation via Differentiable World Models**|Zejian Kang et.al.|[2611.24074v1](http://arxiv.org/abs/2611.24074v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.24074)|
 |**2026-11-18**|**WAM-Policy: World Action Models with On-Policy Distillation for Quadrupedal Loco-Manipulation**|Junlin Long et.al.|[2611.24011v1](http://arxiv.org/abs/2611.24011v1)|[link](https://github.com/AIGeeksGroup/WAM-Policy)|[🤗👍20](https://huggingface.co/papers/2611.24011) [αX↑0](https://alphaxiv.org/abs/2611.24011)|
 |**2026-11-18**|**Effects of Locomotion and Viewpoint Control on Immersive Robot Telepresence for Navigation and Inspection**|Ammaar Zaman et.al.|[2611.23939v1](http://arxiv.org/abs/2611.23939v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.23939)|
-|**2026-11-18**|**ReLoco: Unified Humanoid Locomotion and Fall Recovery via Behavior-Conditioned Motion Priors**|Lequn Fu et.al.|[2611.23916v1](http://arxiv.org/abs/2611.23916v1)|null|[αX↑3](https://alphaxiv.org/abs/2611.23916)|
+|**2026-11-18**|**ReLoco: Unified Humanoid Locomotion and Fall Recovery via Behavior-Conditioned Motion Priors**|Lequn Fu et.al.|[2611.23916v1](http://arxiv.org/abs/2611.23916v1)|null|[αX↑5](https://alphaxiv.org/abs/2611.23916)|
 |**2026-11-17**|**Auditing a Learned Simulator for Legged Robots: The Robotic World Model on ANYmal D**|Joyjeet Singh et.al.|[2611.23118v1](http://arxiv.org/abs/2611.23118v1)|[link](https://github.com/joyjeet-singh/rwm)|[αX↑0](https://alphaxiv.org/abs/2611.23118)|
 |**2026-11-17**|**CADENCE: Learning Acyclic Gaits for Model-Based Quadruped Locomotion**|Owen Sullivan et.al.|[2611.23102v1](http://arxiv.org/abs/2611.23102v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.23102)|
 |**2026-11-17**|**Body Schema Policy: Body as the Vision-Action Interface for Efficient Robot Loco-Manipulation**|Lechen Zhang et.al.|[2611.22713v1](http://arxiv.org/abs/2611.22713v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.22713)|

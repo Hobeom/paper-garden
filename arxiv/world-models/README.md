@@ -1,6 +1,6 @@
 ## World Models
 
-### Updated on 2026.11.27
+### Updated on 2026.11.28
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -39,20 +39,20 @@
 |**2026-11-24**|**Fast Muscle-Driven Whole-Body Motion Tracking with a Differentiable World Model**|Kaibo He et.al.|[2611.33460v1](http://arxiv.org/abs/2611.33460v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33460)|
 |**2026-11-24**|**An Adversarial Multi-Agent Pursuit Game for Locomotor Agility Pretraining**|Nathan A. C. Hogg et.al.|[2611.33407v1](http://arxiv.org/abs/2611.33407v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33407)|
 |**2026-11-24**|**DreamTour: Layout Steering for Training-Free World Exploration**|Srikumar Sastry et.al.|[2611.33378v1](http://arxiv.org/abs/2611.33378v1)|[link](https://github.com/dreamtourls/DreamTour)|[αX↑0](https://alphaxiv.org/abs/2611.33378)|
-|**2026-11-24**|**iWAM: Efficient Action Prediction from World Models without Explicit Future Prediction**|Vansh Kapoor et.al.|[2611.33141v1](http://arxiv.org/abs/2611.33141v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.33141)|
+|**2026-11-24**|**iWAM: Efficient Action Prediction from World Models without Explicit Future Prediction**|Vansh Kapoor et.al.|[2611.33141v1](http://arxiv.org/abs/2611.33141v1)|null|[αX↑3](https://alphaxiv.org/abs/2611.33141)|
 |**2026-11-24**|**Hybrid AI for AI-Native RAN Control: A Functional Perspective**|Sabrine Aroua et.al.|[2611.33035v1](http://arxiv.org/abs/2611.33035v1)|[link](https://github.com/pegahani/Hybrid-AI-RAN-Survey)|[αX↑0](https://alphaxiv.org/abs/2611.33035)|
-|**2026-11-24**|**DynaMimic: A Physics-Informed World Model for Humanoid Motion Tracking**|Chaoyue Xing et.al.|[2611.32944v1](http://arxiv.org/abs/2611.32944v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.32944)|
+|**2026-11-24**|**DynaMimic: A Physics-Informed World Model for Humanoid Motion Tracking**|Chaoyue Xing et.al.|[2611.32944v1](http://arxiv.org/abs/2611.32944v1)|null|[αX↑3](https://alphaxiv.org/abs/2611.32944)|
 |**2026-11-24**|**Motion Conditioned World Modeling for Embodied Visual Tracking**|Jiahao Zhang et.al.|[2611.32900v1](http://arxiv.org/abs/2611.32900v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.32900)|
-|**2026-11-25**|**EEG-World: Context-Conditioned Dynamics of the Watching Brain**|Junxiang Zhang et.al.|[2611.32825v2](http://arxiv.org/abs/2611.32825v2)|null|[αX↑0](https://alphaxiv.org/abs/2611.32825)|
+|**2026-11-25**|**EEG-World: Context-Conditioned Dynamics of the Watching Brain**|Junxiang Zhang et.al.|[2611.32825v2](http://arxiv.org/abs/2611.32825v2)|null|[αX↑1](https://alphaxiv.org/abs/2611.32825)|
 |**2026-11-24**|**Interactive Neural Computers**|Ross Murphy et.al.|[2611.32811v1](http://arxiv.org/abs/2611.32811v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.32811)|
-|**2026-11-24**|**Simulator-as-Proxy World Model for Robot Manipulation**|Tingting Liao et.al.|[2611.32786v1](http://arxiv.org/abs/2611.32786v1)|[link](https://github.com/TingtingLiao/SimPWM)|[🤗👍1](https://huggingface.co/papers/2611.32786) [αX↑1](https://alphaxiv.org/abs/2611.32786)|
+|**2026-11-24**|**Simulator-as-Proxy World Model for Robot Manipulation**|Tingting Liao et.al.|[2611.32786v1](http://arxiv.org/abs/2611.32786v1)|[link](https://github.com/TingtingLiao/SimPWM)|[🤗👍1](https://huggingface.co/papers/2611.32786) [αX↑3](https://alphaxiv.org/abs/2611.32786)|
 |**2026-11-25**|**Learning World Models through Contrastive Identification of Actions**|Hayeong Lee et.al.|[2611.32776v2](http://arxiv.org/abs/2611.32776v2)|null|[αX↑0](https://alphaxiv.org/abs/2611.32776)|
 |**2026-11-24**|**MemAnchorWorld: A Sparse World Model with Horizon-Conditioned Memory Retrieval for Autonomous Driving**|Xinyang Jia et.al.|[2611.32745v1](http://arxiv.org/abs/2611.32745v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.32745)|
 |**2026-11-24**|**Support2Sim: Visually Faithful Real2Sim with Stable Object Supports**|Samarth Chopra et.al.|[2611.32727v1](http://arxiv.org/abs/2611.32727v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.32727)|
 |**2026-11-24**|**DeCoNav-Act: Benchmarking Collective Physical Capability in Multi-Robot Mobile Manipulation**|Yunzi Wu et.al.|[2611.32683v1](http://arxiv.org/abs/2611.32683v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.32683)|
 |**2026-11-25**|**DiffGR00T: Execution-Aware Differentiable Training for Humanoid Whole-Body Vision-Language-Action Models**|Sichen Wu et.al.|[2611.32665v2](http://arxiv.org/abs/2611.32665v2)|null|[αX↑1](https://alphaxiv.org/abs/2611.32665)|
 |**2026-11-24**|**Economic World Model**|Qirui Mi et.al.|[2611.32663v1](http://arxiv.org/abs/2611.32663v1)|[link](https://github.com/FreedomIntelligence/Awesome-Economic-World-Models)|[αX↑0](https://alphaxiv.org/abs/2611.32663)|
-|**2026-11-24**|**DexWAC: A Unified World-Actor-Critic Model for Dexterous Robot Manipulation**|Hongjia Liu et.al.|[2611.32654v1](http://arxiv.org/abs/2611.32654v1)|null|[αX↑6](https://alphaxiv.org/abs/2611.32654)|
+|**2026-11-24**|**DexWAC: A Unified World-Actor-Critic Model for Dexterous Robot Manipulation**|Hongjia Liu et.al.|[2611.32654v1](http://arxiv.org/abs/2611.32654v1)|null|[αX↑7](https://alphaxiv.org/abs/2611.32654)|
 |**2026-11-24**|**CodeWAM: A Code World Action Model for End-to-End Autonomous Driving**|Zhisheng Chen et.al.|[2611.32483v1](http://arxiv.org/abs/2611.32483v1)|[link](https://github.com/Zhisheng-researcher/CodeWAM)|[αX↑0](https://alphaxiv.org/abs/2611.32483)|
 |**2026-11-24**|**OmniPersist: Persistent Dynamic World Modeling via Coupled Panoramic Evolution**|Zhilu Zhang et.al.|[2611.32473v1](http://arxiv.org/abs/2611.32473v1)|[link](https://github.com/cszhilu1998/OmniPersist)|[🤗👍2](https://huggingface.co/papers/2611.32473) [αX↑1](https://alphaxiv.org/abs/2611.32473)|
 |**2026-11-24**|**A Mesh to Remember: Persistent Appearance for Interactive Video Worlds**|Joonghyuk Shin et.al.|[2611.32445v1](http://arxiv.org/abs/2611.32445v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.32445)|
@@ -64,7 +64,7 @@
 |**2026-11-24**|**Do Occupancy World Models Really Follow Actions?**|Jongseong Bae et.al.|[2611.32029v1](http://arxiv.org/abs/2611.32029v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.32029)|
 |**2026-11-24**|**Learning Agent States for Latent Action Modeling**|Shaoan Xie et.al.|[2611.32017v1](http://arxiv.org/abs/2611.32017v1)|[link](https://github.com/Mid-Push/Agent-State-LAM)|[αX↑0](https://alphaxiv.org/abs/2611.32017)|
 |**2026-11-24**|**ADE: A Zero-Training Unlearning Method for Latent World Models**|Sirui He et.al.|[2611.31998v1](http://arxiv.org/abs/2611.31998v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.31998)|
-|**2026-11-24**|**Sounding the Black Box: Online Training of Embedded Neural Networks in Forward-Only Physical Simulators**|Ruiqi Shu et.al.|[2611.31964v1](http://arxiv.org/abs/2611.31964v1)|[link](https://github.com/ChiyodaMomo01/FORGE)|[αX↑0](https://alphaxiv.org/abs/2611.31964)|
+|**2026-11-24**|**Sounding the Black Box: Online Training of Embedded Neural Networks in Forward-Only Physical Simulators**|Ruiqi Shu et.al.|[2611.31964v1](http://arxiv.org/abs/2611.31964v1)|[link](https://github.com/ChiyodaMomo01/FORGE)|[αX↑1](https://alphaxiv.org/abs/2611.31964)|
 |**2026-11-24**|**SPAR: Self-Referenced World-Model Rewards for Physical Alignment in Video Generation**|Junyi Zhang et.al.|[2611.31958v1](http://arxiv.org/abs/2611.31958v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.31958)|
 |**2026-11-24**|**DraftKV: Protecting Persistent Worlds through Hierarchical Streaming Retrieval**|Xiaoling Zhou et.al.|[2611.31944v1](http://arxiv.org/abs/2611.31944v1)|[link](https://github.com/TillyEndless/DraftKV)|[αX↑0](https://alphaxiv.org/abs/2611.31944)|
 |**2026-11-24**|**ReJEPA: Bounded Predictive Regulation for Latent World Models**|Fangzhou Lin et.al.|[2611.31910v1](http://arxiv.org/abs/2611.31910v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.31910)|

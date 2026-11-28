@@ -1,6 +1,6 @@
 ## Embodied Navigation & Driving
 
-### Updated on 2026.11.27
+### Updated on 2026.11.28
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -12,9 +12,9 @@
 |**2026-11-25**|**GeoTex: Geometry-as-Texture Encoding and History-Grounded 4D Occupancy Forecasting**|Shijun Guo et.al.|[2611.33693v1](http://arxiv.org/abs/2611.33693v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33693)|
 |**2026-11-25**|**Fine-Grained Ego-Vehicle Action Recognition from Driving Video**|Zhipeng Bao et.al.|[2611.33654v1](http://arxiv.org/abs/2611.33654v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33654)|
 |**2026-11-24**|**OnCue: Generating Safety-Critical Driving Scenarios under Occlusion with Temporal Control**|Kailang Ma et.al.|[2611.33439v1](http://arxiv.org/abs/2611.33439v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.33439)|
-|**2026-11-24**|**Benchmarking Evidence Sufficiency in Vision-Language Models for Autonomous Driving**|Nhat Ha Nguyen et.al.|[2611.32964v1](http://arxiv.org/abs/2611.32964v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.32964)|
+|**2026-11-24**|**Benchmarking Evidence Sufficiency in Vision-Language Models for Autonomous Driving**|Nhat Ha Nguyen et.al.|[2611.32964v1](http://arxiv.org/abs/2611.32964v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.32964)|
 |**2026-11-24**|**MemAnchorWorld: A Sparse World Model with Horizon-Conditioned Memory Retrieval for Autonomous Driving**|Xinyang Jia et.al.|[2611.32745v1](http://arxiv.org/abs/2611.32745v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.32745)|
-|**2026-11-24**|**GeoVLDrive: Geometry-Grounded Vision-Language Reasoning for Autonomous Driving**|JiaHui Huang et.al.|[2611.32510v1](http://arxiv.org/abs/2611.32510v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.32510)|
+|**2026-11-24**|**GeoVLDrive: Geometry-Grounded Vision-Language Reasoning for Autonomous Driving**|JiaHui Huang et.al.|[2611.32510v1](http://arxiv.org/abs/2611.32510v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.32510)|
 |**2026-11-24**|**CodeWAM: A Code World Action Model for End-to-End Autonomous Driving**|Zhisheng Chen et.al.|[2611.32483v1](http://arxiv.org/abs/2611.32483v1)|[link](https://github.com/Zhisheng-researcher/CodeWAM)|[αX↑0](https://alphaxiv.org/abs/2611.32483)|
 |**2026-11-24**|**OmniPersist: Persistent Dynamic World Modeling via Coupled Panoramic Evolution**|Zhilu Zhang et.al.|[2611.32473v1](http://arxiv.org/abs/2611.32473v1)|[link](https://github.com/cszhilu1998/OmniPersist)|[🤗👍2](https://huggingface.co/papers/2611.32473) [αX↑1](https://alphaxiv.org/abs/2611.32473)|
 |**2026-11-24**|**Verify then Steer: Progress Hallucination-Aware Recovery for Continuous Vision-and-Language Navigation**|Jiewen Hou et.al.|[2611.32400v1](http://arxiv.org/abs/2611.32400v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.32400)|
@@ -49,7 +49,7 @@
 |**2026-11-19**|**FastRoverVLA: Fast Vision-Language-Action Execution for Off-Road Autonomous Driving**|Changtao Zhao et.al.|[2611.26242v1](http://arxiv.org/abs/2611.26242v1)|[link](https://github.com/ADEPT-ORG/FastRoverVLA)|[αX↑1](https://alphaxiv.org/abs/2611.26242)|
 |**2026-11-19**|**PAD: Policy-Aware Data Valuation for Autonomous Driving**|Chengkai Xu et.al.|[2611.25604v1](http://arxiv.org/abs/2611.25604v1)|[link](https://github.com/PerfectXu88/PAD)|[🤗👍3](https://huggingface.co/papers/2611.25604) [αX↑2](https://alphaxiv.org/abs/2611.25604)|
 |**2026-11-19**|**Cognitive-Horizon Action Chunking: Memory-Guided Adaptive Reasoning for Embodied Navigation**|Weile Gong et.al.|[2611.25587v1](http://arxiv.org/abs/2611.25587v1)|[link](https://github.com/phare111/chac)|[αX↑1](https://alphaxiv.org/abs/2611.25587)|
-|**2026-11-19**|**TuringPAI: A Foundation for On-Device Physical AI**|Qiman Wu et.al.|[2611.25474v1](http://arxiv.org/abs/2611.25474v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.25474)|
+|**2026-11-19**|**TuringPAI: A Foundation for On-Device Physical AI**|Qiman Wu et.al.|[2611.25474v1](http://arxiv.org/abs/2611.25474v1)|null|[αX↑2](https://alphaxiv.org/abs/2611.25474)|
 |**2026-11-18**|**Learning to Interact in Multi-Agent Self-Play for Controllable Autonomous Driving Scenario Generation**|Beyazit Yalcinkaya et.al.|[2611.24876v1](http://arxiv.org/abs/2611.24876v1)|null|[αX↑0](https://alphaxiv.org/abs/2611.24876)|
 |**2026-11-18**|**Does the Action Matter? Probing Action-Conditioned Semantic Forecasting as a World Model for Autonomous Driving**|Binay Kumar Singh et.al.|[2611.24840v1](http://arxiv.org/abs/2611.24840v1)|[link](https://github.com/binayksingh/does-action-matter)|[αX↑1](https://alphaxiv.org/abs/2611.24840)|
 |**2026-11-18**|**DRIFT: Detachable Reasoning for Runtime-Flexible and Efficient End-to-End Driving**|Emad Aghajanzadeh et.al.|[2611.24719v1](http://arxiv.org/abs/2611.24719v1)|null|[αX↑1](https://alphaxiv.org/abs/2611.24719)|
